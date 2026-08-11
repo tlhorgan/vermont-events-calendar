@@ -15,8 +15,20 @@ OUTPUT = Path('vermont-events.ics')
 ARTS_ICS = 'https://www.vermontartscouncil.org/arts-calendar/?ical=1'
 VERMONT_COM = 'https://vermont.com/calendar/'
 VERMONT_PUBLIC = 'https://www.vermontpublic.org/vermont-events-calendar'
-HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; VermontEventsCalendar/1.0)'}
-MONTHS = 'January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec'
+HEADERS = {
+    'User-Agent': (
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
+        'AppleWebKit/537.36 (KHTML, like Gecko) '
+        'Chrome/142.0.0.0 Safari/537.36'
+    ),
+    'Accept': (
+        'text/html,application/xhtml+xml,application/xml;q=0.9,'
+        'image/avif,image/webp,image/apng,*/*;q=0.8'
+    ),
+    'Accept-Language': 'en-US,en;q=0.9',
+    'Cache-Control': 'no-cache',
+    'Pragma': 'no-cache',
+}MONTHS = 'January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec'
 
 
 def clean(v):
@@ -98,8 +110,23 @@ def parse_json_ld(soup, source, fallback_url):
 def fetch_arts():
     url = 'https://www.vermontartscouncil.org/arts-calendar/'
 
-    html = get(url).text
+def fetch_arts():
+    url = 'https://www.vermontartscouncil.org/arts-calendar/'
+
+    arts_headers = dict(HEADERS)
+    arts_headers['Referer'] = 'https://www.vermontartscouncil.org/'
+
+    r = requests.get(
+        url,
+        headers=arts_headers,
+        timeout=60
+    )
+    r.raise_for_status()
+
+    html = r.text
     soup = BeautifulSoup(html, 'html.parser')
+
+    # keep the rest of your existing fetch_arts() code here
 
     out = []
 
