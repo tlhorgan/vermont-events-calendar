@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Akhil Reed Amar on Birth Equality and the US Constitution
 DTSTART:20260812T180000
 DTEND:20260812T193000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:f00c7af979217ade4001563792cf57@vermont-events
 DESCRIPTION:Akhil Reed Amar on Birth Equality and the US Constitution<br/>
  Wednesday\, August 12th<br/>6:00 pm - 7:30 pm<br/><br/>Renowned constituti
@@ -35,7 +35,7 @@ SUMMARY:Art Amplified featuring Troy Millette and the Fire Below with Coll
  in Hagood
 DTSTART:20260812T170000
 DTEND:20260812T200000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:d2c914327ddb0fefd152166fcf14a6@vermont-events
 DESCRIPTION:5 PM: A relative newcomer to the Vermont nightlife scene\, Bur
  lington-based vinyl DJ Collin Hagood is inspired by the days of early MTV 
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:Aug 12 | Eye on the Sky Stargazing Party at Billings Farm
 DTSTART:20260812T183000
 DTEND:20260812T220000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:ca54222d20c5407609b0f95c0af0c3@vermont-events
 DESCRIPTION:<a href="https://www.vermontpublic.org/people/mark-breen" data
  -cms-id="00000179-aec2-d524-a77b-bfeabd2f00d3" data-cms-href="https://www.
@@ -482,7 +482,7 @@ BEGIN:VEVENT
 SUMMARY:DINO FEST at ECHO
 DTSTART:20260812T100000
 DTEND:20260812T150000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:1f9784629b30273c71b9cc531a73f7@vermont-events
 DESCRIPTION:Roar into a day packed with all things dinosaurs! Discover how
   these incredible creatures may have lived\, from their daily habits to th
@@ -501,7 +501,7 @@ BEGIN:VEVENT
 SUMMARY:Fletcher Free Library Book Discussion Group: The Wilderness
 DTSTART:20260812T183000
 DTEND:20260812T203000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:045f62ce41955ac047e2740a12fd41@vermont-events
 DESCRIPTION:Join other readers at this virtual discussion of The Wildernes
  s by Angela Flournoy.<br/><br/>Contact: Barbara Shatara at bshatara@burlin
@@ -514,7 +514,7 @@ BEGIN:VEVENT
 SUMMARY:NXT Rockumentary Film Series
 DTSTART:20260812T190000
 DTEND:20260812T210000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:5b106ef7d5be2f712951a60b8b57ae@vermont-events
 DESCRIPTION:Join us for the next installment of the NXT Rockumentary Film 
  Series. <br/><br/>This acclaimed music documentary offers a rare\, behind-
@@ -535,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260812T193000
 DTEND:20260812T213000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:d163bc751576e4b41d8561ed47df10@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/advice-at-dorset-theatre-festival-3
@@ -544,7 +544,7 @@ BEGIN:VEVENT
 SUMMARY:Community Health & Fun Fair
 DTSTART:20260813T160000
 DTEND:20260813T190000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:72212f6507819d20f5d737d064933a@vermont-events
 DESCRIPTION:This FREE fun\, family-friendly event is open to all ages and 
  will feature a wide range of health and wellness activities\, including:<b
@@ -564,7 +564,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260813T170000
 DTEND:20260813T190000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:f20184b8a1614326cdc7ab1f542e84@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/a-taste-of-new-england
@@ -573,7 +573,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260814T193000
 DTEND:20260814T213000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:a05b08f2d724004e2f63ceb112ae25@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/advice-at-dorset-theatre-festival-5
@@ -582,7 +582,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260815T140000
 DTEND:20260815T160000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:5858af34cb7c01afd63eea2296a4f1@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/advice-at-dorset-theatre-festival-closing
@@ -592,7 +592,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260816T100000
 DTEND:20260816T120000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:ffdf82237ba9247fcf8bcffab65aa5@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/sunday-classical-equinox-wind-quintet
@@ -601,7 +601,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260821T193000
 DTEND:20260821T213000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:edcf8b916215dbfadabf6ba034e1fd@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/lobby-hero-at-dorset-theatre-festival-pre
@@ -611,7 +611,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260822T110000
 DTEND:20260822T130000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:385aaa368d853566167d68a12dd9f4@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/best-of-vermont-summer-festival
@@ -620,7 +620,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260823T190000
 DTEND:20260823T210000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:c8362eebb2c31185913cd3e24d6506@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/dan-tyminski-band-music-in-the-meadow
@@ -629,7 +629,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260826T193000
 DTEND:20260826T213000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:fc566de95c97b433d02547d3b77163@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/lobby-hero-at-dorset-theatre-festival-8
@@ -638,7 +638,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260827T193000
 DTEND:20260827T213000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:f0dfc32fb682c51bb6ea8c1cd42702@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/lobby-hero-at-dorset-theatre-festival-9
@@ -647,7 +647,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260828T193000
 DTEND:20260828T213000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:7bfcb373bf7026d38b0e1dd80f0ca2@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/alex-clark-jokes-from-the-brink-stand-up-
@@ -657,7 +657,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260829T140000
 DTEND:20260829T160000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:541129ef3ad475b1208aeda3daa394@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/artist-in-residence-presentation-2
@@ -666,7 +666,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260830T100000
 DTEND:20260830T120000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:3d7143a9fe06981f15116c411809ef@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/braintree-bluegrass-brunch-ida-mae-specke
@@ -676,7 +676,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260902T193000
 DTEND:20260902T213000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:b24d3ff35b8b156a40041ab3c8fbc0@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/lobby-hero-at-dorset-theatre-festival-3
@@ -685,7 +685,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260903T193000
 DTEND:20260903T213000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:e9ac4acb10b1218f32c2228e2ba8ff@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/lobby-hero-at-dorset-theatre-festival-4
@@ -694,7 +694,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260904T193000
 DTEND:20260904T213000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:06a1d65f47176a88c0c504f09f9932@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/lobby-hero-at-dorset-theatre-festival-5
@@ -703,7 +703,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260905T100000
 DTEND:20260905T120000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:e702d6549dcc260bc7fcb3cb7356df@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/farmers-market-3
@@ -712,7 +712,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260906T110000
 DTEND:20260906T130000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:a1f97575e588ff8c9de9769772fc5b@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/fall-festival
@@ -721,7 +721,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260909T170000
 DTEND:20260909T190000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:71af5e7a4fb20dd0ce1b7c20f2d991@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/art-amplified-featuring-paper-castles-and
@@ -731,7 +731,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260910T173000
 DTEND:20260910T193000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:6899485c7fa93cb341c131f3b5a301@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/billings-after-hours-charcuterie-workshop
@@ -741,7 +741,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260912T070000
 DTEND:20260912T090000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:389055b0abc6bd5f1f740f18eabb62@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/21st-annual-kelly-brush-ride
@@ -750,7 +750,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260918T173000
 DTEND:20260918T193000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:77165aeaacec717e135b40236d0a0f@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/cores-pours-a-farm-to-cider-tasting-event
@@ -759,7 +759,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260919T120000
 DTEND:20260919T140000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:7051b9741134be30e5e9af30269e55@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/latin-american-connection-celebration
@@ -768,7 +768,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260920T090000
 DTEND:20260920T110000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:3e6895b126a47df042786682bc8eed@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/island-vines-10k-5k
@@ -777,7 +777,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260926T090000
 DTEND:20260926T110000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:780569a3007c948df4e52561a31c22@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/37th-annual-burke-fall-festival
@@ -786,7 +786,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260927T190000
 DTEND:20260927T210000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:c2c933960680b7f229f7c0013b31ad@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/old-north-church-lamplight-services-2
@@ -795,7 +795,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20261001T193000
 DTEND:20261001T213000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:f15052599d63487147890de3045401@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/southern-culture-on-the-skids
@@ -804,7 +804,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20261003T140000
 DTEND:20261003T160000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:8201bdd32a34c7cfb2986c8ed8af8b@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/david-80-a-walk-sculpture-tour-with-the-a
@@ -814,7 +814,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20261004T100000
 DTEND:20261004T120000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:2b95a7a7f7b3b4ba9b1a8e2e89dc70@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/autumn-on-the-green
@@ -823,7 +823,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20261010T160000
 DTEND:20261010T180000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:612091e0bc7f93a1931630f75fe037@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/harvest-dinner
@@ -832,7 +832,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20261011T100000
 DTEND:20261011T120000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:68e8791088144a283b2de72f4b2e21@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/farmers-market
@@ -841,7 +841,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20261012T093000
 DTEND:20261012T113000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:d1141094dfc1af200ab40929eeedd2@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/the-north-face-race-to-the-summit
@@ -850,7 +850,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20261015T160000
 DTEND:20261015T180000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:108119d4721c7103620d60457be654@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/girls-who-play-with-fire-retreat-intensiv
@@ -860,7 +860,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20261112T173000
 DTEND:20261112T193000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:394216ca8b19dd5e74dda19ecc0708@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/billings-after-hours-charcuterie-workshop
@@ -870,7 +870,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20261115T103000
 DTEND:20261115T123000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:e5df2745ef74e73e521b405c728b6e@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/fall-makers-market-2026
@@ -879,7 +879,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20261210T173000
 DTEND:20261210T193000
-DTSTAMP:20260811T183650Z
+DTSTAMP:20260811T185025Z
 UID:914fc2f7cbaf0e843814bc1a125250@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/billings-after-hours-mixology-workshop
