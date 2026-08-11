@@ -8,7 +8,7 @@ from urllib.parse import urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
-from dateutil import parser as dateparser
+from dateutil import parser as dtparser
 from icalendar import Calendar, Event
 
 OUTPUT = Path('vermont-events.ics')
@@ -169,7 +169,7 @@ def fetch_arts():
                     clean(x) for x in range_text.split('-', 1)
                 ]
 
-                start = dateparser.parse(
+                start = dtparser.parse(
                     left,
                     fuzzy=True,
                     default=datetime(datetime.now().year, 1, 1)
@@ -181,7 +181,7 @@ def fetch_arts():
                     right,
                     re.I
                 ):
-                    end_time = dateparser.parse(
+                    end_time = dtparser.parse(
                         right,
                         fuzzy=True
                     )
@@ -192,7 +192,7 @@ def fetch_arts():
                     )
 
                 else:
-                    end = dateparser.parse(
+                    end = dtparser.parse(
                         right,
                         fuzzy=True,
                         default=start
@@ -203,7 +203,7 @@ def fetch_arts():
                         end = end.replace(year=start.year + 1)
 
             elif single_match:
-                start = dateparser.parse(
+                start = dtparser.parse(
                     single_match.group(0),
                     fuzzy=True,
                     default=datetime(datetime.now().year, 1, 1)
