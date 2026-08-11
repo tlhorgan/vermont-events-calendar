@@ -234,7 +234,7 @@ def main():
         ('Vermont.com', fetch_vermont_com),
         ('Vermont Public', fetch_vt_public),
     ]:
-    try: all_items.extend(fn())
+        try: all_items.extend(fn())
         except Exception as exc: print(f'ERROR loading {name}: {exc}')
     if not all_items: raise RuntimeError('No events collected from any source')
     unique=dedupe(all_items)
