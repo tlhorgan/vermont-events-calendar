@@ -12,7 +12,6 @@ from dateutil import parser as dtparser
 from icalendar import Calendar, Event
 
 OUTPUT = Path('vermont-events.ics')
-ARTS_ICS = 'https://www.vermontartscouncil.org/arts-calendar/?ical=1'
 VERMONT_COM = 'https://vermont.com/calendar/'
 VERMONT_PUBLIC = 'https://www.vermontpublic.org/vermont-events-calendar'
 HEADERS = {
@@ -106,185 +105,6 @@ def parse_json_ld(soup, source, fallback_url):
                 location = clean(loc)
             desc = clean(BeautifulSoup(str(obj.get('description','')), 'html.parser').get_text(' '))
             out.append({'title':title,'start':start,'end':end,'location':location,'description':desc,'url':clean(obj.get('url')) or fallback_url,'sources':[source]})
-    return out
-
-
-def fetch_arts():
-    url = 'https://www.vermontartscouncil.org/arts-calendar/'
-
-def fetch_arts():
-    url = 'https://www.vermontartscouncil.org/arts-calendar/'
-
-    arts_headers = dict(HEADERS)
-    arts_headers['Referer'] = 'https://www.vermontartscouncil.org/'
-
-    r = requests.get(
-        url,
-        headers=arts_headers,
-        timeout=60
-    )
-    r.raise_for_status()
-
-    html = r.text
-    soup = BeautifulSoup(html, 'html.parser')
-
-    # keep the rest of your existing fetch_arts() code here
-
-    out = []
-
-    # The Vermont Arts Council calendar is powered by The Events Calendar.
-    # Each event is rendered as an article in the list view.
-    for article in soup.select('article'):
-        title_el = article.select_one(
-            'h3 a, h2 a, .tribe-events-calendar-list__event-title a'
-        )
-
-        if not title_el:
-            continue
-
-        title = clean(title_el.get_text(' ', strip=True))
-        event_url = title_el.get('href', '').strip()
-
-        if not title:
-            continue
-
-        text = clean(article.get_text(' ', strip=True))
-
-        # Find date/time text
-        date_el = article.select_one(
-            'time, .tribe-event-date-start, '
-            '.tribe-events-calendar-list__event-datetime'
-        )
-
-        if date_el:
-            date_text = clean(date_el.get_text(' ', strip=True))
-        else:
-            date_text = text
-
-        start = None
-        end = None
-
-        # Examples:
-        # August 11 at 10:00 am - 5:00 pm
-        # June 18 at 8:00 am - August 15 at 5:00 pm
-        # June 20 - September 12
-
-        date_match = re.search(
-            rf'({MONTHS})\s+\d{{1,2}}'
-            rf'(?:,\s*\d{{4}})?'
-            rf'(?:\s+at\s+\d{{1,2}}:\d{{2}}\s*(?:am|pm))?'
-            rf'\s*-\s*'
-            rf'(?:(?:{MONTHS})\s+\d{{1,2}}'
-            rf'(?:,\s*\d{{4}})?'
-            rf'(?:\s+at\s+\d{{1,2}}:\d{{2}}\s*(?:am|pm))?'
-            rf'|\d{{1,2}}:\d{{2}}\s*(?:am|pm))',
-            date_text,
-            re.I
-        )
-
-        single_match = re.search(
-            rf'({MONTHS})\s+\d{{1,2}}'
-            rf'(?:,\s*\d{{4}})?'
-            rf'(?:\s+at\s+\d{{1,2}}:\d{{2}}\s*(?:am|pm))?',
-            date_text,
-            re.I
-        )
-
-        try:
-            if date_match:
-                range_text = date_match.group(0)
-
-                left, right = [
-                    clean(x) for x in range_text.split('-', 1)
-                ]
-
-                start = dtparser.parse(
-                    left,
-                    fuzzy=True,
-                    default=datetime(datetime.now().year, 1, 1)
-                )
-
-                # If right side is only a time, use same date.
-                if re.fullmatch(
-                    r'\d{1,2}:\d{2}\s*(?:am|pm)',
-                    right,
-                    re.I
-                ):
-                    end_time = dtparser.parse(
-                        right,
-                        fuzzy=True
-                    )
-
-                    end = start.replace(
-                        hour=end_time.hour,
-                        minute=end_time.minute
-                    )
-
-                else:
-                    end = dtparser.parse(
-                        right,
-                        fuzzy=True,
-                        default=start
-                    )
-
-                    # Handle ranges that cross months.
-                    if end < start:
-                        end = end.replace(year=start.year + 1)
-
-            elif single_match:
-                start = dtparser.parse(
-                    single_match.group(0),
-                    fuzzy=True,
-                    default=datetime(datetime.now().year, 1, 1)
-                )
-
-                end = start + timedelta(hours=2)
-
-        except Exception:
-            continue
-
-        if not start:
-            continue
-
-        if not end:
-            end = start + timedelta(hours=2)
-
-        location = ''
-
-        location_el = article.select_one(
-            '.tribe-events-calendar-list__event-venue, '
-            '.tribe-events-venue-details, '
-            'address'
-        )
-
-        if location_el:
-            location = clean(
-                location_el.get_text(' ', strip=True)
-            )
-
-        description = ''
-
-        desc_el = article.select_one(
-            '.tribe-events-calendar-list__event-description, '
-            '.tribe-events-list-event-description'
-        )
-
-        if desc_el:
-            description = clean(
-                desc_el.get_text(' ', strip=True)
-            )
-
-        out.append({
-            'title': title,
-            'start': start,
-            'end': end,
-            'location': location,
-            'description': description,
-            'url': event_url or url,
-            'sources': ['Vermont Arts Council']
-        })
-
-    print(f'Vermont Arts Council: {len(out)} events')
     return out
 
 
@@ -409,8 +229,12 @@ def build(items):
 
 def main():
     all_items=[]
-    for name, fn in [('Vermont Arts Council',fetch_arts),('Vermont.com',fetch_vermont_com),('Vermont Public',fetch_vt_public)]:
-        try: all_items.extend(fn())
+    
+    for name, fn in [
+        ('Vermont.com', fetch_vermont_com),
+        ('Vermont Public', fetch_vt_public),
+    ]:
+    try: all_items.extend(fn())
         except Exception as exc: print(f'ERROR loading {name}: {exc}')
     if not all_items: raise RuntimeError('No events collected from any source')
     unique=dedupe(all_items)
