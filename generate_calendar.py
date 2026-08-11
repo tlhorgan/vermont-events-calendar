@@ -8,7 +8,7 @@ from urllib.parse import urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
-from dateutil import parser as dtparser
+from dateutil import parser as dateparser
 from icalendar import Calendar, Event
 
 OUTPUT = Path('vermont-events.ics')
@@ -96,18 +96,165 @@ def parse_json_ld(soup, source, fallback_url):
 
 
 def fetch_arts():
-    raw = get(ARTS_ICS).content
-    cal = Calendar.from_ical(raw)
+    url = 'https://www.vermontartscouncil.org/arts-calendar/'
+
+    html = get(url).text
+    soup = BeautifulSoup(html, 'html.parser')
+
     out = []
-    for c in cal.walk('VEVENT'):
-        title = clean(str(c.get('summary','')))
-        if not title: continue
-        s = c.decoded('dtstart')
-        e = c.decoded('dtend') if c.get('dtend') else None
-        if isinstance(s, datetime) and s.tzinfo: s = s.replace(tzinfo=None)
-        if isinstance(e, datetime) and e.tzinfo: e = e.replace(tzinfo=None)
-        if e is None: e = s + (timedelta(hours=2) if isinstance(s, datetime) else timedelta(days=1))
-        out.append({'title':title,'start':s,'end':e,'location':clean(str(c.get('location',''))),'description':clean(str(c.get('description',''))),'url':clean(str(c.get('url',''))) or ARTS_ICS,'sources':['Vermont Arts Council']})
+
+    # The Vermont Arts Council calendar is powered by The Events Calendar.
+    # Each event is rendered as an article in the list view.
+    for article in soup.select('article'):
+        title_el = article.select_one(
+            'h3 a, h2 a, .tribe-events-calendar-list__event-title a'
+        )
+
+        if not title_el:
+            continue
+
+        title = clean(title_el.get_text(' ', strip=True))
+        event_url = title_el.get('href', '').strip()
+
+        if not title:
+            continue
+
+        text = clean(article.get_text(' ', strip=True))
+
+        # Find date/time text
+        date_el = article.select_one(
+            'time, .tribe-event-date-start, '
+            '.tribe-events-calendar-list__event-datetime'
+        )
+
+        if date_el:
+            date_text = clean(date_el.get_text(' ', strip=True))
+        else:
+            date_text = text
+
+        start = None
+        end = None
+
+        # Examples:
+        # August 11 at 10:00 am - 5:00 pm
+        # June 18 at 8:00 am - August 15 at 5:00 pm
+        # June 20 - September 12
+
+        date_match = re.search(
+            rf'({MONTHS})\s+\d{{1,2}}'
+            rf'(?:,\s*\d{{4}})?'
+            rf'(?:\s+at\s+\d{{1,2}}:\d{{2}}\s*(?:am|pm))?'
+            rf'\s*-\s*'
+            rf'(?:(?:{MONTHS})\s+\d{{1,2}}'
+            rf'(?:,\s*\d{{4}})?'
+            rf'(?:\s+at\s+\d{{1,2}}:\d{{2}}\s*(?:am|pm))?'
+            rf'|\d{{1,2}}:\d{{2}}\s*(?:am|pm))',
+            date_text,
+            re.I
+        )
+
+        single_match = re.search(
+            rf'({MONTHS})\s+\d{{1,2}}'
+            rf'(?:,\s*\d{{4}})?'
+            rf'(?:\s+at\s+\d{{1,2}}:\d{{2}}\s*(?:am|pm))?',
+            date_text,
+            re.I
+        )
+
+        try:
+            if date_match:
+                range_text = date_match.group(0)
+
+                left, right = [
+                    clean(x) for x in range_text.split('-', 1)
+                ]
+
+                start = dateparser.parse(
+                    left,
+                    fuzzy=True,
+                    default=datetime(datetime.now().year, 1, 1)
+                )
+
+                # If right side is only a time, use same date.
+                if re.fullmatch(
+                    r'\d{1,2}:\d{2}\s*(?:am|pm)',
+                    right,
+                    re.I
+                ):
+                    end_time = dateparser.parse(
+                        right,
+                        fuzzy=True
+                    )
+
+                    end = start.replace(
+                        hour=end_time.hour,
+                        minute=end_time.minute
+                    )
+
+                else:
+                    end = dateparser.parse(
+                        right,
+                        fuzzy=True,
+                        default=start
+                    )
+
+                    # Handle ranges that cross months.
+                    if end < start:
+                        end = end.replace(year=start.year + 1)
+
+            elif single_match:
+                start = dateparser.parse(
+                    single_match.group(0),
+                    fuzzy=True,
+                    default=datetime(datetime.now().year, 1, 1)
+                )
+
+                end = start + timedelta(hours=2)
+
+        except Exception:
+            continue
+
+        if not start:
+            continue
+
+        if not end:
+            end = start + timedelta(hours=2)
+
+        location = ''
+
+        location_el = article.select_one(
+            '.tribe-events-calendar-list__event-venue, '
+            '.tribe-events-venue-details, '
+            'address'
+        )
+
+        if location_el:
+            location = clean(
+                location_el.get_text(' ', strip=True)
+            )
+
+        description = ''
+
+        desc_el = article.select_one(
+            '.tribe-events-calendar-list__event-description, '
+            '.tribe-events-list-event-description'
+        )
+
+        if desc_el:
+            description = clean(
+                desc_el.get_text(' ', strip=True)
+            )
+
+        out.append({
+            'title': title,
+            'start': start,
+            'end': end,
+            'location': location,
+            'description': description,
+            'url': event_url or url,
+            'sources': ['Vermont Arts Council']
+        })
+
     print(f'Vermont Arts Council: {len(out)} events')
     return out
 
