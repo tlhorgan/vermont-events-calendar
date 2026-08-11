@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Akhil Reed Amar on Birth Equality and the US Constitution
 DTSTART:20260812T180000
 DTEND:20260812T193000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:f00c7af979217ade4001563792cf57@vermont-events
 DESCRIPTION:Akhil Reed Amar on Birth Equality and the US Constitution<br/>
  Wednesday\, August 12th<br/>6:00 pm - 7:30 pm<br/><br/>Renowned constituti
@@ -35,7 +35,7 @@ SUMMARY:Art Amplified featuring Troy Millette and the Fire Below with Coll
  in Hagood
 DTSTART:20260812T170000
 DTEND:20260812T200000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:d2c914327ddb0fefd152166fcf14a6@vermont-events
 DESCRIPTION:5 PM: A relative newcomer to the Vermont nightlife scene\, Bur
  lington-based vinyl DJ Collin Hagood is inspired by the days of early MTV 
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:Aug 12 | Eye on the Sky Stargazing Party at Billings Farm
 DTSTART:20260812T183000
 DTEND:20260812T220000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:ca54222d20c5407609b0f95c0af0c3@vermont-events
 DESCRIPTION:<a href="https://www.vermontpublic.org/people/mark-breen" data
  -cms-id="00000179-aec2-d524-a77b-bfeabd2f00d3" data-cms-href="https://www.
@@ -239,241 +239,241 @@ DESCRIPTION:<a href="https://www.vermontpublic.org/people/mark-breen" data
  99a&quot\;}\,&quot\;_id&quot\;:&quot\;0000019e-4ace-dd89-a1ff-cecec1f40001
  &quot\;\,&quot\;_type&quot\;:&quot\;809caec9-30e2-3666-8b71-b32ddbffc288&q
  uot\;}">Vermont Astronomical Society</a>\; take a stroll along the walking
-  trail\, explore the <a href="https://billingsfarm.org/sunflower-house-and
- -billings-farmstead-gardens/" target="_blank" link-data="{&quot\;cms.site.
- owner&quot\;:{&quot\;_ref&quot\;:&quot\;00000177-ab2e-d2dd-abff-eb6ea21100
- 00&quot\;\,&quot\;_type&quot\;:&quot\;ae3387cc-b875-31b7-b82d-63fd8d758c20
- &quot\;}\,&quot\;cms.content.publishDate&quot\;:1779371548254\,&quot\;cms.
- content.publishUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-da74-a
- 97e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30dc-87e
- 9-410da9e1cdcc&quot\;}\,&quot\;cms.content.updateDate&quot\;:1779371548254
- \,&quot\;cms.content.updateUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e
- -e508-da74-a97e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-3
- 5be-30dc-87e9-410da9e1cdcc&quot\;}\,&quot\;cms.directory.paths&quot\;:[]\,
- &quot\;anchorable.showAnchor&quot\;:false\,&quot\;link&quot\;:{&quot\;cms.
- directory.paths&quot\;:[]\,&quot\;attributes&quot\;:[]\,&quot\;linkText&qu
- ot\;:&quot\;Billings Farmstead Gardens&quot\;\,&quot\;target&quot\;:&quot\
- ;NEW&quot\;\,&quot\;attachSourceUrl&quot\;:false\,&quot\;url&quot\;:&quot\
- ;https://billingsfarm.org/sunflower-house-and-billings-farmstead-gardens/&
- quot\;\,&quot\;_id&quot\;:&quot\;0000019e-4acf-d0ea-ad9e-4aff0bb00000&quot
- \;\,&quot\;_type&quot\;:&quot\;ff658216-e70f-39d0-b660-bdfe57a5599a&quot\;
- }\,&quot\;_id&quot\;:&quot\;0000019e-4acf-d0ea-ad9e-4aff0bb00001&quot\;\,&
- quot\;_type&quot\;:&quot\;809caec9-30e2-3666-8b71-b32ddbffc288&quot\;}">Bi
- llings Farmstead Gardens</a> and visit with the farm animals (before dark)
- .<br/><br/><b>This is a rain or shine event! Indoor seating is limited in 
- the case of inclement weather. A weather decision will be made 24 hours in
-  advance.</b><br/><br/>This event is made possible with support from <a hr
- ef="https://www.adagiochocolates.com/" target="_blank" link-data="{&quot\;
- cms.site.owner&quot\;:{&quot\;_ref&quot\;:&quot\;00000177-ab2e-d2dd-abff-e
- b6ea2110000&quot\;\,&quot\;_type&quot\;:&quot\;ae3387cc-b875-31b7-b82d-63f
- d8d758c20&quot\;}\,&quot\;cms.content.publishDate&quot\;:1779371572651\,&q
- uot\;cms.content.publishUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e5
- 08-da74-a97e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be
- -30dc-87e9-410da9e1cdcc&quot\;}\,&quot\;cms.content.updateDate&quot\;:1779
- 371572651\,&quot\;cms.content.updateUser&quot\;:{&quot\;_ref&quot\;:&quot\
- ;0000017e-e508-da74-a97e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6
- aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot\;}\,&quot\;cms.directory.paths&qu
- ot\;:[]\,&quot\;anchorable.showAnchor&quot\;:false\,&quot\;link&quot\;:{&q
- uot\;cms.directory.paths&quot\;:[]\,&quot\;attributes&quot\;:[]\,&quot\;li
- nkText&quot\;:&quot\;Adagio Chocolates&quot\;\,&quot\;target&quot\;:&quot\
- ;NEW&quot\;\,&quot\;attachSourceUrl&quot\;:false\,&quot\;url&quot\;:&quot\
- ;https://www.adagiochocolates.com/&quot\;\,&quot\;_id&quot\;:&quot\;000001
- 9e-4acf-dd89-a1ff-cecf50690000&quot\;\,&quot\;_type&quot\;:&quot\;ff658216
+  trail and explore the <a href="https://billingsfarm.org/sunflower-house-a
+ nd-billings-farmstead-gardens/" target="_blank" link-data="{&quot\;cms.sit
+ e.owner&quot\;:{&quot\;_ref&quot\;:&quot\;00000177-ab2e-d2dd-abff-eb6ea211
+ 0000&quot\;\,&quot\;_type&quot\;:&quot\;ae3387cc-b875-31b7-b82d-63fd8d758c
+ 20&quot\;}\,&quot\;cms.content.publishDate&quot\;:1779371548254\,&quot\;cm
+ s.content.publishUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-da74
+ -a97e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30dc-8
+ 7e9-410da9e1cdcc&quot\;}\,&quot\;cms.content.updateDate&quot\;:17793715482
+ 54\,&quot\;cms.content.updateUser&quot\;:{&quot\;_ref&quot\;:&quot\;000001
+ 7e-e508-da74-a97e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1
+ -35be-30dc-87e9-410da9e1cdcc&quot\;}\,&quot\;cms.directory.paths&quot\;:[]
+ \,&quot\;anchorable.showAnchor&quot\;:false\,&quot\;link&quot\;:{&quot\;cm
+ s.directory.paths&quot\;:[]\,&quot\;attributes&quot\;:[]\,&quot\;linkText&
+ quot\;:&quot\;Billings Farmstead Gardens&quot\;\,&quot\;target&quot\;:&quo
+ t\;NEW&quot\;\,&quot\;attachSourceUrl&quot\;:false\,&quot\;url&quot\;:&quo
+ t\;https://billingsfarm.org/sunflower-house-and-billings-farmstead-gardens
+ /&quot\;\,&quot\;_id&quot\;:&quot\;0000019e-4acf-d0ea-ad9e-4aff0bb00000&qu
+ ot\;\,&quot\;_type&quot\;:&quot\;ff658216-e70f-39d0-b660-bdfe57a5599a&quot
+ \;}\,&quot\;_id&quot\;:&quot\;0000019e-4acf-d0ea-ad9e-4aff0bb00001&quot\;\
+ ,&quot\;_type&quot\;:&quot\;809caec9-30e2-3666-8b71-b32ddbffc288&quot\;}">
+ Billings Farmstead Gardens</a>. Please note that pets are not permitted at
+  Billings Farm and Museum.<br/><br/><b>Aug. 11 update: the event will be h
+ eld outdoors!</b><br/><br/>This event is made possible with support from <
+ a href="https://www.adagiochocolates.com/" target="_blank" link-data="{&qu
+ ot\;cms.site.owner&quot\;:{&quot\;_ref&quot\;:&quot\;00000177-ab2e-d2dd-ab
+ ff-eb6ea2110000&quot\;\,&quot\;_type&quot\;:&quot\;ae3387cc-b875-31b7-b82d
+ -63fd8d758c20&quot\;}\,&quot\;cms.content.publishDate&quot\;:1779371572651
+ \,&quot\;cms.content.publishUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017
+ e-e508-da74-a97e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-
+ 35be-30dc-87e9-410da9e1cdcc&quot\;}\,&quot\;cms.content.updateDate&quot\;:
+ 1779371572651\,&quot\;cms.content.updateUser&quot\;:{&quot\;_ref&quot\;:&q
+ uot\;0000017e-e508-da74-a97e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&quo
+ t\;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot\;}\,&quot\;cms.directory.path
+ s&quot\;:[]\,&quot\;anchorable.showAnchor&quot\;:false\,&quot\;link&quot\;
+ :{&quot\;cms.directory.paths&quot\;:[]\,&quot\;attributes&quot\;:[]\,&quot
+ \;linkText&quot\;:&quot\;Adagio Chocolates&quot\;\,&quot\;target&quot\;:&q
+ uot\;NEW&quot\;\,&quot\;attachSourceUrl&quot\;:false\,&quot\;url&quot\;:&q
+ uot\;https://www.adagiochocolates.com/&quot\;\,&quot\;_id&quot\;:&quot\;00
+ 00019e-4acf-dd89-a1ff-cecf50690000&quot\;\,&quot\;_type&quot\;:&quot\;ff65
+ 8216-e70f-39d0-b660-bdfe57a5599a&quot\;}\,&quot\;_id&quot\;:&quot\;0000019
+ e-4acf-dd89-a1ff-cecf50690001&quot\;\,&quot\;_type&quot\;:&quot\;809caec9-
+ 30e2-3666-8b71-b32ddbffc288&quot\;}">Adagio Chocolates</a>\, <a href="http
+ s://www.chroma.com/" target="_blank" link-data="{&quot\;cms.site.owner&quo
+ t\;:{&quot\;_ref&quot\;:&quot\;00000177-ab2e-d2dd-abff-eb6ea2110000&quot\;
+ \,&quot\;_type&quot\;:&quot\;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot\;}\
+ ,&quot\;cms.content.publishDate&quot\;:1780693305123\,&quot\;cms.content.p
+ ublishUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-da74-a97e-f5ba6
+ 6380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30dc-87e9-410da9e
+ 1cdcc&quot\;}\,&quot\;cms.content.updateDate&quot\;:1780693305123\,&quot\;
+ cms.content.updateUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-da7
+ 4-a97e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30dc-
+ 87e9-410da9e1cdcc&quot\;}\,&quot\;cms.directory.paths&quot\;:[]\,&quot\;an
+ chorable.showAnchor&quot\;:false\,&quot\;link&quot\;:{&quot\;cms.directory
+ .paths&quot\;:[]\,&quot\;attributes&quot\;:[]\,&quot\;linkText&quot\;:&quo
+ t\;Chroma Technology&quot\;\,&quot\;target&quot\;:&quot\;NEW&quot\;\,&quot
+ \;attachSourceUrl&quot\;:false\,&quot\;url&quot\;:&quot\;https://www.chrom
+ a.com/&quot\;\,&quot\;_id&quot\;:&quot\;0000019e-9997-da42-adbe-dbd7518b00
+ 00&quot\;\,&quot\;_type&quot\;:&quot\;ff658216-e70f-39d0-b660-bdfe57a5599a
+ &quot\;}\,&quot\;_id&quot\;:&quot\;0000019e-9997-da42-adbe-dbd7518b0001&qu
+ ot\;\,&quot\;_type&quot\;:&quot\;809caec9-30e2-3666-8b71-b32ddbffc288&quot
+ \;}">Chroma Technology</a> and <a href="https://jamaicacottageshop.com/" t
+ arget="_blank" link-data="{&quot\;cms.site.owner&quot\;:{&quot\;_ref&quot\
+ ;:&quot\;00000177-ab2e-d2dd-abff-eb6ea2110000&quot\;\,&quot\;_type&quot\;:
+ &quot\;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot\;}\,&quot\;cms.content.pu
+ blishDate&quot\;:1784212850197\,&quot\;cms.content.publishUser&quot\;:{&qu
+ ot\;_ref&quot\;:&quot\;0000017e-e508-da74-a97e-f5ba66380000&quot\;\,&quot\
+ ;_type&quot\;:&quot\;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot\;}\,&quot\;
+ cms.content.updateDate&quot\;:1784212850197\,&quot\;cms.content.updateUser
+ &quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-da74-a97e-f5ba66380000&qu
+ ot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot
+ \;}\,&quot\;cms.directory.paths&quot\;:[]\,&quot\;anchorable.showAnchor&qu
+ ot\;:false\,&quot\;link&quot\;:{&quot\;cms.directory.paths&quot\;:[]\,&quo
+ t\;attributes&quot\;:[]\,&quot\;linkText&quot\;:&quot\;Jamaica Cottage Sho
+ p&quot\;\,&quot\;target&quot\;:&quot\;NEW&quot\;\,&quot\;attachSourceUrl&q
+ uot\;:false\,&quot\;url&quot\;:&quot\;https://jamaicacottageshop.com/&quot
+ \;\,&quot\;_id&quot\;:&quot\;0000019f-6b5f-d90b-afff-ffff77460000&quot\;\,
+ &quot\;_type&quot\;:&quot\;ff658216-e70f-39d0-b660-bdfe57a5599a&quot\;}\,&
+ quot\;_id&quot\;:&quot\;0000019f-6b5f-d90b-afff-ffff77460001&quot\;\,&quot
+ \;_type&quot\;:&quot\;809caec9-30e2-3666-8b71-b32ddbffc288&quot\;}">Jamaic
+ a Cottage Shop</a>.<br/><br/><a href="https://events.humanitix.com/stargaz
+ ing-party-at-billings-farm" target="_blank" link-data="{&quot\;cms.site.ow
+ ner&quot\;:{&quot\;_ref&quot\;:&quot\;00000177-ab2e-d2dd-abff-eb6ea2110000
+ &quot\;\,&quot\;_type&quot\;:&quot\;ae3387cc-b875-31b7-b82d-63fd8d758c20&q
+ uot\;}\,&quot\;cms.content.publishDate&quot\;:1779371599512\,&quot\;cms.co
+ ntent.publishUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-da74-a97
+ e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30dc-87e9-
+ 410da9e1cdcc&quot\;}\,&quot\;cms.content.updateDate&quot\;:1779371599512\,
+ &quot\;cms.content.updateUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e
+ 508-da74-a97e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35b
+ e-30dc-87e9-410da9e1cdcc&quot\;}\,&quot\;cms.directory.paths&quot\;:[]\,&q
+ uot\;anchorable.showAnchor&quot\;:false\,&quot\;link&quot\;:{&quot\;cms.di
+ rectory.paths&quot\;:[]\,&quot\;attributes&quot\;:[]\,&quot\;linkText&quot
+ \;:&quot\;&lt\;b class=\\&quot\;rte2-style-bold\\&quot\;&gt\;RSVP here!&lt
+ \;/b&gt\;&quot\;\,&quot\;target&quot\;:&quot\;NEW&quot\;\,&quot\;attachSou
+ rceUrl&quot\;:false\,&quot\;url&quot\;:&quot\;https://events.humanitix.com
+ /stargazing-party-at-billings-farm&quot\;\,&quot\;_id&quot\;:&quot\;000001
+ 9e-4acf-d881-a1de-4edfd7770000&quot\;\,&quot\;_type&quot\;:&quot\;ff658216
  -e70f-39d0-b660-bdfe57a5599a&quot\;}\,&quot\;_id&quot\;:&quot\;0000019e-4a
- cf-dd89-a1ff-cecf50690001&quot\;\,&quot\;_type&quot\;:&quot\;809caec9-30e2
- -3666-8b71-b32ddbffc288&quot\;}">Adagio Chocolates</a>\, <a href="https://
- www.chroma.com/" target="_blank" link-data="{&quot\;cms.site.owner&quot\;:
+ cf-d881-a1de-4edfd7770001&quot\;\,&quot\;_type&quot\;:&quot\;809caec9-30e2
+ -3666-8b71-b32ddbffc288&quot\;}"><b>RSVP here!</b></a> <br/><br/><b>Event 
+ Schedule</b><br/>6:30 p.m.: Doors open | dinner available | activities beg
+ in<br/>7:30 - 8:30 p.m. | Live set from DJ Cartier<br/>9:00 p.m. | Stargaz
+ ing live broadcast begins <br/>10:00 p.m. | Event ends<br/><br/><b>What to
+  bring:</b><br/>- Extra layers for when the sun goes down<br/>- A blanket 
+ or chair. Seating will be on the lawn at Billings Farm.<br/>- A flashlight
+  or headlamp with a red filter can be helpful<br/>- Binoculars or telescop
+ e for stargazing<br/>- Bug spray and bug nets<br/>- Water bottles <br/><br
+ /><br/><b>Accommodations</b><br/>Vermont Public is committed to providing 
+ access and accommodation for individuals with disabilities at our events. 
+ To request accommodations\, please email <a href="mailto:events@vermontpub
+ lic.org" target="_blank" link-data="{&quot\;cms.site.owner&quot\;:{&quot\;
+ _ref&quot\;:&quot\;00000177-ab2e-d2dd-abff-eb6ea2110000&quot\;\,&quot\;_ty
+ pe&quot\;:&quot\;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot\;}\,&quot\;cms.
+ content.publishDate&quot\;:1779371632573\,&quot\;cms.content.publishUser&q
+ uot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-da74-a97e-f5ba66380000&quot
+ \;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot\;
+ }\,&quot\;cms.content.updateDate&quot\;:1779371632573\,&quot\;cms.content.
+ updateUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-da74-a97e-f5ba6
+ 6380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30dc-87e9-410da9e
+ 1cdcc&quot\;}\,&quot\;cms.directory.paths&quot\;:[]\,&quot\;anchorable.sho
+ wAnchor&quot\;:false\,&quot\;link&quot\;:{&quot\;cms.directory.paths&quot\
+ ;:[]\,&quot\;attributes&quot\;:[]\,&quot\;linkText&quot\;:&quot\;events@ve
+ rmontpublic.org&quot\;\,&quot\;target&quot\;:&quot\;NEW&quot\;\,&quot\;att
+ achSourceUrl&quot\;:false\,&quot\;url&quot\;:&quot\;mailto:events@vermontp
+ ublic.org&quot\;\,&quot\;_id&quot\;:&quot\;0000019e-4ad0-d351-a19e-cefe4f8
+ 00000&quot\;\,&quot\;_type&quot\;:&quot\;ff658216-e70f-39d0-b660-bdfe57a55
+ 99a&quot\;}\,&quot\;_id&quot\;:&quot\;0000019e-4ad0-d351-a19e-cefe4f800001
+ &quot\;\,&quot\;_type&quot\;:&quot\;809caec9-30e2-3666-8b71-b32ddbffc288&q
+ uot\;}">events@vermontpublic.org</a> or call us at <a href="tel:802-655-94
+ 51" target="_blank" link-data="{&quot\;cms.site.owner&quot\;:{&quot\;_ref&
+ quot\;:&quot\;00000177-ab2e-d2dd-abff-eb6ea2110000&quot\;\,&quot\;_type&qu
+ ot\;:&quot\;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot\;}\,&quot\;cms.conte
+ nt.publishDate&quot\;:1779371644114\,&quot\;cms.content.publishUser&quot\;
+ :{&quot\;_ref&quot\;:&quot\;0000017e-e508-da74-a97e-f5ba66380000&quot\;\,&
+ quot\;_type&quot\;:&quot\;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot\;}\,&q
+ uot\;cms.content.updateDate&quot\;:1779371644114\,&quot\;cms.content.updat
+ eUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-da74-a97e-f5ba663800
+ 00&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30dc-87e9-410da9e1cdcc
+ &quot\;}\,&quot\;cms.directory.paths&quot\;:[]\,&quot\;anchorable.showAnch
+ or&quot\;:false\,&quot\;link&quot\;:{&quot\;cms.directory.paths&quot\;:[]\
+ ,&quot\;attributes&quot\;:[]\,&quot\;linkText&quot\;:&quot\;802-655-9451&q
+ uot\;\,&quot\;target&quot\;:&quot\;NEW&quot\;\,&quot\;attachSourceUrl&quot
+ \;:false\,&quot\;url&quot\;:&quot\;tel:802-655-9451&quot\;\,&quot\;_id&quo
+ t\;:&quot\;0000019e-4ad0-d0ea-ad9e-4afe7f9a0000&quot\;\,&quot\;_type&quot\
+ ;:&quot\;ff658216-e70f-39d0-b660-bdfe57a5599a&quot\;}\,&quot\;_id&quot\;:&
+ quot\;0000019e-4ad0-d0ea-ad9e-4afe7f9a0001&quot\;\,&quot\;_type&quot\;:&qu
+ ot\;809caec9-30e2-3666-8b71-b32ddbffc288&quot\;}">802-655-9451</a> at leas
+ t seven days in advance of the event.<br/><br/><b>Cancellation Policy</b><
+ br/>Please let us know by emailing <a href="mailto:events@vermontpublic.or
+ g" target="_blank" link-data="{&quot\;cms.site.owner&quot\;:{&quot\;_ref&q
+ uot\;:&quot\;00000177-ab2e-d2dd-abff-eb6ea2110000&quot\;\,&quot\;_type&quo
+ t\;:&quot\;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot\;}\,&quot\;cms.conten
+ t.publishDate&quot\;:1779371658141\,&quot\;cms.content.publishUser&quot\;:
+ {&quot\;_ref&quot\;:&quot\;0000017e-e508-da74-a97e-f5ba66380000&quot\;\,&q
+ uot\;_type&quot\;:&quot\;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot\;}\,&qu
+ ot\;cms.content.updateDate&quot\;:1779371658141\,&quot\;cms.content.update
+ User&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-da74-a97e-f5ba6638000
+ 0&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&
+ quot\;}\,&quot\;cms.directory.paths&quot\;:[]\,&quot\;anchorable.showAncho
+ r&quot\;:false\,&quot\;link&quot\;:{&quot\;cms.directory.paths&quot\;:[]\,
+ &quot\;attributes&quot\;:[]\,&quot\;linkText&quot\;:&quot\;events@vermontp
+ ublic.org&quot\;\,&quot\;target&quot\;:&quot\;NEW&quot\;\,&quot\;attachSou
+ rceUrl&quot\;:false\,&quot\;url&quot\;:&quot\;mailto:events@vermontpublic.
+ org&quot\;\,&quot\;_id&quot\;:&quot\;0000019e-4ad0-d881-a1de-4ed2afae0000&
+ quot\;\,&quot\;_type&quot\;:&quot\;ff658216-e70f-39d0-b660-bdfe57a5599a&qu
+ ot\;}\,&quot\;_id&quot\;:&quot\;0000019e-4ad0-d881-a1de-4ed2afae0001&quot\
+ ;\,&quot\;_type&quot\;:&quot\;809caec9-30e2-3666-8b71-b32ddbffc288&quot\;}
+ ">events@vermontpublic.org</a> if you are not able to join us so that we m
+ ay release your tickets to someone else. <br/><br/><b>Directions and Parki
+ ng</b><br/>Billings Farm is located at <a href="https://maps.app.goo.gl/Vp
+ 9PQcPcdB3dL27z6" target="_blank" link-data="{&quot\;cms.site.owner&quot\;:
  {&quot\;_ref&quot\;:&quot\;00000177-ab2e-d2dd-abff-eb6ea2110000&quot\;\,&q
  uot\;_type&quot\;:&quot\;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot\;}\,&qu
- ot\;cms.content.publishDate&quot\;:1780693305123\,&quot\;cms.content.publi
+ ot\;cms.content.publishDate&quot\;:1779371688582\,&quot\;cms.content.publi
  shUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-da74-a97e-f5ba66380
  000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30dc-87e9-410da9e1cdc
- c&quot\;}\,&quot\;cms.content.updateDate&quot\;:1780693305123\,&quot\;cms.
+ c&quot\;}\,&quot\;cms.content.updateDate&quot\;:1779371688582\,&quot\;cms.
  content.updateUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-da74-a9
  7e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30dc-87e9
  -410da9e1cdcc&quot\;}\,&quot\;cms.directory.paths&quot\;:[]\,&quot\;anchor
  able.showAnchor&quot\;:false\,&quot\;link&quot\;:{&quot\;cms.directory.pat
- hs&quot\;:[]\,&quot\;attributes&quot\;:[]\,&quot\;linkText&quot\;:&quot\;C
- hroma Technology&quot\;\,&quot\;target&quot\;:&quot\;NEW&quot\;\,&quot\;at
- tachSourceUrl&quot\;:false\,&quot\;url&quot\;:&quot\;https://www.chroma.co
- m/&quot\;\,&quot\;_id&quot\;:&quot\;0000019e-9997-da42-adbe-dbd7518b0000&q
- uot\;\,&quot\;_type&quot\;:&quot\;ff658216-e70f-39d0-b660-bdfe57a5599a&quo
- t\;}\,&quot\;_id&quot\;:&quot\;0000019e-9997-da42-adbe-dbd7518b0001&quot\;
- \,&quot\;_type&quot\;:&quot\;809caec9-30e2-3666-8b71-b32ddbffc288&quot\;}"
- >Chroma Technology</a> and <a href="https://jamaicacottageshop.com/" targe
- t="_blank" link-data="{&quot\;cms.site.owner&quot\;:{&quot\;_ref&quot\;:&q
- uot\;00000177-ab2e-d2dd-abff-eb6ea2110000&quot\;\,&quot\;_type&quot\;:&quo
- t\;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot\;}\,&quot\;cms.content.publis
- hDate&quot\;:1784212850197\,&quot\;cms.content.publishUser&quot\;:{&quot\;
- _ref&quot\;:&quot\;0000017e-e508-da74-a97e-f5ba66380000&quot\;\,&quot\;_ty
- pe&quot\;:&quot\;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot\;}\,&quot\;cms.
- content.updateDate&quot\;:1784212850197\,&quot\;cms.content.updateUser&quo
- t\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-da74-a97e-f5ba66380000&quot\;
- \,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot\;}\
- ,&quot\;cms.directory.paths&quot\;:[]\,&quot\;anchorable.showAnchor&quot\;
- :false\,&quot\;link&quot\;:{&quot\;cms.directory.paths&quot\;:[]\,&quot\;a
- ttributes&quot\;:[]\,&quot\;linkText&quot\;:&quot\;Jamaica Cottage Shop&qu
- ot\;\,&quot\;target&quot\;:&quot\;NEW&quot\;\,&quot\;attachSourceUrl&quot\
- ;:false\,&quot\;url&quot\;:&quot\;https://jamaicacottageshop.com/&quot\;\,
- &quot\;_id&quot\;:&quot\;0000019f-6b5f-d90b-afff-ffff77460000&quot\;\,&quo
- t\;_type&quot\;:&quot\;ff658216-e70f-39d0-b660-bdfe57a5599a&quot\;}\,&quot
- \;_id&quot\;:&quot\;0000019f-6b5f-d90b-afff-ffff77460001&quot\;\,&quot\;_t
- ype&quot\;:&quot\;809caec9-30e2-3666-8b71-b32ddbffc288&quot\;}">Jamaica Co
- ttage Shop</a>.<br/><br/><a href="https://events.humanitix.com/stargazing-
- party-at-billings-farm" target="_blank" link-data="{&quot\;cms.site.owner&
- quot\;:{&quot\;_ref&quot\;:&quot\;00000177-ab2e-d2dd-abff-eb6ea2110000&quo
- t\;\,&quot\;_type&quot\;:&quot\;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot\
- ;}\,&quot\;cms.content.publishDate&quot\;:1779371599512\,&quot\;cms.conten
- t.publishUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-da74-a97e-f5
- ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30dc-87e9-410d
- a9e1cdcc&quot\;}\,&quot\;cms.content.updateDate&quot\;:1779371599512\,&quo
- t\;cms.content.updateUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-
- da74-a97e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30
- dc-87e9-410da9e1cdcc&quot\;}\,&quot\;cms.directory.paths&quot\;:[]\,&quot\
- ;anchorable.showAnchor&quot\;:false\,&quot\;link&quot\;:{&quot\;cms.direct
- ory.paths&quot\;:[]\,&quot\;attributes&quot\;:[]\,&quot\;linkText&quot\;:&
- quot\;&lt\;b class=\\&quot\;rte2-style-bold\\&quot\;&gt\;RSVP here!&lt\;/b
- &gt\;&quot\;\,&quot\;target&quot\;:&quot\;NEW&quot\;\,&quot\;attachSourceU
- rl&quot\;:false\,&quot\;url&quot\;:&quot\;https://events.humanitix.com/sta
- rgazing-party-at-billings-farm&quot\;\,&quot\;_id&quot\;:&quot\;0000019e-4
- acf-d881-a1de-4edfd7770000&quot\;\,&quot\;_type&quot\;:&quot\;ff658216-e70
- f-39d0-b660-bdfe57a5599a&quot\;}\,&quot\;_id&quot\;:&quot\;0000019e-4acf-d
- 881-a1de-4edfd7770001&quot\;\,&quot\;_type&quot\;:&quot\;809caec9-30e2-366
- 6-8b71-b32ddbffc288&quot\;}"><b>RSVP here!</b></a> <br/><br/><b>Event Sche
- dule</b><br/>6:30 p.m.: Doors open | dinner available | activities begin<b
- r/>9:00 p.m.: Stargazing live broadcast begins <br/>10:00 p.m.: Event ends
- <br/><br/><b>What to bring:</b><br/>- Extra layers for when the sun goes d
- own<br/>- A blanket or chair. Seating will be on the lawn at Billings Farm
- .<br/>- A flashlight or headlamp with a red filter can be helpful<br/>- Bi
- noculars or telescope for stargazing<br/>- Bug spray and bug nets<br/>- Wa
- ter bottles <br/><br/><br/><b>Accommodations</b><br/>Vermont Public is com
- mitted to providing access and accommodation for individuals with disabili
- ties at our events. To request accommodations\, please email <a href="mail
- to:events@vermontpublic.org" target="_blank" link-data="{&quot\;cms.site.o
- wner&quot\;:{&quot\;_ref&quot\;:&quot\;00000177-ab2e-d2dd-abff-eb6ea211000
- 0&quot\;\,&quot\;_type&quot\;:&quot\;ae3387cc-b875-31b7-b82d-63fd8d758c20&
- quot\;}\,&quot\;cms.content.publishDate&quot\;:1779371632573\,&quot\;cms.c
- ontent.publishUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-da74-a9
- 7e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30dc-87e9
- -410da9e1cdcc&quot\;}\,&quot\;cms.content.updateDate&quot\;:1779371632573\
- ,&quot\;cms.content.updateUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-
- e508-da74-a97e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35
- be-30dc-87e9-410da9e1cdcc&quot\;}\,&quot\;cms.directory.paths&quot\;:[]\,&
- quot\;anchorable.showAnchor&quot\;:false\,&quot\;link&quot\;:{&quot\;cms.d
- irectory.paths&quot\;:[]\,&quot\;attributes&quot\;:[]\,&quot\;linkText&quo
- t\;:&quot\;events@vermontpublic.org&quot\;\,&quot\;target&quot\;:&quot\;NE
- W&quot\;\,&quot\;attachSourceUrl&quot\;:false\,&quot\;url&quot\;:&quot\;ma
- ilto:events@vermontpublic.org&quot\;\,&quot\;_id&quot\;:&quot\;0000019e-4a
- d0-d351-a19e-cefe4f800000&quot\;\,&quot\;_type&quot\;:&quot\;ff658216-e70f
- -39d0-b660-bdfe57a5599a&quot\;}\,&quot\;_id&quot\;:&quot\;0000019e-4ad0-d3
- 51-a19e-cefe4f800001&quot\;\,&quot\;_type&quot\;:&quot\;809caec9-30e2-3666
- -8b71-b32ddbffc288&quot\;}">events@vermontpublic.org</a> or call us at <a 
- href="tel:802-655-9451" target="_blank" link-data="{&quot\;cms.site.owner&
- quot\;:{&quot\;_ref&quot\;:&quot\;00000177-ab2e-d2dd-abff-eb6ea2110000&quo
- t\;\,&quot\;_type&quot\;:&quot\;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot\
- ;}\,&quot\;cms.content.publishDate&quot\;:1779371644114\,&quot\;cms.conten
- t.publishUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-da74-a97e-f5
- ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30dc-87e9-410d
- a9e1cdcc&quot\;}\,&quot\;cms.content.updateDate&quot\;:1779371644114\,&quo
- t\;cms.content.updateUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-
- da74-a97e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30
- dc-87e9-410da9e1cdcc&quot\;}\,&quot\;cms.directory.paths&quot\;:[]\,&quot\
- ;anchorable.showAnchor&quot\;:false\,&quot\;link&quot\;:{&quot\;cms.direct
- ory.paths&quot\;:[]\,&quot\;attributes&quot\;:[]\,&quot\;linkText&quot\;:&
- quot\;802-655-9451&quot\;\,&quot\;target&quot\;:&quot\;NEW&quot\;\,&quot\;
- attachSourceUrl&quot\;:false\,&quot\;url&quot\;:&quot\;tel:802-655-9451&qu
- ot\;\,&quot\;_id&quot\;:&quot\;0000019e-4ad0-d0ea-ad9e-4afe7f9a0000&quot\;
- \,&quot\;_type&quot\;:&quot\;ff658216-e70f-39d0-b660-bdfe57a5599a&quot\;}\
- ,&quot\;_id&quot\;:&quot\;0000019e-4ad0-d0ea-ad9e-4afe7f9a0001&quot\;\,&qu
- ot\;_type&quot\;:&quot\;809caec9-30e2-3666-8b71-b32ddbffc288&quot\;}">802-
- 655-9451</a> at least seven days in advance of the event.<br/><br/><b>Canc
- ellation Policy</b><br/>Please let us know by emailing <a href="mailto:eve
- nts@vermontpublic.org" target="_blank" link-data="{&quot\;cms.site.owner&q
- uot\;:{&quot\;_ref&quot\;:&quot\;00000177-ab2e-d2dd-abff-eb6ea2110000&quot
- \;\,&quot\;_type&quot\;:&quot\;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot\;
- }\,&quot\;cms.content.publishDate&quot\;:1779371658141\,&quot\;cms.content
- .publishUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-da74-a97e-f5b
- a66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30dc-87e9-410da
- 9e1cdcc&quot\;}\,&quot\;cms.content.updateDate&quot\;:1779371658141\,&quot
- \;cms.content.updateUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-d
- a74-a97e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30d
- c-87e9-410da9e1cdcc&quot\;}\,&quot\;cms.directory.paths&quot\;:[]\,&quot\;
- anchorable.showAnchor&quot\;:false\,&quot\;link&quot\;:{&quot\;cms.directo
- ry.paths&quot\;:[]\,&quot\;attributes&quot\;:[]\,&quot\;linkText&quot\;:&q
- uot\;events@vermontpublic.org&quot\;\,&quot\;target&quot\;:&quot\;NEW&quot
- \;\,&quot\;attachSourceUrl&quot\;:false\,&quot\;url&quot\;:&quot\;mailto:e
- vents@vermontpublic.org&quot\;\,&quot\;_id&quot\;:&quot\;0000019e-4ad0-d88
- 1-a1de-4ed2afae0000&quot\;\,&quot\;_type&quot\;:&quot\;ff658216-e70f-39d0-
- b660-bdfe57a5599a&quot\;}\,&quot\;_id&quot\;:&quot\;0000019e-4ad0-d881-a1d
- e-4ed2afae0001&quot\;\,&quot\;_type&quot\;:&quot\;809caec9-30e2-3666-8b71-
- b32ddbffc288&quot\;}">events@vermontpublic.org</a> if you are not able to 
- join us so that we may release your tickets to someone else. <br/><br/><b>
- Directions and Parking</b><br/>Billings Farm is located at <a href="https:
- //maps.app.goo.gl/Vp9PQcPcdB3dL27z6" target="_blank" link-data="{&quot\;cm
- s.site.owner&quot\;:{&quot\;_ref&quot\;:&quot\;00000177-ab2e-d2dd-abff-eb6
- ea2110000&quot\;\,&quot\;_type&quot\;:&quot\;ae3387cc-b875-31b7-b82d-63fd8
- d758c20&quot\;}\,&quot\;cms.content.publishDate&quot\;:1779371688582\,&quo
- t\;cms.content.publishUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508
- -da74-a97e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-3
- 0dc-87e9-410da9e1cdcc&quot\;}\,&quot\;cms.content.updateDate&quot\;:177937
- 1688582\,&quot\;cms.content.updateUser&quot\;:{&quot\;_ref&quot\;:&quot\;0
- 000017e-e508-da74-a97e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa
- 69ae1-35be-30dc-87e9-410da9e1cdcc&quot\;}\,&quot\;cms.directory.paths&quot
- \;:[]\,&quot\;anchorable.showAnchor&quot\;:false\,&quot\;link&quot\;:{&quo
- t\;cms.directory.paths&quot\;:[]\,&quot\;attributes&quot\;:[]\,&quot\;link
- Text&quot\;:&quot\;69 Old River Rd\, Woodstock\, VT 05091&quot\;\,&quot\;t
- arget&quot\;:&quot\;NEW&quot\;\,&quot\;attachSourceUrl&quot\;:false\,&quot
- \;url&quot\;:&quot\;https://maps.app.goo.gl/Vp9PQcPcdB3dL27z6&quot\;\,&quo
- t\;_id&quot\;:&quot\;0000019e-4ad1-d351-a19e-ceff172f0000&quot\;\,&quot\;_
- type&quot\;:&quot\;ff658216-e70f-39d0-b660-bdfe57a5599a&quot\;}\,&quot\;_i
- d&quot\;:&quot\;0000019e-4ad1-d351-a19e-ceff172f0001&quot\;\,&quot\;_type&
- quot\;:&quot\;809caec9-30e2-3666-8b71-b32ddbffc288&quot\;}">69 Old River R
- d\, Woodstock\, VT 05091</a>. Parking is available in the main lot and the
-  overflow lot on River Rd. Parking attendants will be available to direct 
- you. <a href="https://billingsfarm.org/wp/wp-content/uploads/2023/05/4534-
- BILL-Site-Map-2022-WEB-scaled.jpg" target="_blank" link-data="{&quot\;cms.
- site.owner&quot\;:{&quot\;_ref&quot\;:&quot\;00000177-ab2e-d2dd-abff-eb6ea
- 2110000&quot\;\,&quot\;_type&quot\;:&quot\;ae3387cc-b875-31b7-b82d-63fd8d7
- 58c20&quot\;}\,&quot\;cms.content.publishDate&quot\;:1779371700718\,&quot\
- ;cms.content.publishUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-d
- a74-a97e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30d
- c-87e9-410da9e1cdcc&quot\;}\,&quot\;cms.content.updateDate&quot\;:17793717
- 00718\,&quot\;cms.content.updateUser&quot\;:{&quot\;_ref&quot\;:&quot\;000
- 0017e-e508-da74-a97e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69
- ae1-35be-30dc-87e9-410da9e1cdcc&quot\;}\,&quot\;cms.directory.paths&quot\;
- :[]\,&quot\;anchorable.showAnchor&quot\;:false\,&quot\;link&quot\;:{&quot\
- ;cms.directory.paths&quot\;:[]\,&quot\;attributes&quot\;:[]\,&quot\;linkTe
- xt&quot\;:&quot\;Click here for a map of the farm&quot\;\,&quot\;target&qu
- ot\;:&quot\;NEW&quot\;\,&quot\;attachSourceUrl&quot\;:false\,&quot\;url&qu
- ot\;:&quot\;https://billingsfarm.org/wp/wp-content/uploads/2023/05/4534-BI
- LL-Site-Map-2022-WEB-scaled.jpg&quot\;\,&quot\;_id&quot\;:&quot\;0000019e-
- 4ad1-d0ea-ad9e-4aff540d0000&quot\;\,&quot\;_type&quot\;:&quot\;ff658216-e7
- 0f-39d0-b660-bdfe57a5599a&quot\;}\,&quot\;_id&quot\;:&quot\;0000019e-4ad1-
- d0ea-ad9e-4aff540d0001&quot\;\,&quot\;_type&quot\;:&quot\;809caec9-30e2-36
- 66-8b71-b32ddbffc288&quot\;}">Click here for a map of the farm</a>.<br/><b
- r/><b>Recording Disclosure</b><br/>Photographs will be taken at the event 
- and the audio from our Eye on the Sky Stargazing Party (beginning at 9 p.m
- .) will be broadcast live on Vermont Public radio.<br/><br/><b>Other quest
- ions?</b> Email us at <a href="mailto:events@vermontpublic.org" target="_b
- lank" link-data="{&quot\;cms.site.owner&quot\;:{&quot\;_ref&quot\;:&quot\;
- 00000177-ab2e-d2dd-abff-eb6ea2110000&quot\;\,&quot\;_type&quot\;:&quot\;ae
- 3387cc-b875-31b7-b82d-63fd8d758c20&quot\;}\,&quot\;cms.content.publishDate
- &quot\;:1779371732169\,&quot\;cms.content.publishUser&quot\;:{&quot\;_ref&
- quot\;:&quot\;0000017e-e508-da74-a97e-f5ba66380000&quot\;\,&quot\;_type&qu
- ot\;:&quot\;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot\;}\,&quot\;cms.conte
- nt.updateDate&quot\;:1779371732169\,&quot\;cms.content.updateUser&quot\;:{
- &quot\;_ref&quot\;:&quot\;0000017e-e508-da74-a97e-f5ba66380000&quot\;\,&qu
- ot\;_type&quot\;:&quot\;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot\;}\,&quo
- t\;cms.directory.paths&quot\;:[]\,&quot\;anchorable.showAnchor&quot\;:fals
- e\,&quot\;link&quot\;:{&quot\;cms.directory.paths&quot\;:[]\,&quot\;attrib
- utes&quot\;:[]\,&quot\;linkText&quot\;:&quot\;events@vermontpublic.org&quo
- t\;\,&quot\;target&quot\;:&quot\;NEW&quot\;\,&quot\;attachSourceUrl&quot\;
- :false\,&quot\;url&quot\;:&quot\;mailto:events@vermontpublic.org&quot\;\,&
- quot\;_id&quot\;:&quot\;0000019e-4ad1-d307-abfe-cffba6440000&quot\;\,&quot
- \;_type&quot\;:&quot\;ff658216-e70f-39d0-b660-bdfe57a5599a&quot\;}\,&quot\
- ;_id&quot\;:&quot\;0000019e-4ad1-d307-abfe-cffba6440001&quot\;\,&quot\;_ty
- pe&quot\;:&quot\;809caec9-30e2-3666-8b71-b32ddbffc288&quot\;}">events@verm
- ontpublic.org</a>.<br/>\n\nSources: Vermont Public
+ hs&quot\;:[]\,&quot\;attributes&quot\;:[]\,&quot\;linkText&quot\;:&quot\;6
+ 9 Old River Rd\, Woodstock\, VT 05091&quot\;\,&quot\;target&quot\;:&quot\;
+ NEW&quot\;\,&quot\;attachSourceUrl&quot\;:false\,&quot\;url&quot\;:&quot\;
+ https://maps.app.goo.gl/Vp9PQcPcdB3dL27z6&quot\;\,&quot\;_id&quot\;:&quot\
+ ;0000019e-4ad1-d351-a19e-ceff172f0000&quot\;\,&quot\;_type&quot\;:&quot\;f
+ f658216-e70f-39d0-b660-bdfe57a5599a&quot\;}\,&quot\;_id&quot\;:&quot\;0000
+ 019e-4ad1-d351-a19e-ceff172f0001&quot\;\,&quot\;_type&quot\;:&quot\;809cae
+ c9-30e2-3666-8b71-b32ddbffc288&quot\;}">69 Old River Rd\, Woodstock\, VT 0
+ 5091</a>. Parking is available in the main lot and the overflow lot on Riv
+ er Rd. Parking attendants will be available to direct you. <a href="https:
+ //billingsfarm.org/wp/wp-content/uploads/2023/05/4534-BILL-Site-Map-2022-W
+ EB-scaled.jpg" target="_blank" link-data="{&quot\;cms.site.owner&quot\;:{&
+ quot\;_ref&quot\;:&quot\;00000177-ab2e-d2dd-abff-eb6ea2110000&quot\;\,&quo
+ t\;_type&quot\;:&quot\;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot\;}\,&quot
+ \;cms.content.publishDate&quot\;:1779371700718\,&quot\;cms.content.publish
+ User&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-da74-a97e-f5ba6638000
+ 0&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&
+ quot\;}\,&quot\;cms.content.updateDate&quot\;:1779371700718\,&quot\;cms.co
+ ntent.updateUser&quot\;:{&quot\;_ref&quot\;:&quot\;0000017e-e508-da74-a97e
+ -f5ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1-35be-30dc-87e9-4
+ 10da9e1cdcc&quot\;}\,&quot\;cms.directory.paths&quot\;:[]\,&quot\;anchorab
+ le.showAnchor&quot\;:false\,&quot\;link&quot\;:{&quot\;cms.directory.paths
+ &quot\;:[]\,&quot\;attributes&quot\;:[]\,&quot\;linkText&quot\;:&quot\;Cli
+ ck here for a map of the farm&quot\;\,&quot\;target&quot\;:&quot\;NEW&quot
+ \;\,&quot\;attachSourceUrl&quot\;:false\,&quot\;url&quot\;:&quot\;https://
+ billingsfarm.org/wp/wp-content/uploads/2023/05/4534-BILL-Site-Map-2022-WEB
+ -scaled.jpg&quot\;\,&quot\;_id&quot\;:&quot\;0000019e-4ad1-d0ea-ad9e-4aff5
+ 40d0000&quot\;\,&quot\;_type&quot\;:&quot\;ff658216-e70f-39d0-b660-bdfe57a
+ 5599a&quot\;}\,&quot\;_id&quot\;:&quot\;0000019e-4ad1-d0ea-ad9e-4aff540d00
+ 01&quot\;\,&quot\;_type&quot\;:&quot\;809caec9-30e2-3666-8b71-b32ddbffc288
+ &quot\;}">Click here for a map of the farm</a>.<br/><br/><b>Recording Disc
+ losure</b><br/>Photographs will be taken at the event and the audio from o
+ ur Eye on the Sky Stargazing Party (beginning at 9 p.m.) will be broadcast
+  live on Vermont Public radio.<br/><br/><b>Other questions?</b> Email us a
+ t <a href="mailto:events@vermontpublic.org" target="_blank" link-data="{&q
+ uot\;cms.site.owner&quot\;:{&quot\;_ref&quot\;:&quot\;00000177-ab2e-d2dd-a
+ bff-eb6ea2110000&quot\;\,&quot\;_type&quot\;:&quot\;ae3387cc-b875-31b7-b82
+ d-63fd8d758c20&quot\;}\,&quot\;cms.content.publishDate&quot\;:177937173216
+ 9\,&quot\;cms.content.publishUser&quot\;:{&quot\;_ref&quot\;:&quot\;000001
+ 7e-e508-da74-a97e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&quot\;6aa69ae1
+ -35be-30dc-87e9-410da9e1cdcc&quot\;}\,&quot\;cms.content.updateDate&quot\;
+ :1779371732169\,&quot\;cms.content.updateUser&quot\;:{&quot\;_ref&quot\;:&
+ quot\;0000017e-e508-da74-a97e-f5ba66380000&quot\;\,&quot\;_type&quot\;:&qu
+ ot\;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot\;}\,&quot\;cms.directory.pat
+ hs&quot\;:[]\,&quot\;anchorable.showAnchor&quot\;:false\,&quot\;link&quot\
+ ;:{&quot\;cms.directory.paths&quot\;:[]\,&quot\;attributes&quot\;:[]\,&quo
+ t\;linkText&quot\;:&quot\;events@vermontpublic.org&quot\;\,&quot\;target&q
+ uot\;:&quot\;NEW&quot\;\,&quot\;attachSourceUrl&quot\;:false\,&quot\;url&q
+ uot\;:&quot\;mailto:events@vermontpublic.org&quot\;\,&quot\;_id&quot\;:&qu
+ ot\;0000019e-4ad1-d307-abfe-cffba6440000&quot\;\,&quot\;_type&quot\;:&quot
+ \;ff658216-e70f-39d0-b660-bdfe57a5599a&quot\;}\,&quot\;_id&quot\;:&quot\;0
+ 000019e-4ad1-d307-abfe-cffba6440001&quot\;\,&quot\;_type&quot\;:&quot\;809
+ caec9-30e2-3666-8b71-b32ddbffc288&quot\;}">events@vermontpublic.org</a>.<b
+ r/>\n\nSources: Vermont Public
 LOCATION:Location: Upper Valley
 URL:https://www.vermontpublic.org/vermont-events-calendar/event/aug-12-eye
  -on-the-sky-stargazing-party-at-billings-farm-21-05-2026-09-58-35
@@ -482,7 +482,7 @@ BEGIN:VEVENT
 SUMMARY:DINO FEST at ECHO
 DTSTART:20260812T100000
 DTEND:20260812T150000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:1f9784629b30273c71b9cc531a73f7@vermont-events
 DESCRIPTION:Roar into a day packed with all things dinosaurs! Discover how
   these incredible creatures may have lived\, from their daily habits to th
@@ -501,7 +501,7 @@ BEGIN:VEVENT
 SUMMARY:Fletcher Free Library Book Discussion Group: The Wilderness
 DTSTART:20260812T183000
 DTEND:20260812T203000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:045f62ce41955ac047e2740a12fd41@vermont-events
 DESCRIPTION:Join other readers at this virtual discussion of The Wildernes
  s by Angela Flournoy.<br/><br/>Contact: Barbara Shatara at bshatara@burlin
@@ -514,7 +514,7 @@ BEGIN:VEVENT
 SUMMARY:NXT Rockumentary Film Series
 DTSTART:20260812T190000
 DTEND:20260812T210000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:5b106ef7d5be2f712951a60b8b57ae@vermont-events
 DESCRIPTION:Join us for the next installment of the NXT Rockumentary Film 
  Series. <br/><br/>This acclaimed music documentary offers a rare\, behind-
@@ -535,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260812T193000
 DTEND:20260812T213000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:d163bc751576e4b41d8561ed47df10@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/advice-at-dorset-theatre-festival-3
@@ -544,7 +544,7 @@ BEGIN:VEVENT
 SUMMARY:Community Health & Fun Fair
 DTSTART:20260813T160000
 DTEND:20260813T190000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:72212f6507819d20f5d737d064933a@vermont-events
 DESCRIPTION:This FREE fun\, family-friendly event is open to all ages and 
  will feature a wide range of health and wellness activities\, including:<b
@@ -564,7 +564,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260813T170000
 DTEND:20260813T190000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:f20184b8a1614326cdc7ab1f542e84@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/a-taste-of-new-england
@@ -573,7 +573,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260814T193000
 DTEND:20260814T213000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:a05b08f2d724004e2f63ceb112ae25@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/advice-at-dorset-theatre-festival-5
@@ -582,7 +582,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260815T140000
 DTEND:20260815T160000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:5858af34cb7c01afd63eea2296a4f1@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/advice-at-dorset-theatre-festival-closing
@@ -592,7 +592,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260816T100000
 DTEND:20260816T120000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:ffdf82237ba9247fcf8bcffab65aa5@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/sunday-classical-equinox-wind-quintet
@@ -601,7 +601,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260821T193000
 DTEND:20260821T213000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:edcf8b916215dbfadabf6ba034e1fd@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/lobby-hero-at-dorset-theatre-festival-pre
@@ -611,7 +611,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260822T110000
 DTEND:20260822T130000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:385aaa368d853566167d68a12dd9f4@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/best-of-vermont-summer-festival
@@ -620,7 +620,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260823T190000
 DTEND:20260823T210000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:c8362eebb2c31185913cd3e24d6506@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/dan-tyminski-band-music-in-the-meadow
@@ -629,7 +629,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260826T193000
 DTEND:20260826T213000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:fc566de95c97b433d02547d3b77163@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/lobby-hero-at-dorset-theatre-festival-8
@@ -638,7 +638,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260827T193000
 DTEND:20260827T213000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:f0dfc32fb682c51bb6ea8c1cd42702@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/lobby-hero-at-dorset-theatre-festival-9
@@ -647,7 +647,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260828T193000
 DTEND:20260828T213000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:7bfcb373bf7026d38b0e1dd80f0ca2@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/alex-clark-jokes-from-the-brink-stand-up-
@@ -657,7 +657,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260829T140000
 DTEND:20260829T160000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:541129ef3ad475b1208aeda3daa394@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/artist-in-residence-presentation-2
@@ -666,7 +666,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260830T100000
 DTEND:20260830T120000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:3d7143a9fe06981f15116c411809ef@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/braintree-bluegrass-brunch-ida-mae-specke
@@ -676,7 +676,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260902T193000
 DTEND:20260902T213000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:b24d3ff35b8b156a40041ab3c8fbc0@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/lobby-hero-at-dorset-theatre-festival-3
@@ -685,7 +685,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260903T193000
 DTEND:20260903T213000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:e9ac4acb10b1218f32c2228e2ba8ff@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/lobby-hero-at-dorset-theatre-festival-4
@@ -694,7 +694,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260904T193000
 DTEND:20260904T213000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:06a1d65f47176a88c0c504f09f9932@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/lobby-hero-at-dorset-theatre-festival-5
@@ -703,7 +703,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260905T100000
 DTEND:20260905T120000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:e702d6549dcc260bc7fcb3cb7356df@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/farmers-market-3
@@ -712,7 +712,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260906T110000
 DTEND:20260906T130000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:a1f97575e588ff8c9de9769772fc5b@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/fall-festival
@@ -721,7 +721,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260909T170000
 DTEND:20260909T190000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:71af5e7a4fb20dd0ce1b7c20f2d991@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/art-amplified-featuring-paper-castles-and
@@ -731,7 +731,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260910T173000
 DTEND:20260910T193000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:6899485c7fa93cb341c131f3b5a301@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/billings-after-hours-charcuterie-workshop
@@ -741,7 +741,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260912T070000
 DTEND:20260912T090000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:389055b0abc6bd5f1f740f18eabb62@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/21st-annual-kelly-brush-ride
@@ -750,7 +750,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260918T173000
 DTEND:20260918T193000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:77165aeaacec717e135b40236d0a0f@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/cores-pours-a-farm-to-cider-tasting-event
@@ -759,7 +759,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260919T120000
 DTEND:20260919T140000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:7051b9741134be30e5e9af30269e55@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/latin-american-connection-celebration
@@ -768,7 +768,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260920T090000
 DTEND:20260920T110000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:3e6895b126a47df042786682bc8eed@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/island-vines-10k-5k
@@ -777,7 +777,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260926T090000
 DTEND:20260926T110000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:780569a3007c948df4e52561a31c22@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/37th-annual-burke-fall-festival
@@ -786,7 +786,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20260927T190000
 DTEND:20260927T210000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:c2c933960680b7f229f7c0013b31ad@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/old-north-church-lamplight-services-2
@@ -795,7 +795,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20261001T193000
 DTEND:20261001T213000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:f15052599d63487147890de3045401@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/southern-culture-on-the-skids
@@ -804,7 +804,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20261003T140000
 DTEND:20261003T160000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:8201bdd32a34c7cfb2986c8ed8af8b@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/david-80-a-walk-sculpture-tour-with-the-a
@@ -814,7 +814,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20261004T100000
 DTEND:20261004T120000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:2b95a7a7f7b3b4ba9b1a8e2e89dc70@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/autumn-on-the-green
@@ -823,7 +823,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20261010T160000
 DTEND:20261010T180000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:612091e0bc7f93a1931630f75fe037@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/harvest-dinner
@@ -832,7 +832,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20261011T100000
 DTEND:20261011T120000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:68e8791088144a283b2de72f4b2e21@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/farmers-market
@@ -841,7 +841,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20261012T093000
 DTEND:20261012T113000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:d1141094dfc1af200ab40929eeedd2@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/the-north-face-race-to-the-summit
@@ -850,7 +850,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20261015T160000
 DTEND:20261015T180000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:108119d4721c7103620d60457be654@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/girls-who-play-with-fire-retreat-intensiv
@@ -860,7 +860,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20261112T173000
 DTEND:20261112T193000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:394216ca8b19dd5e74dda19ecc0708@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/billings-after-hours-charcuterie-workshop
@@ -870,7 +870,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20261115T103000
 DTEND:20261115T123000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:e5df2745ef74e73e521b405c728b6e@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/fall-makers-market-2026
@@ -879,7 +879,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Guides
 DTSTART:20261210T173000
 DTEND:20261210T193000
-DTSTAMP:20260811T133931Z
+DTSTAMP:20260811T183650Z
 UID:914fc2f7cbaf0e843814bc1a125250@vermont-events
 DESCRIPTION:Sources: Vermont.com
 URL:https://vermont.com/calendar/billings-after-hours-mixology-workshop
