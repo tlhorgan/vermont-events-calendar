@@ -407,8 +407,10 @@ def fetch_vermont_com():
 
 def fetch_vermont_public():
     """
-    Discover Vermont Public individual event pages and use JSON-LD
-    when available.
+    Discover Vermont Public event pages and parse the visible HTML.
+
+    Vermont Public currently renders event details directly on each page:
+    title, venue, date/time, description, and address.
     """
 
     soup = BeautifulSoup(
@@ -418,10 +420,7 @@ def fetch_vermont_public():
 
     urls = set()
 
-    for a in soup.find_all(
-        "a",
-        href=True,
-    ):
+    for a in soup.find_all("a", href=True):
         href = a["href"]
 
         if "/vermont-events-calendar/event/" not in href:
@@ -454,211 +453,398 @@ def fetch_vermont_public():
                 "html.parser",
             )
 
-            found = False
+            # ---------- TITLE ----------
 
-            for tag in page.find_all(
-                "script",
-                attrs={
-                    "type": "application/ld+json"
-                },
-            ):
-                raw = (
-                    tag.string
-                    or tag.get_text()
+            h1 = page.find("h1")
+
+            if not h1:
+                print(
+                    f"Vermont Public skip "
+                    f"(no title): {url}"
+                )
+                continue
+
+            title = clean(
+                h1.get_text(
+                    " ",
+                    strip=True,
+                )
+            )
+
+            if not valid_title(title):
+                continue
+
+            lines = [
+                clean(x)
+                for x in page.get_text(
+                    "\n",
+                    strip=True,
+                ).splitlines()
+                if clean(x)
+            ]
+
+            full_text = "\n".join(lines)
+
+            # ---------- DATE / TIME ----------
+
+            start = None
+            end = None
+
+            # Example:
+            # 04:00 PM - 06:00 PM on Wed, 26 Aug 2026
+            single = re.search(
+                r"(\d{1,2}:\d{2}\s*(?:AM|PM))"
+                r"\s*[-–—]\s*"
+                r"(\d{1,2}:\d{2}\s*(?:AM|PM))"
+                r"\s+on\s+"
+                r"(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun),?\s+"
+                r"(\d{1,2}\s+[A-Za-z]{3,9}\s+20\d{2})",
+                full_text,
+                re.I,
+            )
+
+            if single:
+                d = dtparser.parse(
+                    single.group(3)
+                ).date()
+
+                start_time = dtparser.parse(
+                    single.group(1)
+                ).time()
+
+                end_time = dtparser.parse(
+                    single.group(2)
+                ).time()
+
+                start = datetime.combine(
+                    d,
+                    start_time,
                 )
 
-                if not raw:
-                    continue
-
-                try:
-                    import json
-                    data = json.loads(raw)
-                except Exception:
-                    continue
-
-                objects = (
-                    data
-                    if isinstance(data, list)
-                    else [data]
+                end = datetime.combine(
+                    d,
+                    end_time,
                 )
 
-                expanded = []
+                if end <= start:
+                    end += timedelta(days=1)
 
-                for obj in objects:
-                    if (
-                        isinstance(obj, dict)
-                        and isinstance(
-                            obj.get("@graph"),
-                            list,
-                        )
+            # Example:
+            # 04:00 PM - 08:00 PM, every day through Aug 19, 2026.
+            if start is None:
+                recurring = re.search(
+                    r"(\d{1,2}:\d{2}\s*(?:AM|PM))"
+                    r"\s*[-–—]\s*"
+                    r"(\d{1,2}:\d{2}\s*(?:AM|PM))"
+                    r",\s*every\s+day\s+through\s+"
+                    r"([A-Za-z]{3,9}\s+\d{1,2},\s+20\d{2})",
+                    full_text,
+                    re.I,
+                )
+
+                if recurring:
+                    # For recurring events, use the first actual event date
+                    # found in the page text.
+                    date_candidates = re.findall(
+                        r"\b([A-Za-z]{3,9}\s+\d{1,2},\s+20\d{2})\b",
+                        full_text,
+                        re.I,
+                    )
+
+                    end_date = dtparser.parse(
+                        recurring.group(3)
+                    ).date()
+
+                    start_date = None
+
+                    for candidate in date_candidates:
+                        try:
+                            candidate_date = dtparser.parse(
+                                candidate
+                            ).date()
+
+                            if candidate_date <= end_date:
+                                start_date = candidate_date
+                                break
+                        except Exception:
+                            pass
+
+                    if not start_date:
+                        start_date = end_date
+
+                    start_time = dtparser.parse(
+                        recurring.group(1)
+                    ).time()
+
+                    end_time = dtparser.parse(
+                        recurring.group(2)
+                    ).time()
+
+                    start = datetime.combine(
+                        start_date,
+                        start_time,
+                    )
+
+                    end = datetime.combine(
+                        start_date,
+                        end_time,
+                    )
+
+                    if end <= start:
+                        end += timedelta(days=1)
+
+            # Example:
+            # Every week through Aug 13, 2026.
+            # Thursday: 05:30 PM - 08:00 PM
+            if start is None:
+                weekly = re.search(
+                    r"Every\s+week\s+through\s+"
+                    r"([A-Za-z]{3,9}\s+\d{1,2},\s+20\d{2})"
+                    r".*?"
+                    r"(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday):"
+                    r"\s*"
+                    r"(\d{1,2}:\d{2}\s*(?:AM|PM))"
+                    r"\s*[-–—]\s*"
+                    r"(\d{1,2}:\d{2}\s*(?:AM|PM))",
+                    full_text,
+                    re.I | re.S,
+                )
+
+                if weekly:
+                    through_date = dtparser.parse(
+                        weekly.group(1)
+                    ).date()
+
+                    weekday_name = weekly.group(
+                        2
+                    ).lower()
+
+                    weekday_lookup = {
+                        "monday": 0,
+                        "tuesday": 1,
+                        "wednesday": 2,
+                        "thursday": 3,
+                        "friday": 4,
+                        "saturday": 5,
+                        "sunday": 6,
+                    }
+
+                    target_weekday = weekday_lookup[
+                        weekday_name
+                    ]
+
+                    # Work backward from the through-date to
+                    # the most recent matching weekday.
+                    start_date = through_date
+
+                    while (
+                        start_date.weekday()
+                        != target_weekday
                     ):
-                        expanded.extend(
-                            obj["@graph"]
-                        )
-                    else:
-                        expanded.append(obj)
-
-                for obj in expanded:
-                    if not isinstance(obj, dict):
-                        continue
-
-                    types = obj.get(
-                        "@type",
-                        [],
-                    )
-
-                    if isinstance(
-                        types,
-                        str,
-                    ):
-                        types = [types]
-
-                    if not any(
-                        "Event" in str(t)
-                        for t in types
-                    ):
-                        continue
-
-                    title = clean(
-                        obj.get("name")
-                    )
-
-                    if not valid_title(title):
-                        continue
-
-                    start_raw = obj.get(
-                        "startDate"
-                    )
-
-                    if not start_raw:
-                        continue
-
-                    start = dtparser.parse(
-                        str(start_raw)
-                    )
-
-                    if start.tzinfo:
-                        start = start.replace(
-                            tzinfo=None
+                        start_date -= timedelta(
+                            days=1
                         )
 
-                    end_raw = obj.get(
-                        "endDate"
+                    start_time = dtparser.parse(
+                        weekly.group(3)
+                    ).time()
+
+                    end_time = dtparser.parse(
+                        weekly.group(4)
+                    ).time()
+
+                    start = datetime.combine(
+                        start_date,
+                        start_time,
                     )
 
-                    if end_raw:
-                        end = dtparser.parse(
-                            str(end_raw)
-                        )
-
-                        if end.tzinfo:
-                            end = end.replace(
-                                tzinfo=None
-                            )
-                    else:
-                        end = (
-                            start
-                            + timedelta(hours=2)
-                        )
-
-                    location = ""
-
-                    loc = obj.get(
-                        "location"
+                    end = datetime.combine(
+                        start_date,
+                        end_time,
                     )
 
-                    if isinstance(
-                        loc,
-                        dict,
-                    ):
-                        parts = []
+                    if end <= start:
+                        end += timedelta(days=1)
 
-                        if loc.get("name"):
-                            parts.append(
-                                clean(
-                                    loc.get("name")
-                                )
-                            )
-
-                        address = loc.get(
-                            "address"
-                        )
-
-                        if isinstance(
-                            address,
-                            dict,
-                        ):
-                            for field in [
-                                "streetAddress",
-                                "addressLocality",
-                                "addressRegion",
-                                "postalCode",
-                            ]:
-                                value = clean(
-                                    address.get(
-                                        field
-                                    )
-                                )
-
-                                if value:
-                                    parts.append(
-                                        value
-                                    )
-
-                        elif isinstance(
-                            address,
-                            str,
-                        ):
-                            parts.append(
-                                clean(address)
-                            )
-
-                        location = ", ".join(
-                            dict.fromkeys(
-                                p for p in parts
-                                if p
-                            )
-                        )
-
-                    description = clean(
-                        BeautifulSoup(
-                            str(
-                                obj.get(
-                                    "description",
-                                    "",
-                                )
-                            ),
-                            "html.parser",
-                        ).get_text(" ")
-                    )
-
-                    event_url = clean(
-                        obj.get("url")
-                    ) or url
-
-                    items.append(
-                        make_item(
-                            title=title,
-                            start=start,
-                            end=end,
-                            location=location,
-                            description=description,
-                            url=event_url,
-                            source="Vermont Public",
-                        )
-                    )
-
-                    found = True
-                    break
-
-                if found:
-                    break
-
-            if not found:
+            if start is None:
                 print(
                     "Vermont Public skip "
-                    f"(no structured event): {url}"
+                    f"(no usable date): {url}"
                 )
+                continue
+
+            if end is None:
+                end = start + timedelta(
+                    hours=2
+                )
+
+            # ---------- LOCATION ----------
+
+            location = ""
+
+            # Find "Event Supported By", then inspect the following
+            # lines. Vermont Public generally lists venue name,
+            # street, city/state/ZIP there.
+            try:
+                support_index = next(
+                    i for i, line in enumerate(lines)
+                    if norm(line)
+                    == "event supported by"
+                )
+            except StopIteration:
+                support_index = -1
+
+            location_parts = []
+
+            if support_index >= 0:
+                tail = lines[
+                    support_index + 1:
+                ]
+
+                # Look for a street-address line.
+                street_index = None
+
+                for i, line in enumerate(tail):
+                    if re.search(
+                        r"\b\d+\s+.+"
+                        r"\b(?:St|Street|Rd|Road|Ave|Avenue|"
+                        r"Dr|Drive|Ln|Lane|Way|Blvd|Boulevard|"
+                        r"Route|Rte|Parkway|Pkwy)\b",
+                        line,
+                        re.I,
+                    ):
+                        street_index = i
+                        break
+
+                if street_index is not None:
+                    # Venue is commonly immediately before the address.
+                    if street_index > 0:
+                        venue = tail[
+                            street_index - 1
+                        ]
+
+                        if (
+                            "@" not in venue
+                            and not venue.startswith(
+                                "http"
+                            )
+                        ):
+                            location_parts.append(
+                                venue
+                            )
+
+                    location_parts.append(
+                        tail[street_index]
+                    )
+
+                    if (
+                        street_index + 1
+                        < len(tail)
+                    ):
+                        city_line = tail[
+                            street_index + 1
+                        ]
+
+                        if re.search(
+                            r"\bVermont\b|\bVT\b",
+                            city_line,
+                            re.I,
+                        ):
+                            location_parts.append(
+                                city_line
+                            )
+
+            # Fallback: find a likely venue immediately before
+            # the displayed price/time section.
+            if not location_parts:
+                for i, line in enumerate(lines):
+                    if re.match(
+                        r"^(Free|\$|FREE)",
+                        line,
+                        re.I,
+                    ):
+                        if i > 0:
+                            candidate = lines[i - 1]
+
+                            if (
+                                candidate != title
+                                and len(candidate) < 120
+                            ):
+                                location_parts.append(
+                                    candidate
+                                )
+                        break
+
+            location = ", ".join(
+                dict.fromkeys(
+                    x for x in location_parts
+                    if x
+                )
+            )
+
+            # ---------- DESCRIPTION ----------
+
+            description_lines = []
+
+            # Vermont Public repeats the h1, so start after
+            # the last occurrence of the title.
+            title_indexes = [
+                i for i, line in enumerate(lines)
+                if norm(line) == norm(title)
+            ]
+
+            if title_indexes:
+                start_index = title_indexes[-1] + 1
+
+                for line in lines[start_index:]:
+                    if norm(line) == "event supported by":
+                        break
+
+                    if re.match(
+                        r"^(Free|\$|FREE)",
+                        line,
+                        re.I,
+                    ):
+                        continue
+
+                    if re.search(
+                        r"\d{1,2}:\d{2}\s*(?:AM|PM)",
+                        line,
+                        re.I,
+                    ):
+                        continue
+
+                    if line in location_parts:
+                        continue
+
+                    if line.lower() in {
+                        "image",
+                        "get tickets",
+                        "read more",
+                    }:
+                        continue
+
+                    description_lines.append(
+                        line
+                    )
+
+            description = clean(
+                " ".join(
+                    description_lines
+                )
+            )
+
+            items.append(
+                make_item(
+                    title=title,
+                    start=start,
+                    end=end,
+                    location=location,
+                    description=description,
+                    url=url,
+                    source="Vermont Public",
+                )
+            )
 
         except Exception as exc:
             print(
