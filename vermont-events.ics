@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Rock River Players: 'Betrayal' by Harold Pinter
 DTSTART:20260830T143000
 DTEND:20260830T170000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:cde6c84afba5d91df83067f2b5bda9@vermont-events
 DESCRIPTION:The Rock River Players (RRP) present Harold Pinter’s Betraya
  l as its last show of the RRP summer season August 21 to 30 at the William
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Shakespeare in the Woods 2026 Season
 DTSTART:20260830T193000
 DTEND:20260830T213000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:0ec9f4500cd9631df44416a3595556@vermont-events
 DESCRIPTION:Shakespeare in the Woods (SitW) is proud to announce its 6th R
  epertory Season of fierce\, cutting-edge outdoor theatre. Hailed by audien
@@ -61,121 +61,10 @@ URL:https://www.vermontpublic.org/vermont-events-calendar/event/shakespear
  e-in-the-woods-2026-season-17-07-2026-07-03-27
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Artist Talk with Will Kasso Condry of Juniper Creative Arts
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-DTSTAMP:20260903T150329Z
-UID:40bfeb32951b9cfb6517ddc458bc4b@vermont-events
-DESCRIPTION:Meet artist and co-founder of Juniper Creative Arts\, Will Kas
- so Condry\, for a tour of his solo exhibition Everything is Everything\, f
- ollowed by a group discussion. Exploring the intersection of community and
-  the positive impact of art\, Kasso Condry discusses his creative practice
- \, journey of healing\, and family mythology. BCA’s Summer exhibitions a
- re supported in part by the Maslow Family Foundation. Hospitality sponsors
- \, Sugarsnap and Lake Champlain Chocolates. Burlington City Arts is suppor
- ted in part by the Vermont Arts Council & the National Endowment for the A
- rts.\n\nSources: Vermont.com\, Vermont Public
-LOCATION:Burlington City Arts\, Burlington\, VT
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/artist-tal
- k-with-will-kasso-condry-of-juniper-creative-arts-21-08-2026-13-46-13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:August Exhibitions + Opening Reception at Bryan Gallery in Jeffers
- onville
-DTSTART:20260903T170000
-DTEND:20260903T190000
-DTSTAMP:20260903T150329Z
-UID:87e14cc1b87e1ac8aa40bba9084357@vermont-events
-DESCRIPTION:Land & Light & Water & Air [August 26 – October 25] Main Gal
- lery The Gallery’s largest exhibit of traditional landscape and plein ai
- r works\, this is also the Gallery's flagship exhibit. The exhibit contain
- s a blend of works by artists who frequently show in the Gallery\, as well
-  as some of our newest artists. The 100+ works in this exhibit visually br
- ing viewers to beautiful vistas around New England\, in mediums that range
-  from painted silks to watercolor and gouache. This is the only exhibit fo
- r which the Gallery presents awards. Postcards from Here [August 26 – Oc
- tober 25] Middle Room Gallery This exhibit re-imagines vintage postcards\,
-  capturing the nostalgia of travel to special places\, and remembering the
- m with keepsake cards. As mailed letters and cards continue to decline\, t
- his display celebrates a time when hand-addressed mail was special and hig
- hly anticipated. Opening Reception & Award Ceremony: Thursday\, September 
- 3\, 5 – 7pm\, in Jeffersonville Celebrate with us! Meet our artists and 
- snack on homemade treats. Enjoy remarks from our Gallery Director and awar
- d presentations. Free and open to the public!\n\nSources: Vermont Public
-LOCATION:Bryan Art Gallery\, 180 Main Street
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/august-exh
- ibitions-opening-reception-at-bryan-gallery-in-jeffersonville-03-08-2026-1
- 1-59-33
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Botanical Tea & Flower Arranging w/ Ann Ogden Hausslein
-DTSTART:20260903T150000
-DTEND:20260903T160000
-DTSTAMP:20260903T150329Z
-UID:3eb49653c3b6f1e6b1264c576af827@vermont-events
-DESCRIPTION:Gather with friends at the greenhouse and gardens in the dene 
- at the height of the summer season to learn how to cut and arrange beautif
- ul seasonal flowers while enjoying refreshing herbal teas made from our ow
- n herbs and garden botanicals. Participants will create a fresh bouquet to
-  take home while learning simple floral arranging techniques inspired by H
- ildene's gardens. Please bring a favorite vase. Registration is required b
- y Sept. 2. This program does not include admission to Hildene for the day.
- \n\nSources: Vermont Public
-LOCATION:Hildene\, 1005 Hildene Rd
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/botanical-
- tea-flower-arranging-w-ann-ogden-hausslein-13-08-2026-16-39-43
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HOW TO DIVORCE DURING THE WAR
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-DTSTAMP:20260903T150329Z
-UID:9f2f52b2efece9589afd8b6335855c@vermont-events
-DESCRIPTION:VTIFF Vilnius\, 2022. High-flying executive Marija (Zygimante 
- Elena Jakstaite) chooses the worst possible moment to inform her husband V
- ytas (Marius Repsys) she wants a divorce: just one day before...\n\nSource
- s: Vermont.com\, Vermont Public
-LOCATION:Film House at Main Street Landing\, 60 Lake Street
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/how-to-div
- orce-during-the-war-11-08-2026-14-55-01
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lobby Hero at Dorset Theatre Festival
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-DTSTAMP:20260903T150329Z
-UID:e035593c1f48250ea4dc8d9dcd5489@vermont-events
-DESCRIPTION:Lobby Hero at Theatre Festival Theatre Festival Kenneth Lonerg
- an's comedy-drama closes the Festival's 49th season\, directed by M. Bevin
-  O'Gara. In the lobby of a Manhattan apartment building\, a murder investi
- gation entangles a drifting security...\n\nSources: Vermont.com
-LOCATION:Dorset Theatre Festival\, Dorset\, VT
-URL:https://vermont.com/calendar/lobby-hero-at-dorset-theatre-festival-4/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Mic at Brookfield Old Town Hall
-DTSTART:20260903T183000
-DTEND:20260903T203000
-DTSTAMP:20260903T150329Z
-UID:826affab224b0665ef1f1c33050713@vermont-events
-DESCRIPTION:Calling all musicians\, storytellers\, performers\, poets\, da
- ncers\, comedians\, and supporters! Come join us for a night of fun and en
- tertainment at our community open mic night! Share your talent with a frie
- ndly audience and meet like-minded individuals in a supportive and creativ
- e environment. Whether you're a seasoned performer or a first-timer\, our 
- stage is open to everyone. For those participating it is recommended that 
- you arrive early for registration. Additionally\, please note that a basic
-  sound system will be available on-site. Enjoy the evening with BYO food a
- nd BYOB.\n\nSources: Vermont Public
-LOCATION:Brookfield Old Town Hall\, 93 Stone Road
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/open-mic-a
- t-brookfield-old-town-hall-18-08-2026-11-39-36
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bass Recital in Montpelier
 DTSTART:20260904T190000
 DTEND:20260904T203000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:8c20d9bbb8fc346194b738cbee6964@vermont-events
 DESCRIPTION:Enjoy an evening of music for double bass and piano in the sup
  erb acoustics of Christ Episcopal Church in Montpelier. The program featur
@@ -205,63 +94,33 @@ DESCRIPTION:Enjoy an evening of music for double bass and piano in the sup
  eriodically Audience Emails Program Schedules | Full TV listings for all c
  hannels\, sent monthly This Week | Weekly program highlights\, sent each w
  eekend Events | Upcoming Vermont Public events\, sent occasionally Station
-  Updates | Sent occasionally Recently Added Oct 7 | Mary Oliver: Saved By 
- the Beauty of the World film screening Dec 1 | Brave Little State at 14th 
- Star Brewery Oct 28 | Brave Little State at The Miller's Toll Oct 22 | An 
- Evening with Amna Nawaz of the PBS News Hour Stay Connected twitter instag
- ram youtube bluesky facebook Vermont Public is independent\, community-sup
- ported media\, serving Vermont with trusted\, relevant and essential infor
- mation. We share stories that bring people together\, from every corner of
-  our region. © 2026 Vermont Public | 365 Troy Ave. Colchester\, VT 05446 
- Public Files: WVTI · WOXM · WVBA · WVNK · WVTQ WVPR · WRVT · WOXR ·
-  WNCH · WVPA WVPS · WVXR · WETK · WVTB · WVER WVER-FM · WVLR-FM · W
- BTN-FM For assistance accessing our public files\, please contact hello@ve
- rmontpublic.org or call 802-655-9451. ABOUT About Us Announcements Our Tea
- m Board of Directors Community Forum Careers & Internships Vermont Public 
- in Canada POLICIES & REPORTS Privacy Policy Ethics\, Editorial and Other P
- olicies EEO Reports & Statement FCC Applications Financial Information Con
- test Rules SUPPORT US Donate Now Update Membership Philanthropy Legacy Giv
- ing Business Sponsorship Donate Your Car Vermont Public Passport\n\nSource
- s: Vermont Public
+  Updates | Sent occasionally Recently Added Stone Valley Arts and the Verm
+ ont Watercolor Society Present the Westside Hub Exhibition 2026 Meanwhile 
+ in Vermont... Where do we show up in our nation's founding documents? Book
+ s & Bulbs Sale to benefit Cutler Memorial Library in Plainfield Vermont Ag
+ riculture: A Renaissance of the Past Stay Connected twitter instagram yout
+ ube bluesky facebook Vermont Public is independent\, community-supported m
+ edia\, serving Vermont with trusted\, relevant and essential information. 
+ We share stories that bring people together\, from every corner of our reg
+ ion. © 2026 Vermont Public | 365 Troy Ave. Colchester\, VT 05446 Public F
+ iles: WVTI · WOXM · WVBA · WVNK · WVTQ WVPR · WRVT · WOXR · WNCH ·
+  WVPA WVPS · WVXR · WETK · WVTB · WVER WVER-FM · WVLR-FM · WBTN-FM F
+ or assistance accessing our public files\, please contact hello@vermontpub
+ lic.org or call 802-655-9451. ABOUT About Us Announcements Our Team Board 
+ of Directors Community Forum Careers & Internships Vermont Public in Canad
+ a POLICIES & REPORTS Privacy Policy Ethics\, Editorial and Other Policies 
+ EEO Reports & Statement FCC Applications Financial Information Contest Rul
+ es SUPPORT US Donate Now Update Membership Philanthropy Legacy Giving Busi
+ ness Sponsorship Donate Your Car Vermont Public Passport\n\nSources: Vermo
+ nt Public
 URL:https://www.vermontpublic.org/vermont-events-calendar/event/bass-recit
  al-in-montpelier-08-08-2026-14-41-36
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Carole Vasta Folley's Control Top
-DTSTART:20260904T193000
-DTEND:20260904T210000
-DTSTAMP:20260903T150329Z
-UID:79d538bde0e3930c9f20c5d2a9f189@vermont-events
-DESCRIPTION:“IT HAS POCKETS!” This common exclamation among women open
- s Control Top\, a funny and poignant new play hosted by Lost Nation Theate
- r\, for two nights only\, September 3 and 4\, in their cozy but elegant ho
- me at Montpelier City Hall Arts Center. Written by Vermont playwright Caro
- le Vasta Folley\, the production features an ensemble of five women reflec
- ting on their lifelong relationships with clothing\, revealing what lies b
- eneath the very fabric of their lives. The cast of Control Top includes so
- me favorite actors from the Burlington theater scene: Kelly Kendall\, Lind
- a McGinnis\, Kimberly Rockwood\, Pam Toof Norton\, & playwright Carole Vas
- ta Folley.) Written with support from the Vermont Arts Council\, the Vermo
- nt Community Foundation\, and the National Endowment for the Arts\, the pl
- aywright began creating the piece by interviewing women\, hearing their pe
- rsonal stories of what they wear and why. Lost Nation Theater is delighted
-  to help bring this fun\, but important show\, to more audiences after the
-  play’s 2025 “premiere”. And don’t forget – not only is LNT air-
- conditioned\, but the elevator in Montpelier City Hall is once again fully
-  functional! (The show will still also be live streamed.) Runtime: 90 minu
- tes. A Discussion with the Cast and the Playwright follow for those who wi
- sh to stay. Visit www.lostnationtheater.org You can also reach LNT by phon
- e: 802-229-0492. email: info@lostnationtheater.org\n\nSources: Vermont Pub
- lic
-LOCATION:Lost Nation Theater\, 39 Main St
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/carole-vas
- ta-folleys-control-top-20-08-2026-14-01-47
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dead Sessions at Shelburne Vineyard
 DTSTART:20260904T200000
 DTEND:20260904T230000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:4feaf2472e3185a725847a70ef342e@vermont-events
 DESCRIPTION:Come see Dead Sessions in a magical setting at Shelburne Viney
  ard. Local vendors\, oyster bar\, wine by the glass\, charcuterie\, & NAs 
@@ -277,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:Gallery Walk: Circus at the Museum
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:0a2390323c146417e35be7ee139721@vermont-events
 DESCRIPTION:Museum & Art Center We’re staying open late (5-8 p.m.) for 
  ’s monthly first-Friday celebration of all things artful. Come check out
@@ -290,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:Homeschool Day at Fort Ticonderoga
 DTSTART:20260904T093000
 DTEND:20260904T170000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:b4d014d86146c71aa6c958e25e6982@vermont-events
 DESCRIPTION:Spend a day at Fort Ticonderoga and take part in a series of p
  rograms designed for homeschool families! Bring your students to experienc
@@ -309,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:Lobby Hero at Dorset Theatre Festival
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:f6a701eab41789b764968056dd0c04@vermont-events
 DESCRIPTION:Lobby Hero at Theatre Festival Theatre Festival Kenneth Lonerg
  an's comedy-drama closes the Festival's 49th season\, directed by M. Bevin
@@ -322,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:Second Hand Blues
 DTSTART:20260904T180000
 DTEND:20260904T210000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:acbe289bbe2d941638e2f99b2db86a@vermont-events
 DESCRIPTION:Second Hand Blues returns to the Pub for another night of toe-
  tapping blues songs from the 1940s through today\, with a sprinkling of ea
@@ -336,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Music at Grace: Andrew Wells-Oberegger
 DTSTART:20260904T190000
 DTEND:20260904T203000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:06e040201903aa77a4f58d1b0d29b0@vermont-events
 DESCRIPTION:Known for his mastery of an impressive variety of instruments 
  – such as classical guitar\, renaissance lute\, oud\, bagpipes\, saz\, m
@@ -371,24 +230,24 @@ DESCRIPTION:Known for his mastery of an impressive variety of instruments
  ly Audience Emails Program Schedules | Full TV listings for all channels\,
   sent monthly This Week | Weekly program highlights\, sent each weekend Ev
  ents | Upcoming Vermont Public events\, sent occasionally Station Updates 
- | Sent occasionally Recently Added Oct 7 | Mary Oliver: Saved By the Beaut
- y of the World film screening Dec 1 | Brave Little State at 14th Star Brew
- ery Oct 28 | Brave Little State at The Miller's Toll Oct 22 | An Evening w
- ith Amna Nawaz of the PBS News Hour Stay Connected twitter instagram youtu
- be bluesky facebook Vermont Public is independent\, community-supported me
- dia\, serving Vermont with trusted\, relevant and essential information. W
- e share stories that bring people together\, from every corner of our regi
- on. © 2026 Vermont Public | 365 Troy Ave. Colchester\, VT 05446 Public Fi
- les: WVTI · WOXM · WVBA · WVNK · WVTQ WVPR · WRVT · WOXR · WNCH · 
- WVPA WVPS · WVXR · WETK · WVTB · WVER WVER-FM · WVLR-FM · WBTN-FM Fo
- r assistance accessing our public files\, please contact hello@vermontpubl
- ic.org or call 802-655-9451. ABOUT About Us Announcements Our Team Board o
- f Directors Community Forum Careers & Internships Vermont Public in Canada
-  POLICIES & REPORTS Privacy Policy Ethics\, Editorial and Other Policies E
- EO Reports & Statement FCC Applications Financial Information Contest Rule
- s SUPPORT US Donate Now Update Membership Philanthropy Legacy Giving Busin
- ess Sponsorship Donate Your Car Vermont Public Passport\n\nSources: Vermon
- t Public
+ | Sent occasionally Recently Added Stone Valley Arts and the Vermont Water
+ color Society Present the Westside Hub Exhibition 2026 Meanwhile in Vermon
+ t... Where do we show up in our nation's founding documents? Books & Bulbs
+  Sale to benefit Cutler Memorial Library in Plainfield Vermont Agriculture
+ : A Renaissance of the Past Stay Connected twitter instagram youtube blues
+ ky facebook Vermont Public is independent\, community-supported media\, se
+ rving Vermont with trusted\, relevant and essential information. We share 
+ stories that bring people together\, from every corner of our region. © 2
+ 026 Vermont Public | 365 Troy Ave. Colchester\, VT 05446 Public Files: WVT
+ I · WOXM · WVBA · WVNK · WVTQ WVPR · WRVT · WOXR · WNCH · WVPA WVP
+ S · WVXR · WETK · WVTB · WVER WVER-FM · WVLR-FM · WBTN-FM For assist
+ ance accessing our public files\, please contact hello@vermontpublic.org o
+ r call 802-655-9451. ABOUT About Us Announcements Our Team Board of Direct
+ ors Community Forum Careers & Internships Vermont Public in Canada POLICIE
+ S & REPORTS Privacy Policy Ethics\, Editorial and Other Policies EEO Repor
+ ts & Statement FCC Applications Financial Information Contest Rules SUPPOR
+ T US Donate Now Update Membership Philanthropy Legacy Giving Business Spon
+ sorship Donate Your Car Vermont Public Passport\n\nSources: Vermont Public
 LOCATION:Grace Episcopal Church
 URL:https://www.vermontpublic.org/vermont-events-calendar/event/summer-mus
  ic-at-grace-andrew-wells-oberegger-28-08-2026-12-00-11
@@ -397,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:VT Reads Author Presentation with Tillie Walden
 DTSTART:20260904T180000
 DTEND:20260904T193000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:21018e7525d72064ae39a937025352@vermont-events
 DESCRIPTION:Join us for this special presentation from Tillie Walden about
   the creation of Charity & Sylvia\, the 2026 Vermont Reads book selection.
@@ -433,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:Wood Fired Fridays at The Clubhouse Grille with Brody Schenk
 DTSTART:20260904T170000
 DTEND:20260904T200000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:5900d17cc8d23850006ab7a540767d@vermont-events
 DESCRIPTION:Starting June 26th join us for house-made wood-fired pizzas\, 
  live music\, and specialty summer cocktails every Friday from 5-9 p.m. Ord
@@ -447,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:55th Annual Mad River Valley Craft Fair
 DTSTART:20260905T100000
 DTEND:20260905T170000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:9ada569bdc6e054aaddbe0fe12ac36@vermont-events
 DESCRIPTION:The Valley Players Enjoy a great family day at the \, Labor Da
  y weekend\, Sept 5 & 6\, 10 am-5 pm\, at Kenyon’s Field\, 3337 Main St.
@@ -459,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:Country Festival on the Farm
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:226425c858cb2b66d4fedee6018b2e@vermont-events
 DESCRIPTION:North Meadow Farm Join us for North Meadow Farm's 10-year anni
  versary celebration. Enjoy local food\, crafts\, animals\, and more! A hay
@@ -472,21 +331,124 @@ BEGIN:VEVENT
 SUMMARY:Harpoon x L.L.Bean Flannel Friday Launch Party
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
-DTSTAMP:20260903T150329Z
-UID:be64c0e7a18d595fbcb8e55a20a67b@vermont-events
-DESCRIPTION:Harpoon Taproom and Beer Garden Join Harpoon Brewery and L.L.B
- ean at the Harpoon Brewery & Taproom in \, Vermont for the official launch
-  of Harpoon x L.L.Bean Flannel Friday\, our limited-edition collaboration 
- beer inspired by...\n\nSources: Vermont.com
-LOCATION:Harpoon Taproom and Beer Garden\, Windsor\, VT
-URL:https://vermont.com/calendar/harpoon-x-l-l-bean-flannel-friday-launch-
- party/
+DTSTAMP:20260904T150035Z
+UID:d22ee4046d0d34f2a6bd1a6b78bfba@vermont-events
+DESCRIPTION:Join Harpoon Brewery and L.L.Bean at the Harpoon Brewery & Tap
+ room in Windsor\, Vermont for the official launch of Harpoon x L.L.Bean Fl
+ annel Friday\, our limited-edition collaboration beer inspired by the trad
+ itions that make autumn in New England unforgettable. Whether you’re sto
+ pping by for a pint\, bringing the family for an afternoon outdoors\, or j
+ ust looking for one more great way to spend Labor Day Weekend\, we’ve go
+ t plenty waiting for you. Saturday\, September 5 Rain Date: Friday\, Septe
+ mber 4 Harpoon Brewery Windsor\, VT What to Expect 🍺 Be among the first
+  to enjoy Flannel Friday Celebrate the release of our newest collaboration
+  with special Flannel Friday beer offerings available throughout the event
+ . 🎁 Win L.L.Bean Prizes Enter for your chance to take home great gear f
+ rom L.L.Bean. 👢 Explore the L.L.Bean Bootmobile The legendary Bootmobil
+ e will be on-site and ready for photos throughout the afternoon. 🎶 Live
+  Music Kick back with live local music while enjoying the brewery lawn. 
+ 🎯 Lawn Games & Outdoor Fun Cornhole\, yard games\, family-friendly acti
+ vities\, and plenty of space to relax. 🔥 Complimentary S’mores by the
+  Fire Pit Gather around the fire and enjoy a classic New England treat whi
+ le supplies last. 🌭 Great Food & Fresh Beer Our kitchen will be serving
+  up brewery favorites alongside fresh Harpoon beer. 🥤Complimentary Root
+  Beer Floats A classic New England favorite for the little adventurers. St
+ op by for a free root beer float while supplies last. 🛍️ Exclusive Ha
+ rpoon x L.L.Bean Merchandise Shop limited-edition collaboration merchandis
+ e including flannels\, hats & much more! 🐶 Dogs Welcome Well-behaved\, 
+ leashed dogs are invited to join in the fun\, too. Celebrate the Best of N
+ ew England Flannel Friday is more than just a beer—it’s a celebration 
+ of getting outside\, gathering with friends\, and embracing everything we 
+ love about New England in the fall. Whether your perfect autumn day includ
+ es a hike\, a campfire\, a brewery visit\, or simply spending time with fa
+ mily and friends\, this event is the perfect way to kick off the season. S
+ o grab your favorite flannel\, gather your crew\, and join us in Windsor f
+ or an unforgettable afternoon. Admission This event is free to attend and 
+ open to guests of all ages. Food\, beverages\, and merchandise will be ava
+ ilable for purchase.\n\nSources: Vermont.com\, Vermont Public
+LOCATION:Harpoon Taproom and Beer Garden\, 336 Ruth Carney Drive
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/harpoon-x-
+ l-l-bean-flannel-friday-launch-party-14-08-2026-15-41-18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jane Austen Tea
+DTSTART:20260905T140000
+DTEND:20260905T160000
+DTSTAMP:20260904T150035Z
+UID:55598c8af943454d2efc81eda0531c@vermont-events
+DESCRIPTION:Part of the Jane Austen weekend at The Governor's House\, the 
+ tea is open to the public. Although this is a full English afternoon tea m
+ ade popular during the Victorian Era with scones\, jam\, clotted cream\, f
+ inger sandwiches\, and tea cakes\, there will be readings and discussion o
+ f tea the way Jane Austen would have enjoyed it during the Regency Period.
+  100 Main Street Hyde Park \, Vermont 05655 8028886888 info@onehundredmain
+ .com https://www.OneHundredMain.com Submit An Event Find out what's happen
+ ing in your neck of the woods with Vermont Public's free Events newsletter
+ . Email Address * Editorial Emails Breaking News | sent occasionally The F
+ requency | Daily News Update\, sent weekday mornings Capitol Recap | Vermo
+ nt Legislature Wrap\, sent Fridays during the session Brave Little State |
+  People-Powered Journalism\, sent every other Saturday But Why | A Podcast
+  For Curious Kids\, sent every other Friday Homegoings | A righteous space
+  for art and race\, sent bi-weekly following an episode drop Out There | O
+ ut There | Your monthly dose of the environment + the great outdoors\, sen
+ t Thursday mor Supporter Emails Membership Renewal Notices | Sent 12 month
+ s after your most recent contribution The President's Report | A letter fr
+ om our president exclusively for members of our Producers Circle The Trans
+ mitter | A behind-the-scenes newsletter exclusively for active members\, s
+ ent the first Tues But Why Fan Club | Activity Newsletter exclusively for 
+ active members of the But Why Fan Club\, sent Other Fundraising Emails | M
+ atching challenges\, prize drawings and more\, sent periodically Audience 
+ Emails Program Schedules | Full TV listings for all channels\, sent monthl
+ y This Week | Weekly program highlights\, sent each weekend Events | Upcom
+ ing Vermont Public events\, sent occasionally Station Updates | Sent occas
+ ionally Recently Added Stone Valley Arts and the Vermont Watercolor Societ
+ y Present the Westside Hub Exhibition 2026 Meanwhile in Vermont... Where d
+ o we show up in our nation's founding documents? Books & Bulbs Sale to ben
+ efit Cutler Memorial Library in Plainfield Vermont Agriculture: A Renaissa
+ nce of the Past Stay Connected twitter instagram youtube bluesky facebook 
+ Vermont Public is independent\, community-supported media\, serving Vermon
+ t with trusted\, relevant and essential information. We share stories that
+  bring people together\, from every corner of our region. © 2026 Vermont 
+ Public | 365 Troy Ave. Colchester\, VT 05446 Public Files: WVTI · WOXM ·
+  WVBA · WVNK · WVTQ WVPR · WRVT · WOXR · WNCH · WVPA WVPS · WVXR ·
+  WETK · WVTB · WVER WVER-FM · WVLR-FM · WBTN-FM For assistance accessi
+ ng our public files\, please contact hello@vermontpublic.org or call 802-6
+ 55-9451. ABOUT About Us Announcements Our Team Board of Directors Communit
+ y Forum Careers & Internships Vermont Public in Canada POLICIES & REPORTS 
+ Privacy Policy Ethics\, Editorial and Other Policies EEO Reports & Stateme
+ nt FCC Applications Financial Information Contest Rules SUPPORT US Donate 
+ Now Update Membership Philanthropy Legacy Giving Business Sponsorship Dona
+ te Your Car Vermont Public Passport\n\nSources: Vermont Public
+LOCATION:Governor's House in Hyde Park\, 100 Main Street
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/jane-auste
+ n-tea-30-03-2026-21-17-25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinhaven Fall Concert Series
+DTSTART:20260905T170000
+DTEND:20260905T180000
+DTSTAMP:20260904T150035Z
+UID:12b2ce142e80e88fd4bb39549ad45c@vermont-events
+DESCRIPTION:Join us for inspiring performances by our Semester Program stu
+ dents\, the Trillium String Quartet\, violinist Deborah Buck\, and special
+  guest artists\, in partnership with venues across Southern VT and NY. Mor
+ e concerts will be announced soon! Kinhaven celebrates its milestone 75th 
+ Anniversary in 2027\, as well as the second year of its Semester Program i
+ ntensive for exceptional high school string students in collaboration with
+  Burr and Burton Academy (BBA). The first of its kind in the nation\, the 
+ Semester Program combines high-level academics at BBA with rigorous musica
+ l training at Kinhaven\, where students live\, study\, and perform with ea
+ ch other and artistic faculty\, the Trillium String Quartet\, with violini
+ st and Co-Executive Director Deborah Buck.\n\nSources: Vermont Public
+LOCATION:Manchester Community Library\, 138 Cemetery Ave
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/kinhaven-f
+ all-concert-series-21-08-2026-14-22-54
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kinhaven Fall Concert Series at Manchester Community Library
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:30514ccc208159aa37d98759f66e49@vermont-events
 DESCRIPTION:Kinhaven Fall Concert Series at Community Library Kinhaven Mus
  ic School Kinhaven celebrates the second year of its Semester Program inte
@@ -501,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:Lobby Hero at Dorset Theatre Festival - Closing Performance
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:e7dce11b0cb4a19b3de6d5d1fda60d@vermont-events
 DESCRIPTION:Lobby Hero at Theatre Festival - Closing Performance Theatre F
  estival Kenneth Lonergan's comedy-drama closes the Festival's 49th season
@@ -516,20 +478,33 @@ BEGIN:VEVENT
 SUMMARY:Plymouth Folk and Blues Festival
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
-DTSTAMP:20260903T150329Z
-UID:ac66c1157d1f3a7d848f5ea35aedaf@vermont-events
-DESCRIPTION:President Calvin Coolidge State Historic Site 2026 The 21st wi
- ll take place at the President Calvin Coolidge State Historic Site in Plym
- outh Notch\, Vermont\, on Labor Day...\n\nSources: Vermont.com
-LOCATION:President Calvin Coolidge State Historic Site\, Plymouth\, Vermon
- t\, VT
-URL:https://vermont.com/calendar/plymouth-folk-and-blues-festival/
+DTSTAMP:20260904T150035Z
+UID:805711ff444f49a4d03112b6d012a2@vermont-events
+DESCRIPTION:The 21st annual Plymouth Folk and Blues Festival will take pla
+ ce on Labor Day Weekend\, Saturday\, September 5 and Sunday\, September 6
+ \, 2026\, from 2:00 p.m. to 5:00 p.m. Stars from Vermont and international
+ ly known musicians team up for a lively two-day festival of folk and blues
+  music performed in the pure country air of historic Plymouth Notch\, birt
+ hplace of the 30th U.S. President. This year’s line-up will feature Grac
+ e Morrison\, Tom Pirozzoli\, and Joseph Parsons on Saturday\, as well as K
+ eruBo\, Sister Speak\, and The Kennedys on Sunday. Concertgoers are encour
+ aged to bring lawn chairs and a picnic for this outdoor event. All concert
+ s are free\, and cash donations to support the artists are appreciated and
+  go directly to the artists. Food donations of unexpired non-perishables f
+ or the Vermont Food Bank will also be collected. Calvin Coolidge State His
+ toric Site\n\nSources: Vermont.com\, Vermont Public
+LOCATION:Vermont Public is independent\, community-supported media\, servi
+ ng Vermont with trusted\, relevant and essential information. We share sto
+ ries that bring people together\, from every corner of our region.\, © 20
+ 26 Vermont Public | 365 Troy Ave. Colchester\, VT 05446
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/plymouth-f
+ olk-and-blues-festival-18-05-2026-12-57-52
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:River Of Dreams - A Tribute To Billy Joel Concert
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:3182e25cd821fe7ccc2642a194db02@vermont-events
 DESCRIPTION:Stratton Mountain River Of Dreams - A Tribute To Billy JoelStr
  atton Mountain Music summer series continues with River Of Dreams - A Trib
@@ -543,7 +518,7 @@ BEGIN:VEVENT
 SUMMARY:Shakespeare Alive! A Bard-Based Variety Show
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:08e610a51e68ece25e0bad0fe564a0@vermont-events
 DESCRIPTION:Stand Up Shakespeare Company The Stand Up Shakespeare Company 
  presents ONE FREE PERFORMANCE at the Calvin Coolidge State Historic Site i
@@ -557,7 +532,7 @@ BEGIN:VEVENT
 SUMMARY:Wild Inside
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:8c2ce796ec46c6a3885622e8f1925c@vermont-events
 DESCRIPTION:What would happen if a captive-born owl with no survival skill
  s tried to make it on his own in New York City? In Wild Inside\, we discov
@@ -582,13 +557,13 @@ DESCRIPTION:What would happen if a captive-born owl with no survival skill
  e Screening Room @ VTIFF 6-12\n\nSources: Vermont.com\, Vermont Public
 LOCATION:VTIFF\, Burlington\, VT
 URL:https://www.vermontpublic.org/vermont-events-calendar/event/wild-insid
- e-18-08-2026-14-30-56
+ e-18-08-2026-14-32-54
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fall Festival
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:b009bde5200cd22415577f30ec40f5@vermont-events
 DESCRIPTION:Stratton Mountain Vermont Vendors\, Cheese Makers\, Chefs and 
  ArtistsStratton's kicks off the Fall season in New England with this excit
@@ -601,7 +576,7 @@ BEGIN:VEVENT
 SUMMARY:Kinhaven Fall Concert Series
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:3a1c5634532a61f45e95abc9116377@vermont-events
 DESCRIPTION:Kinhaven Music School Kinhaven celebrates the second year of i
  ts Semester Program intensive for exceptional high school string students 
@@ -614,7 +589,7 @@ BEGIN:VEVENT
 SUMMARY:New World Festival
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:a6f71d35afb04a772798d2189407f2@vermont-events
 DESCRIPTION:Chandler Center for the Arts Get ready for an unforgettable ex
  perience at the 34th Annual ! Vermont's premier Celtic & Québecois music 
@@ -627,7 +602,7 @@ BEGIN:VEVENT
 SUMMARY:Art Amplified featuring Paper Castles and Roost.World
 DTSTART:20260909T170000
 DTEND:20260909T200000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:d638e1bc0295758f2723d4d8c45ac9@vermont-events
 DESCRIPTION:City Arts Wed\, Sep 9 2026\, 5 - 8pm 5 PM: Zaq Schuster and th
  e energetic vibes of Roost.World are well known throughout . From Groundho
@@ -641,7 +616,7 @@ BEGIN:VEVENT
 SUMMARY:Highway Hotel Tour: Wax + DJ Hoppa + Grieves @ Higher Ground
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:f364cd704cdc00018b8fae15bbdeac@vermont-events
 DESCRIPTION:Higher Ground Come hang out with Wax\, DJ Hoppa\, and Grieves 
  at Higher Ground where they’ll be spinning some sick beats and vibing al
@@ -655,7 +630,7 @@ BEGIN:VEVENT
 SUMMARY:Billings After Hours Charcuterie Workshop
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:ffa7aa36d88b36cfbeae27f868610a@vermont-events
 DESCRIPTION:Billings Farm & Museum Tap into your creativity and deepen you
  r connection to food through this fun\, hands-on workshop! Create a beauti
@@ -669,7 +644,7 @@ BEGIN:VEVENT
 SUMMARY:Bocce Tournament at Retreat Farm
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:bc76422f86e201cbe3fbccaf0d6014@vermont-events
 DESCRIPTION:Retreat Farm Do you love lawn games? Have you ever wanted to a
  rgue with friends or strangers over a lawn game in public? Do you like to 
@@ -682,7 +657,7 @@ BEGIN:VEVENT
 SUMMARY:4th Annual Groovin' on the Green
 DTSTART:20260911T180000
 DTEND:20260911T210000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:ea66dca6b8c582b81fec6179dde4bc@vermont-events
 DESCRIPTION:Vergennes Partnership It’s a BLOCK PARTY and YOU are invited
  ! Mark your calendar for Friday\, September 11\, 6-9pm. Enjoy an evening o
@@ -695,7 +670,7 @@ BEGIN:VEVENT
 SUMMARY:21st Annual Kelly Brush Ride
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:c29b549a69f239ea2158048a333354@vermont-events
 DESCRIPTION:Kelly Brush Foundation The \, powered by Union Mutual\, is bac
  k! This incredible fundraising event brings our community together to help
@@ -708,7 +683,7 @@ BEGIN:VEVENT
 SUMMARY:3rd Annual East Middlebury Appreciation Day
 DTSTART:20260912T110000
 DTEND:20260912T150000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:9e1811095f74da6b8b096aac150194@vermont-events
 DESCRIPTION:3rd Annual East Appreciation Day Valley Bible Church 3RD ANNUA
  L EAST MIDDLEBURY APPRECIATION DAY: Sat\, Sept 12 (Rain date: Sept 19)\, 1
@@ -722,7 +697,7 @@ BEGIN:VEVENT
 SUMMARY:Brain Freezer 5K
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:1e6a5154d2d9b2ae423ab773249066@vermont-events
 DESCRIPTION:People Helping People Global Lace up your running shoes and gr
  ab your spoons\, the is back!! If you are new to the race\, the rules are 
@@ -735,7 +710,7 @@ BEGIN:VEVENT
 SUMMARY:The Book of Genocides at Art Hop (INTERACTIVE TALK)
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:083f4ff85c579b98311452162fa1e6@vermont-events
 DESCRIPTION:Harvard University Press How Comics Make Us See: Dana Mashoian
   Walrath and The Book of Genocides: Comics can do more than tell far-fetch
@@ -749,7 +724,7 @@ BEGIN:VEVENT
 SUMMARY:Artist Talk: In Conversation with Aaron Curry
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:348c12424f25b7381769c4f3520ccc@vermont-events
 DESCRIPTION:Hall Art Foundation Join Los Angeles-based artist\, Aaron Curr
  y (b. 1972) in conversation about his sculpture\, "Danny Skullface Sky Boa
@@ -763,7 +738,7 @@ BEGIN:VEVENT
 SUMMARY:Kinhaven Fall Concert Series at Grafton Community Church
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:f34b7d032592ffd89f206b49a22a07@vermont-events
 DESCRIPTION:Kinhaven Fall Concert Series at Community Church Kinhaven Musi
  c School Kinhaven celebrates the second year of its Semester Program inten
@@ -778,7 +753,7 @@ BEGIN:VEVENT
 SUMMARY:The 36th Annual Green Mountain Photo Show
 DTSTART:20260913T170000
 DTEND:20260913T190000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:eec7e18589495548f4d83eb7345c13@vermont-events
 DESCRIPTION:Mad River Valley Arts The Photo Show is on Sept.13- Oct. 11 wi
  th a Public Reception: Sept. 13\, 5-7pm\, happens weekly on Thursday & Fri
@@ -792,7 +767,7 @@ BEGIN:VEVENT
 SUMMARY:The Passion of Joan of Arc
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:fddc794c4b5aa961711da4b553fcb3@vermont-events
 DESCRIPTION:VTIFF Live improvised score by Freeway Clyde Spiritual rapture
   and institutional hypocrisy come to stark\, vivid life in one of the most
@@ -805,7 +780,7 @@ BEGIN:VEVENT
 SUMMARY:Cheese the Day
 DTSTART:20260918T170000
 DTEND:20260918T200000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:852adea053f33dea38ae032a743554@vermont-events
 DESCRIPTION:Church Street Marketplace Friday\, September 18 | 5 – 8pm | 
  Church Street Marketplace Join us for an evening celebrating one of Vermon
@@ -818,7 +793,7 @@ BEGIN:VEVENT
 SUMMARY:Cores & Pours: A Farm to Cider Tasting Event
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:aff930af3fd450fb47b72b4d6eb79d@vermont-events
 DESCRIPTION:Billings Farm & Museum Sip your way through Vermont’s thrivi
  ng cider scene! Join us for this special after-hours celebration of Vermon
@@ -832,7 +807,7 @@ BEGIN:VEVENT
 SUMMARY:Unplowed Realities
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:f850aab4ac911a625df1e26019849e@vermont-events
 DESCRIPTION:Mad River Valley Arts 09/10/26-11/19/2026 examines the interco
  nnected lives of farms\, land\, animals\, and communities at a time when s
@@ -845,7 +820,7 @@ BEGIN:VEVENT
 SUMMARY:VSO at the Flynn: Charity\, Sylvia & Cleopatra
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:5d745924a12a2005a30dfda5415100@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra 7:30PM on Sept. 18: VT Symphony’s
   2026/27 season opening concert is inspired and created by powerful women.
@@ -859,7 +834,7 @@ BEGIN:VEVENT
 SUMMARY:Gonzalo Rubalcaba at the Vermont Jazz Center
 DTSTART:20260919T193000
 DTEND:20260919T220000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:2dfed2a84892e44e9d560228ff4ca5@vermont-events
 DESCRIPTION:Vermont Jazz Center Gonzalo Rubalcaba Trio Saturday\, Septembe
  r 19\, 2026 7:30-10 pm Pianist Gonzalo Rubalcaba was already a young pheno
@@ -873,7 +848,7 @@ BEGIN:VEVENT
 SUMMARY:Latin-American Connection Celebration
 DTSTART:20260919T120000
 DTEND:20260919T210000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:9024d878025b814ba512758502e9ce@vermont-events
 DESCRIPTION:City Arts Sat\, Sep 19 2026\, 12 - 9pm BCA\, the Vermont Profe
  ssionals of Color Network\, and Maiz Sandoval Vargas present the second an
@@ -886,7 +861,7 @@ BEGIN:VEVENT
 SUMMARY:No Pain No Chain
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:a732334cff41cf977b7081a5f6c573@vermont-events
 DESCRIPTION:Stratton Mountain Chainless Downhill Race on Paper Route Get r
  eady for a unique test of skill and strategy at the No Pain\, No Chain\, a
@@ -899,7 +874,7 @@ BEGIN:VEVENT
 SUMMARY:Party on the Bricks is back for a Fall Series!
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:9dc417b54074a8fe418fd367a7a63c@vermont-events
 DESCRIPTION:Church Street Marketplace We’re bringing live music\, local 
  food\, drinks\, and good company back to the Marketplace for four Saturday
@@ -913,7 +888,7 @@ BEGIN:VEVENT
 SUMMARY:South Burlington Green Community Festival
 DTSTART:20260919T110000
 DTEND:20260919T150000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:3f60a217a40d475f7573abe51d9451@vermont-events
 DESCRIPTION:Green Community Festival City of Join your community for food 
  trucks\, live music\, fun activities\, raffle prizes\, and more at the Gre
@@ -927,7 +902,7 @@ BEGIN:VEVENT
 SUMMARY:The Pandora Consort Presents: The Fire Within Her
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:3a92534db3510a88c1d76bd30696ea@vermont-events
 DESCRIPTION:Chandler Center for the Arts Pandora Consort returns to Vermon
  t with The Fire Within Her: An American Folktale About Women’s Liberatio
@@ -941,7 +916,7 @@ BEGIN:VEVENT
 SUMMARY:The Wailers Outdoor Concert
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:141130e99ec5b29a8c1a6299d41e68@vermont-events
 DESCRIPTION:Stratton Mountain Stratton Mountain's annual Mountain Music Se
  ries continues on with The Wailers performing on Saturday\, September 19\,
@@ -954,7 +929,7 @@ BEGIN:VEVENT
 SUMMARY:Island Vines 10K & 5K
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:256544c2afee0b51400df9cae5ba13@vermont-events
 DESCRIPTION:RunVermont RunVermont is proud to present the 13th Annual at b
  eautiful Snow Farm Vineyard. The race will feature both 10K and 5K distanc
@@ -966,7 +941,7 @@ BEGIN:VEVENT
 SUMMARY:Sound Bath with Brandy Lefsyk
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:03bb2ef7d6e7cf6c0683784ea38ae1@vermont-events
 DESCRIPTION:Museum & Art Center September 22\, Tuesday\, 5:30 p.m. ADMISSI
  ON: $30 ($20 for BMAC members) Registration recommended\; walk-ins welcome
@@ -979,7 +954,7 @@ BEGIN:VEVENT
 SUMMARY:Barbara Forever
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:037a78129af8a0eb431b4c9c30ad1b@vermont-events
 DESCRIPTION:VTIFF If we’re experimenting with our lives and the way we
  ’re going to live\, our film and our art should also be experimental. It
@@ -992,7 +967,7 @@ BEGIN:VEVENT
 SUMMARY:The Log & Timber Home Design-Build EXPO
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:27567b82d78143df4dc454bb1cc91f@vermont-events
 DESCRIPTION:Solid Wood Promotions LLC at Mount Snow Thinking about buildin
  g a log home\, timber frame home\, post-and-beam home\, or custom wood hom
@@ -1004,7 +979,7 @@ BEGIN:VEVENT
 SUMMARY:37th Annual Burke Fall Festival
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:eb4d97de00df51be3b40b2e58383d7@vermont-events
 DESCRIPTION:Burke Area Chamber of Commerce Our biggest festival of the yea
  r is our annual Fall Foliage Festival located in on the Village Green. Par
@@ -1017,7 +992,7 @@ BEGIN:VEVENT
 SUMMARY:Alex Clark | Jokes From The Brink | Stand-Up Comedy
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:f30c0202a7ee8b0795c87a43f34b4b@vermont-events
 DESCRIPTION:Alex Clark Studios In from L.A. for one night only: Comedian A
  lex Clark returns to his New England roots to polish his next special. Fro
@@ -1031,7 +1006,7 @@ BEGIN:VEVENT
 SUMMARY:Autumn Birding at Cold Hollow Sculpture Park
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:572378b747ff0f8cf4e345b7e19ef4@vermont-events
 DESCRIPTION:Cold Hollow Sculpture Park The fall migration is on — and Co
  ld Hollow is a prime stop. Join the Green Mountain Bird Alliance for a mor
@@ -1045,7 +1020,7 @@ BEGIN:VEVENT
 SUMMARY:Barbara Forever
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:fe49e92a35be1e3e7aecfea6c7ed92@vermont-events
 DESCRIPTION:VTIFF If we’re experimenting with our lives and the way we
  ’re going to live\, our film and our art should also be experimental. It
@@ -1058,7 +1033,7 @@ BEGIN:VEVENT
 SUMMARY:Bristol Harvest Day
 DTSTART:20260926T100000
 DTEND:20260926T150000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:165bd0d165c5ab9675ecddc56fe598@vermont-events
 DESCRIPTION:Harvest Day Addison County Chamber of Commerce Celebrate fall 
  in at the 27th annual Harvest Festival (10:00 am to 3:00 pm) presented by 
@@ -1071,7 +1046,7 @@ BEGIN:VEVENT
 SUMMARY:BTV Market
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:23283a3b3d1b55be99a75ef51921b0@vermont-events
 DESCRIPTION:Love A summer favorite is back! Join us for the \, a summer ar
  tists’ and makers’ market in the heart of downtown \, taking place on 
@@ -1083,7 +1058,7 @@ BEGIN:VEVENT
 SUMMARY:Fairy House Festival
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:cf845a8da2ea83157f7219c28cdf1f@vermont-events
 DESCRIPTION:The Nature Museum The Nature Museum’s annual celebration of 
  wild creativity returns on September 27th and 28th to the heart of . The f
@@ -1096,7 +1071,7 @@ BEGIN:VEVENT
 SUMMARY:Forest Festival
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:04c92d41bd42a14a0761757150bd97@vermont-events
 DESCRIPTION:Marsh-Billings-Rockefeller National Historical Park Take a hor
  se-drawn wagon ride\, try your hand at woodworking\, or explore the forest
@@ -1110,7 +1085,7 @@ BEGIN:VEVENT
 SUMMARY:Leave the Leaves: Forests and Fields of Cold Hollow
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:696610b96f15b0de921565cee0f9d8@vermont-events
 DESCRIPTION:Cold Hollow Sculpture Park Franklin County Forester\, Charlie 
  Hancock\, of the VT Dept. of Forests\, Parks & Rec. leads a walk through t
@@ -1124,7 +1099,7 @@ BEGIN:VEVENT
 SUMMARY:Old Spokes Home Fall Fundo
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:a16d1dd4a889e6671d66eeb63983ad@vermont-events
 DESCRIPTION:Old Spokes Home What's the Fall Fundo? It's a ride\, not a rac
  e\, and it's our largest fundraising event of the year! Participants can r
@@ -1137,7 +1112,7 @@ BEGIN:VEVENT
 SUMMARY:Party on the Bricks is back for a Fall Series!
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:519f12fe41be562d6e64cfcb8d3d13@vermont-events
 DESCRIPTION:Church Street Marketplace We’re bringing live music\, local 
  food\, drinks\, and good company back to the Marketplace for four Saturday
@@ -1150,7 +1125,7 @@ BEGIN:VEVENT
 SUMMARY:Patagonia Gear Swap
 DTSTART:20260926T100000
 DTEND:20260926T180000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:dff0f0a0de375fdcef4690e2d81066@vermont-events
 DESCRIPTION:Patagonia Item Intake: Sept 17-25 10AM-6PM Online intake form 
  required Shop: September 26th & 27th 10AM-6PM Unsold Item Pickup: Sept 28 
@@ -1162,7 +1137,7 @@ BEGIN:VEVENT
 SUMMARY:Splash Dance: DJ Matt Hagen
 DTSTART:20260926T130000
 DTEND:20260926T150000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:2de0a04c41f3cac4e8e66bca535904@vermont-events
 DESCRIPTION:City Arts Sat\, Sep 26 2026\, 1 - 3pm DJ Matt Hagen MC spins a
  n eclectic mix of soul\, world music\, funk\, and contemporary boogie\, gu
@@ -1175,7 +1150,7 @@ BEGIN:VEVENT
 SUMMARY:The Cheese and Culture Festival
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:ea746de53915f43a6e9478954fb95e@vermont-events
 DESCRIPTION:Arts celebrates Vermont cheesemakers and producers of fermente
  d foods and beverages. This year\, 40 vendors will gather on the Village C
@@ -1187,7 +1162,7 @@ BEGIN:VEVENT
 SUMMARY:Workshop: Exploring Your Inner Landscapes
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:3b216b9d8a6c2c5bba701ce27dd6dc@vermont-events
 DESCRIPTION:Museum & Art Center September 26\, Saturday\, 2-4 p.m. ADMISSI
  ON: $45 ($35 for BMAC members) Ages 16+ Space is limited\; advance registr
@@ -1199,7 +1174,7 @@ BEGIN:VEVENT
 SUMMARY:Old North Church Lamplight Services
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:61e853a839f1473d58819d9dd50e83@vermont-events
 DESCRIPTION:Vermont Historical Society - Old North Church September 27\, 7
  :00pm - Lamplight services are held the last Sunday of each month from May
@@ -1213,7 +1188,7 @@ BEGIN:VEVENT
 SUMMARY:The Music The Forest Holds
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:a218fb5419d43318c132f712f4927d@vermont-events
 DESCRIPTION:Vermont Forest Cemetery As the heat of summer comes to an end
  \, we invite you to come enjoy an afternoon of music in the forest. featur
@@ -1226,7 +1201,7 @@ BEGIN:VEVENT
 SUMMARY:Oktoberfest at Retreat Farm
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:f0e62d784660eb47b47bafd9a9c0c5@vermont-events
 DESCRIPTION:Retreat Farm It’s Oktoberfest time! We’ll have craft beer 
  featuring North Chair Brewing\, Valley Craft Ales\, and River Roost Brewer
@@ -1239,7 +1214,7 @@ BEGIN:VEVENT
 SUMMARY:Southern Culture on the Skids
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:177b4b75f3ee187b097074be103068@vermont-events
 DESCRIPTION:Higher Ground Southern Culture On The Skids has been consisten
  tly recording and touring around the world since 1983. The band delivers l
@@ -1252,7 +1227,7 @@ BEGIN:VEVENT
 SUMMARY:The Work in Progress
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:91994e2d3432a63f4f253ae5eaa8f7@vermont-events
 DESCRIPTION:VTIFF Robert Reich follows up his acclaimed hit film The Last 
  Class\, which documented his last inspiring final lecture at UC Berkeley\,
@@ -1265,7 +1240,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Ramblin' Roads Country Fest
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:8ffd7e721a0e97e08d3a71de23805c@vermont-events
 DESCRIPTION:Ramblin' Roads Entertainment Ramblin’ Roads Country Fest com
  es to the Bondville Fairgrounds in \, Vermont on Saturday\, October 3\, 20
@@ -1278,7 +1253,7 @@ BEGIN:VEVENT
 SUMMARY:David @ 80: A Walk & Sculpture Tour with the Artist
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:cb8ca83538493f5b3b177759c8bbdd@vermont-events
 DESCRIPTION:Cold Hollow Sculpture Park Celebrate sculptor David Stromeyer'
  s 80th birthday with a personal tour of the Park he has spent more than 50
@@ -1292,7 +1267,7 @@ BEGIN:VEVENT
 SUMMARY:Kinhaven Fall Concert Series at Walker Farm
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:8698900c53380122186951d6fa4aa6@vermont-events
 DESCRIPTION:Kinhaven Music School Kinhaven celebrates the second year of i
  ts Semester Program intensive for exceptional high school string students 
@@ -1306,7 +1281,7 @@ BEGIN:VEVENT
 SUMMARY:Okemo Valley Oktoberfest
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:5a612a845c56dc9b6606fd903ff2cb@vermont-events
 DESCRIPTION:Off The Rails Join us for our Second Annual featuring Craft Be
  er\, Live Music and classic Oktoberfest Food. The event is family and pet 
@@ -1318,7 +1293,7 @@ BEGIN:VEVENT
 SUMMARY:Party on the Bricks is back for a Fall Series!
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:f2998c41ea4cd1534f13bf90b371c9@vermont-events
 DESCRIPTION:Church Street Marketplace We’re bringing live music\, local 
  food\, drinks\, and good company back to the Marketplace for four Saturday
@@ -1332,7 +1307,7 @@ BEGIN:VEVENT
 SUMMARY:Rail City Tattoo Convention
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:0bef9245a18aac583de3114e9707a3@vermont-events
 DESCRIPTION:100 Candles Tattoo On October 3-4\, 2026\, at City Hall in \, 
  VT\, 100 Candles Tattoo will host the 3rd \, the state’s first-ever tatt
@@ -1344,7 +1319,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Farm & Foliage Festival
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:473711740f4729ffb4c905788ccef9@vermont-events
 DESCRIPTION:Gallop To Success Inc. We are thrilled to announce the Third A
  nnual \, hosted at Kimberly Farms Stables! See spectacular and idyllic vie
@@ -1357,7 +1332,7 @@ BEGIN:VEVENT
 SUMMARY:Autumn on the Green
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:9d37daebb67dabe7cd5d14be7fd7ef@vermont-events
 DESCRIPTION:Chamber of Commerce is an award-winning showcase for artisans
  \, crafters\, cottage industries and businesses amidst the spectacular vie
@@ -1370,7 +1345,7 @@ BEGIN:VEVENT
 SUMMARY:Kinhaven Fall Concert Series at Chester Town Hall
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:04a4f86782e74933609b26fec7a234@vermont-events
 DESCRIPTION:Kinhaven Fall Concert Series at Town Hall Kinhaven Music Schoo
  l Kinhaven celebrates the second year of its Semester Program intensive fo
@@ -1384,7 +1359,7 @@ BEGIN:VEVENT
 SUMMARY:Wish Benefit Tour 2026 with Oteil Burbridge & LaMP
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:7cfcee8aeb463cd84a9f498e87ad24@vermont-events
 DESCRIPTION:Make-A-Wish Vermont & Northeast New York For the first time ev
  er\, Grammy Award-winning bassist Oteil Burbridge takes the stage with Ver
@@ -1398,7 +1373,7 @@ BEGIN:VEVENT
 SUMMARY:Floral Arranging Workshop
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:c958104517f74ff2183715cd0ccb31@vermont-events
 DESCRIPTION:Retreat Farm October 8th | 5:30pm Join us for a festive and vi
  brant evening amongst the flowers. Hanna Jenkins\, Farmer Florist of Tapal
@@ -1411,7 +1386,7 @@ BEGIN:VEVENT
 SUMMARY:A Little Unwell
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:08e34b664fe67d222a7b62e96e911e@vermont-events
 DESCRIPTION:New England Center for Circus Arts is a circus variety show pr
  esented in partnership with the Retreat to raise awareness and reduce stig
@@ -1424,7 +1399,7 @@ BEGIN:VEVENT
 SUMMARY:Cookie Queens
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:986ce476597f7ae4ae1313d7f9b6be@vermont-events
 DESCRIPTION:VTIFF It’s Girl Scout cookie season and Ara\, Olive\, Nikki
  \, and Shannon Elizabeth are vying for the coveted title bestowed to the t
@@ -1437,7 +1412,7 @@ BEGIN:VEVENT
 SUMMARY:Harvest Dinner
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:d92c9aaee4f0fb6f5165be8dab4d23@vermont-events
 DESCRIPTION:Hall Art Foundation Join us for an evening of art\, food and d
  rink. Food provided by Brownsville Butcher & Pantry. Each ticket grants ad
@@ -1450,7 +1425,7 @@ BEGIN:VEVENT
 SUMMARY:HarvestFest's Brewfest
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:e7b29e6b90977d068ae7872838348d@vermont-events
 DESCRIPTION:Stratton Mountain Stratton's Annual Foliage BrewfestSavor the 
  flavors of your favorite brews at Stratton's annual Brewfest. Sample Vermo
@@ -1463,7 +1438,7 @@ BEGIN:VEVENT
 SUMMARY:Party on the Bricks is back for a Fall Series!
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:c86825520b813e193e82bfaaa89c03@vermont-events
 DESCRIPTION:Church Street Marketplace We’re bringing live music\, local 
  food\, drinks\, and good company back to the Marketplace for four Saturday
@@ -1477,7 +1452,7 @@ BEGIN:VEVENT
 SUMMARY:A Little Unwell
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:a6d6ce8b3f73d3dccb9ff32724e925@vermont-events
 DESCRIPTION:New England Center for Circus Arts is a circus variety show pr
  esented in partnership with the Retreat to raise awareness and reduce stig
@@ -1490,7 +1465,7 @@ BEGIN:VEVENT
 SUMMARY:Farmers Market
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:425e9a47d598cfc4a947680cf4e74e@vermont-events
 DESCRIPTION:Stratton Mountain Resort Local Vermont Vendors\, Makers and Ar
  tists The Stratton Vendors Village takes place on select Saturdays and Sun
@@ -1503,7 +1478,7 @@ BEGIN:VEVENT
 SUMMARY:Middlebury Car Show & Fall Festival
 DTSTART:20261011T100000
 DTEND:20261011T150000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:13f3f3e7afb07dc4a0ba113fa21b3e@vermont-events
 DESCRIPTION:Car Show & Fall Festival Addison County Chamber of Commerce Jo
  in us for the 5th Annual Car Show & Fall Festival (10:00 am to 3:00 pm). M
@@ -1516,7 +1491,7 @@ BEGIN:VEVENT
 SUMMARY:The North Face Race to the Summit
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:136c27903d4d522ab4d1b34d25d007@vermont-events
 DESCRIPTION:Stratton Mountain Test Your Time In Race To The SummitTake the
   scenic route to the summit for views of Vermont’s fall foliage. invites
@@ -1528,7 +1503,7 @@ BEGIN:VEVENT
 SUMMARY:Girls Who Play with Fire - Retreat Intensive
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:1864cb4074f1a385c01c6611ae7e3e@vermont-events
 DESCRIPTION:Fire Arts Vermont October 15 - 18 2026 | \, Vermont Imagine a 
  space where thoughts drop away\, leaving you fully immersed in creative fl
@@ -1541,7 +1516,7 @@ BEGIN:VEVENT
 SUMMARY:Spooky Wine Pairing Dinner at VildaHaus at The Landgrove
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:a52b4091bce620774cd376a0c5d042@vermont-events
 DESCRIPTION:Spooky Wine Pairing Dinner at VildaHaus at The The Seven sins.
   Seven courses. Seven wines. Some dinners fill you up. This one tells a st
@@ -1555,7 +1530,7 @@ BEGIN:VEVENT
 SUMMARY:Storytime at Lake Champlain Maritime Museum
 DTSTART:20261016T110000
 DTEND:20261016T120000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:f24f9cd35e875e1d7c0af903a1b121@vermont-events
 DESCRIPTION:Looking for a fun and educational activity for your littlest s
  ailor? Join us on Fridays at 10:30 for Lake Champlain Maritime Museum’s 
@@ -1590,24 +1565,25 @@ DESCRIPTION:Looking for a fun and educational activity for your littlest s
  eriodically Audience Emails Program Schedules | Full TV listings for all c
  hannels\, sent monthly This Week | Weekly program highlights\, sent each w
  eekend Events | Upcoming Vermont Public events\, sent occasionally Station
-  Updates | Sent occasionally Recently Added Oct 7 | Mary Oliver: Saved By 
- the Beauty of the World film screening Dec 1 | Brave Little State at 14th 
- Star Brewery Oct 28 | Brave Little State at The Miller's Toll Oct 22 | An 
- Evening with Amna Nawaz of the PBS News Hour Stay Connected twitter instag
- ram youtube bluesky facebook Vermont Public is independent\, community-sup
- ported media\, serving Vermont with trusted\, relevant and essential infor
- mation. We share stories that bring people together\, from every corner of
-  our region. © 2026 Vermont Public | 365 Troy Ave. Colchester\, VT 05446 
- Public Files: WVTI · WOXM · WVBA · WVNK · WVTQ WVPR · WRVT · WOXR ·
-  WNCH · WVPA WVPS · WVXR · WETK · WVTB · WVER WVER-FM · WVLR-FM · W
- BTN-FM For assistance accessing our public files\, please contact hello@ve
- rmontpublic.org or call 802-655-9451. ABOUT About Us Announcements Our Tea
- m Board of Directors Community Forum Careers & Internships Vermont Public 
- in Canada POLICIES & REPORTS Privacy Policy Ethics\, Editorial and Other P
- olicies EEO Reports & Statement FCC Applications Financial Information Con
- test Rules SUPPORT US Donate Now Update Membership Philanthropy Legacy Giv
- ing Business Sponsorship Donate Your Car Vermont Public Passport\n\nSource
- s: Vermont Public
+  Updates | Sent occasionally Recently Added Stone Valley Arts and the Verm
+ ont Watercolor Society Present the Westside Hub Exhibition 2026 Meanwhile 
+ in Vermont... Where do we show up in our nation's founding documents? Book
+ s & Bulbs Sale to benefit Cutler Memorial Library in Plainfield Vermont Ag
+ riculture: A Renaissance of the Past Stay Connected twitter instagram yout
+ ube bluesky facebook Vermont Public is independent\, community-supported m
+ edia\, serving Vermont with trusted\, relevant and essential information. 
+ We share stories that bring people together\, from every corner of our reg
+ ion. © 2026 Vermont Public | 365 Troy Ave. Colchester\, VT 05446 Public F
+ iles: WVTI · WOXM · WVBA · WVNK · WVTQ WVPR · WRVT · WOXR · WNCH ·
+  WVPA WVPS · WVXR · WETK · WVTB · WVER WVER-FM · WVLR-FM · WBTN-FM F
+ or assistance accessing our public files\, please contact hello@vermontpub
+ lic.org or call 802-655-9451. ABOUT About Us Announcements Our Team Board 
+ of Directors Community Forum Careers & Internships Vermont Public in Canad
+ a POLICIES & REPORTS Privacy Policy Ethics\, Editorial and Other Policies 
+ EEO Reports & Statement FCC Applications Financial Information Contest Rul
+ es SUPPORT US Donate Now Update Membership Philanthropy Legacy Giving Busi
+ ness Sponsorship Donate Your Car Vermont Public Passport\n\nSources: Vermo
+ nt Public
 LOCATION:Lake Champlain Maritime Museum
 URL:https://www.vermontpublic.org/vermont-events-calendar/event/storytime-
  at-lake-champlain-maritime-museum-06-04-2026-14-28-26
@@ -1616,7 +1592,7 @@ BEGIN:VEVENT
 SUMMARY:Wine Pairing Dinner: Seven Deadly Sins
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:e452a78b7a11751bf3a79b50473a9e@vermont-events
 DESCRIPTION:The Join us for a spooky seven course dinner- an immersive eve
  ning where every course is inspired by one of the seven deadly sins and pa
@@ -1629,7 +1605,7 @@ BEGIN:VEVENT
 SUMMARY:Shelburne Farmers Market
 DTSTART:20261017T090000
 DTEND:20261017T130000
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:0a895014f4684982ac599e7de6c0d4@vermont-events
 DESCRIPTION:The Shelburne Farmers Market connects local producers with the
   community every Saturday\, rain or shine\, at the Shelburne Parade Ground
@@ -1645,7 +1621,7 @@ BEGIN:VEVENT
 SUMMARY:Kinhaven Fall Concert Series - Guest Artist Calliope
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:6e00869474048d65439e87f6b42583@vermont-events
 DESCRIPTION:Kinhaven Music School Kinhaven celebrates the second year of i
  ts Semester Program intensive for exceptional high school string students 
@@ -1659,7 +1635,7 @@ BEGIN:VEVENT
 SUMMARY:Will Evans at Après Only
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:48967b8a452d91d35fdff346af25b0@vermont-events
 DESCRIPTION:Après Only Will Evans pulls everyone into his embrace. He mus
  ically accesses a space without boundaries where all are welcome to commun
@@ -1672,7 +1648,7 @@ BEGIN:VEVENT
 SUMMARY:Wyld Nightz at Retreat Farm
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:a075d6e486dc938ffaf1baffc2e75c@vermont-events
 DESCRIPTION:Retreat Farm The Wyld Nightz Band is a classic rock group form
  ed over fifteen years ago in \, Vermont. Come and enjoy fine music and dri
@@ -1685,7 +1661,7 @@ BEGIN:VEVENT
 SUMMARY:VSO at the Flynn: The Sorcerer's Apprentice
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:1bd6fb3b8dc2298a9fcd61179fe589@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra Celebrate Halloween with a spine-ti
  ngling orchestral matinee! From the mischievous magic of The Sorcerer’s 
@@ -1699,7 +1675,7 @@ BEGIN:VEVENT
 SUMMARY:Free Community Day at the Vermont Circus Festival
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:9acd079978a9deb79e4ae46bc5e0dc@vermont-events
 DESCRIPTION:New England Center for Circus Arts The Vermont Circus Festival
   has events for everyone - starting with a free community day on Sunday\, 
@@ -1713,7 +1689,7 @@ BEGIN:VEVENT
 SUMMARY:To the Moon and Back
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:ac095aadb866f99d7e1a5a8a379242@vermont-events
 DESCRIPTION:New England Center for Circus Arts ‘ ’ is a charming\, sil
  ly\, all-ages circus show with a handmade set and a creative\, problem-sol
@@ -1726,7 +1702,7 @@ BEGIN:VEVENT
 SUMMARY:Circus Stories from The Moth Community Engagement Program
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:6aed81518c7eb0902f0ae370adac89@vermont-events
 DESCRIPTION:New England Center for Circus Arts Join us for a circus-themed
   storytelling event as part of the Vermont Circus Festival. Our true stori
@@ -1740,7 +1716,7 @@ BEGIN:VEVENT
 SUMMARY:Happy To Be Here!
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:f6d19bc28d853e05950cf232befbe1@vermont-events
 DESCRIPTION:New England Center for Circus Arts Created & Performed by Jan 
  Damm. Compulsive vaudevillian and international romantic Hans Lieberdich w
@@ -1753,7 +1729,7 @@ BEGIN:VEVENT
 SUMMARY:The Pieces by Aloft
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:32f7472bc4606dcdb240a2401fc111@vermont-events
 DESCRIPTION:New England Center for Circus Arts The Pieces is a new circus 
  show about shared weight. The ladders are not props but partners: they dem
@@ -1766,7 +1742,7 @@ BEGIN:VEVENT
 SUMMARY:Alumni Cabaret at the Vermont Circus Festival
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:27a1d4042eb21aae045ce47b4bc310@vermont-events
 DESCRIPTION:New England Center for Circus Arts A Vermont Circus Festival E
  vent. The 5th annual Alumni Cabaret features dazzling circus performers fr
@@ -1780,7 +1756,7 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Turns Ten: St. Johnsbury
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:e1967e6a978fea9ac9ef6bacef8000@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra It’s our tenth season of Jukebox
  \, and we’re playing the hits\, deep cuts\, and brand new songs! This se
@@ -1793,7 +1769,7 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Turns Ten: Burlington
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:155661ba951b442a87c4b00962c125@vermont-events
 DESCRIPTION:Jukebox Turns Ten: Vermont Symphony Orchestra It’s our tenth
   season of Jukebox\, and we’re playing the hits\, deep cuts\, and brand 
@@ -1806,7 +1782,7 @@ BEGIN:VEVENT
 SUMMARY:Fall Makers Market 2026
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:fb332d5b454fed4b1903cbaf4550fd@vermont-events
 DESCRIPTION:Feral by Nature Join us for the annual Fall Makers Market in 
  \, Vermont — a celebration of handmade artistry\, local creativity\, and
@@ -1819,7 +1795,7 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Turns Ten: Rutland
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:7d15f825feeaaa5deff8318be99bed@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra It’s our tenth season of Jukebox
  \, and we’re playing the hits\, deep cuts\, and brand new songs! This se
@@ -1832,7 +1808,7 @@ BEGIN:VEVENT
 SUMMARY:Kinhaven Fall Concert Series at the Peru Church
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:2fde91bc2b0e7e91ca4922de24fd3b@vermont-events
 DESCRIPTION:Kinhaven Fall Concert Series at the Church Kinhaven Music Scho
  ol Kinhaven celebrates the second year of its Semester Program intensive f
@@ -1846,7 +1822,7 @@ BEGIN:VEVENT
 SUMMARY:Celebrate Craft Holiday Show
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:4d7d0f684172e4e1faba596bc0adcc@vermont-events
 DESCRIPTION:Celebrate Vermont LLC Art\, Craft\, Soecialty Food with Vermon
  t Wine and Spirit Sampling\, 100+ booths Creative shopping. Start and fins
@@ -1859,7 +1835,7 @@ BEGIN:VEVENT
 SUMMARY:Kinhaven Fall Concert Series at Cathedral Church of St. Paul
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:a6aac7422a576e8f94dc9a2e1fff25@vermont-events
 DESCRIPTION:Kinhaven Music School Kinhaven celebrates the second year of i
  ts Semester Program intensive for exceptional high school string students 
@@ -1873,7 +1849,7 @@ BEGIN:VEVENT
 SUMMARY:Billings After Hours Mixology Workshop
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:65afefacbd26a94334dc7c262beabc@vermont-events
 DESCRIPTION:Billings Farm & Museum Warm up with this hands-on cocktail wor
  kshop! Learn how to pair ingredients\, build flavor\, and craft classic co
@@ -1886,7 +1862,7 @@ BEGIN:VEVENT
 SUMMARY:3rd Global Summit on Traditional and Indigenous Medicine
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270427
-DTSTAMP:20260903T150329Z
+DTSTAMP:20260904T150035Z
 UID:678c72c6918921ea336b95d648e22d@vermont-events
 DESCRIPTION:Intelli Global Conferences Hello Dear\, Good day!! We are hono
  red to invite you to participate in the 3rd Global Summit on Traditional M
