@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Fletcher Free's Fictional Book Club: Activities of Daily Living
 DTSTART:20261020T173000
 DTEND:20261020T190000
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:26db082488762c35a017d10bfaca11@vermont-events
 DESCRIPTION:In FFL's newest book club\, discuss how these fictional storie
  s and characters come to life (or don't) over snacks and coffee. Register 
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Lake Champlain Memory Café
 DTSTART:20261021T150000
 DTEND:20261021T160000
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:91057c409cdec49409d72fcab107a0@vermont-events
 DESCRIPTION:The Lake Champlain Memory Café offers an inviting space and t
  ime for those living with dementia – and their care partners/families. C
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:Midweek Organ Concert
 DTSTART:20261021T121500
 DTEND:20261021T130000
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:69b85df36eafba2958de11ec666930@vermont-events
 DESCRIPTION:Robert Ludwig will present a program of music from the 18th to
   the 21st centuries for the pipe organ on the college’s 50-rank\, 3100 p
@@ -63,10 +63,36 @@ URL:https://www.vermontpublic.org/vermont-events-calendar/event/midweek-or
  gan-concert-30-09-2026-15-09-22
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Unveiling the Shadows: Myths and Legends of the NEK and North Coun
+ try w/ Robert Jones
+DTSTART:20261021T190000
+DTEND:20261021T200000
+DTSTAMP:20261020T154113Z
+UID:8a0f0cf592d9b258d569d1dd3a95f2@vermont-events
+DESCRIPTION:The Northeast Kingdom and the New Hampshire North Country are 
+ lands of deep woods\, granite peaks\, and long winters—the perfect breed
+ ing ground for stories that refuse to die. Join us for an evocative journe
+ y into the folklore that defines our rugged corner of New England. From th
+ e elusive Lake Memphremagog sea serpent to the whispered tales of Abenaki 
+ legends\, forgotten ghost towns\, and the strange occurrences that haunt t
+ he White Mountains\, we will explore how these myths shaped the identity o
+ f the people who call this wilderness home. Whether you're a skeptic\, a b
+ eliever\, or simply a lover of a good yarn\, this talk will peel back the 
+ layers of local history to reveal the magic and mystery hidden in plain si
+ ght. Presented by Robert Jones\, Owner of St. Johnsbury’s Ysbrydoliaeth 
+ Curiosity Shop / Magasin de curiosités & NEK Language School. This event 
+ is free\, ADA accessible\, and open to the public.\n\nSources: Vermont Pub
+ lic
+LOCATION:St. Johnsbury Athenaeum\, 1171 Main St.
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/unveiling-
+ the-shadows-myths-and-legends-of-the-nek-and-north-country-w-robert-jones-
+ 05-10-2026-17-01-45
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wednesdays with Farmer Fred in Plymouth Notch
 DTSTART:20261021T120000
 DTEND:20261021T130000
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:9938b164b9eef8937e884af4d6757e@vermont-events
 DESCRIPTION:The Calvin Coolidge State Historic Site’s resident farmer wi
  ll be on hand each Wednesday from June 10 to October 21 to demonstrate his
@@ -86,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Wiener Friendsday w/ Myra Flynn DJ Set
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:137ee56b132908c51695fedc628556@vermont-events
 DESCRIPTION:Join Chandler Center for the Arts and the Upper Valley Welcome
   Wagon for a low-pressure event connecting neighbors new and familiar with
@@ -101,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:New England Review Ulysses Reading Series
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:19dbe1e2a5841a028678b5d182463d@vermont-events
 DESCRIPTION:New England Revieew Join us on Thursday\, October 22\, at 7 PM
   EST in College’s Humanities House (115 Franklin Street) for the fifth i
@@ -115,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Oct 22 | An Evening with Amna Nawaz of the PBS News Hour
 DTSTART:20261022T190000
 DTEND:20261022T203000
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:4af300eb140279eb0299902e263cda@vermont-events
 DESCRIPTION:An evening with Amna Nawaz\, co-anchor & co-managing editor of
   the PBS News Hour Go behind the headlines with one of the most trusted vo
@@ -157,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Hollywood\, VT The Trouble with Harry Live Script Reading
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:964e85a6bb51f2c8269dc006e843f0@vermont-events
 DESCRIPTION:Latchis Theatre Did you know Alfred Hitchcock filmed The Troub
  le with Harry in Vermont in 1954 — then returned the following year for 
@@ -171,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:John Prine Tribute Concert
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:2c96e0ae030e2baf1be89c764d5f70@vermont-events
 DESCRIPTION:Stretch 'n' the Limits Productions Six Vermont performers pay 
  tribute to John Prine with an evening of his songs. Paul Miller\, Colin Mc
@@ -184,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:NEYT’s Junior Company Presents: The Phantom Tollbooth
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:e8fc75743594a77d5cb48bfcbe1d86@vermont-events
 DESCRIPTION:New England Youth Theatre NEYT’s Junior Company invites audi
  ences on a wonderfully witty adventure to journey beyond the ordinary in T
@@ -198,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:The Showman: An Evening Celebrating the Great Frontmen of 1
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:2931f6953a99773ee9519214abf684@vermont-events
 DESCRIPTION:Spruce Peak Arts There is a vanishingly small number of singer
  s in the world who can move from Jim Morrison’s smoldering baritone to F
@@ -212,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:Boston States Fiddle Camp Staff Concert
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:f50ddd5706b0c4b35a09410689ef75@vermont-events
 DESCRIPTION:Boston States Fiddle Camp In a triumphant celebration of tradi
  tional music and community\, the world-class staff of the Boston States Fi
@@ -225,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:The Williston One Acts 2026
 DTSTART:20261024T190000
 DTEND:20261024T220000
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:ca1246b7d2ccb48267574ac4214194@vermont-events
 DESCRIPTION:The Williston One Acts 2026 is an annual short-play festival h
  osted by the Vermont Repertory Theatre. The event takes place over two wee
@@ -248,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:Will Evans at Après Only
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:48967b8a452d91d35fdff346af25b0@vermont-events
 DESCRIPTION:Après Only Will Evans pulls everyone into his embrace. He mus
  ically accesses a space without boundaries where all are welcome to commun
@@ -261,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:Find Your Song: A Songwriting Workshop with Myra Flynn
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:21331b58d406c19a96ba6b5183b560@vermont-events
 DESCRIPTION:Chandler Center for the Arts Find your song with Vermont singe
  r-songwriter Myra Flynn\, who brings more than 15 years of experience help
@@ -275,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:Homemade Jam!
 DTSTART:20261027T170000
 DTEND:20261027T200000
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:b6ec17d7e4ba0134c59e53f6ac484a@vermont-events
 DESCRIPTION:Looking to pick\, grin\, and share a meal? Whether you're a se
  asoned player or just getting comfortable with your chords\, we'd love to 
@@ -297,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:Find Your Song: A Songwriting Workshop with Myra Flynn
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:0559850b0031635ca76f157013ec53@vermont-events
 DESCRIPTION:Chandler Center for the Arts Find your song with Vermont singe
  r-songwriter Myra Flynn\, who brings more than 15 years of experience help
@@ -311,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:Find Your Song: A Songwriting Workshop with Myra Flynn
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:4d5badc57dd075446c344e75d597c3@vermont-events
 DESCRIPTION:Chandler Center for the Arts Find your song with Vermont singe
  r-songwriter Myra Flynn\, who brings more than 15 years of experience help
@@ -325,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:Wyld Nightz at Retreat Farm
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:a075d6e486dc938ffaf1baffc2e75c@vermont-events
 DESCRIPTION:Retreat Farm The Wyld Nightz Band is a classic rock group form
  ed over fifteen years ago in \, Vermont. Come and enjoy fine music and dri
@@ -338,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:Find Your Song: A Songwriting Workshop with Myra Flynn
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:64d937c1f028f9d50d3d16134d1f3e@vermont-events
 DESCRIPTION:Chandler Center for the Arts Find your song with Vermont singe
  r-songwriter Myra Flynn\, who brings more than 15 years of experience help
@@ -352,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:Kids Night Out
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:71122ee8f23e992936f64352c790ee@vermont-events
 DESCRIPTION:New England Center for Circus Arts Dimly-lit restaurants and t
  alking about school? Boooring. How about a night time hangout with your fr
@@ -365,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:Mind Magic: A Night of Laughter and Astonishment
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:ce6f706fa6bc5b642746e69c1f14d1@vermont-events
 DESCRIPTION:www.mindmagic.guru Join nationally acclaimed mentalist\, Dr. S
  teve Taubman for a night of Mind Magic: world-class mentalism and comedy. 
@@ -379,7 +405,7 @@ BEGIN:VEVENT
 SUMMARY:WOMEN’S WELLNESS WEEKEND AT SPRUCE PEAK
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:9be6fcffc07549e31a288d1301d77d@vermont-events
 DESCRIPTION:Spruce Peak Step away from the everyday for a thoughtfully cur
  ated weekend devoted to feeling good – in your body\, your mind\, and yo
@@ -392,7 +418,7 @@ BEGIN:VEVENT
 SUMMARY:Ghostwatch
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:abd7720dae1816d7bbefa142bae431@vermont-events
 DESCRIPTION:Vermont International Film Festival October 31st\, 7 PM. Well 
  before audiences were accustomed to found-footage movies—thanks in large
@@ -405,7 +431,7 @@ BEGIN:VEVENT
 SUMMARY:Howl'ween Dog Costume Contest
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:1dfde15d7c10471fa00a48c7afa92a@vermont-events
 DESCRIPTION:Church Street Marketplace Saturday\, October 31\, Leahy Block 
  (outside Homeport) Registration at 11am\, Contest starts at 12pm Dress you
@@ -418,7 +444,7 @@ BEGIN:VEVENT
 SUMMARY:VSO at the Flynn: The Sorcerer's Apprentice
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:1bd6fb3b8dc2298a9fcd61179fe589@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra Celebrate Halloween with a spine-ti
  ngling orchestral matinee! From the mischievous magic of The Sorcerer’s 
@@ -432,7 +458,7 @@ BEGIN:VEVENT
 SUMMARY:Free Community Day at the Vermont Circus Festival
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:9acd079978a9deb79e4ae46bc5e0dc@vermont-events
 DESCRIPTION:New England Center for Circus Arts The Vermont Circus Festival
   has events for everyone - starting with a free community day on Sunday\, 
@@ -446,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:To the Moon and Back
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:ac095aadb866f99d7e1a5a8a379242@vermont-events
 DESCRIPTION:New England Center for Circus Arts ‘ ’ is a charming\, sil
  ly\, all-ages circus show with a handmade set and a creative\, problem-sol
@@ -459,7 +485,7 @@ BEGIN:VEVENT
 SUMMARY:Spirit Chasers: A 30 Year Passion with the Human Form in Nat
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:38b7313cba5812ee7d9cfcb425874a@vermont-events
 DESCRIPTION:New England Center for Circus Arts The Vermont Circus Festival
   is hosting a literary event launching the newly published book by one of 
@@ -473,7 +499,7 @@ BEGIN:VEVENT
 SUMMARY:Circus Stories from The Moth Community Engagement Program
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:6aed81518c7eb0902f0ae370adac89@vermont-events
 DESCRIPTION:New England Center for Circus Arts Join us for a circus-themed
   storytelling event as part of the Vermont Circus Festival. Our true stori
@@ -487,7 +513,7 @@ BEGIN:VEVENT
 SUMMARY:Happy To Be Here!
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:f6d19bc28d853e05950cf232befbe1@vermont-events
 DESCRIPTION:New England Center for Circus Arts Created & Performed by Jan 
  Damm. Compulsive vaudevillian and international romantic Hans Lieberdich w
@@ -500,7 +526,7 @@ BEGIN:VEVENT
 SUMMARY:The Pieces by Aloft
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:32f7472bc4606dcdb240a2401fc111@vermont-events
 DESCRIPTION:New England Center for Circus Arts The Pieces is a new circus 
  show about shared weight. The ladders are not props but partners: they dem
@@ -513,7 +539,7 @@ BEGIN:VEVENT
 SUMMARY:Alumni Cabaret at the Vermont Circus Festival
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:27a1d4042eb21aae045ce47b4bc310@vermont-events
 DESCRIPTION:New England Center for Circus Arts A Vermont Circus Festival E
  vent. The 5th annual Alumni Cabaret features dazzling circus performers fr
@@ -527,7 +553,7 @@ BEGIN:VEVENT
 SUMMARY:Broadway in Brattleboro
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:a2f58e552b712c2b542da5857e25e9@vermont-events
 DESCRIPTION:Broadway in New England Youth Theatre Broadway in is back for 
  year two! Join us as we build on last year’s success for an even livelie
@@ -540,7 +566,7 @@ BEGIN:VEVENT
 SUMMARY:Circus Smirkus Onstage
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:3b121e6175da3a953ec14ba50b0a54@vermont-events
 DESCRIPTION:New England Center for Circus Arts Step right up and join in t
  he magic of Circus Smirkus! Created especially for the Vermont Circus Fest
@@ -553,7 +579,7 @@ BEGIN:VEVENT
 SUMMARY:Beta Night
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:32a8ba4d7882314d3c9c831ca4d85c@vermont-events
 DESCRIPTION:New England Center for Circus Arts Circus & Performance Open S
  tage: See new works in progress from students and professionals! is a cura
@@ -566,7 +592,7 @@ BEGIN:VEVENT
 SUMMARY:Beta Night 18+ After Hours
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:0fa7d4053ade299def6d8b3e3324a1@vermont-events
 DESCRIPTION:New England Center for Circus Arts Got creaky bones? Excited a
  bout a new pair of socks? Sounds like you're probably an adult. Join us fo
@@ -579,7 +605,7 @@ BEGIN:VEVENT
 SUMMARY:Hollywood\, VT The Trouble with Harry Screening + Conversatio
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:4dcb80e0b7d1fb05e22fda989561a2@vermont-events
 DESCRIPTION:The Latchis Theatre **Hitchcock came to Vermont. Made a film. 
  Made some trouble.** On **Sunday\, November 8 at 2 p.m.**\, *The Trouble w
@@ -593,7 +619,7 @@ BEGIN:VEVENT
 SUMMARY:Stick Season Social with the Wormdogs
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:73dc4a87b6e3d406fac478f0f4057d@vermont-events
 DESCRIPTION:Bolton Outdoor Adventure Fund Join the Bolton Outdoor Adventur
  e Fund on Tuesday\, November 10\, 2026\, at Zenbarn in \, VT\, for a Stick
@@ -606,7 +632,7 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Turns Ten: St. Johnsbury
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:e1967e6a978fea9ac9ef6bacef8000@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra It’s our tenth season of Jukebox
  \, and we’re playing the hits\, deep cuts\, and brand new songs! This se
@@ -619,7 +645,7 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Turns Ten: Burlington
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:155661ba951b442a87c4b00962c125@vermont-events
 DESCRIPTION:Jukebox Turns Ten: Vermont Symphony Orchestra It’s our tenth
   season of Jukebox\, and we’re playing the hits\, deep cuts\, and brand 
@@ -632,7 +658,7 @@ BEGIN:VEVENT
 SUMMARY:Kids Night Out
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:5979e0345f2959be255a6998699bd2@vermont-events
 DESCRIPTION:New England Center for Circus Arts Dimly-lit restaurants and t
  alking about school? Boooring. How about a night time hangout with your fr
@@ -645,7 +671,7 @@ BEGIN:VEVENT
 SUMMARY:Fall Makers Market 2026
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:fb332d5b454fed4b1903cbaf4550fd@vermont-events
 DESCRIPTION:Feral by Nature Join us for the annual Fall Makers Market in 
  \, Vermont — a celebration of handmade artistry\, local creativity\, and
@@ -658,7 +684,7 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Turns Ten: Rutland
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:7d15f825feeaaa5deff8318be99bed@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra It’s our tenth season of Jukebox
  \, and we’re playing the hits\, deep cuts\, and brand new songs! This se
@@ -671,7 +697,7 @@ BEGIN:VEVENT
 SUMMARY:Kinhaven Fall Concert Series at the Peru Church
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:2fde91bc2b0e7e91ca4922de24fd3b@vermont-events
 DESCRIPTION:Kinhaven Fall Concert Series at the Church Kinhaven Music Scho
  ol Kinhaven celebrates the second year of its Semester Program intensive f
@@ -685,7 +711,7 @@ BEGIN:VEVENT
 SUMMARY:Celebrate Craft Holiday Show
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:4d7d0f684172e4e1faba596bc0adcc@vermont-events
 DESCRIPTION:Celebrate Vermont LLC Art\, Craft\, Soecialty Food with Vermon
  t Wine and Spirit Sampling\, 100+ booths Creative shopping. Start and fins
@@ -698,7 +724,7 @@ BEGIN:VEVENT
 SUMMARY:Brattleboro Bal Folk Community Dance
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:633bca440799f20663c5941d75d33c@vermont-events
 DESCRIPTION:Brattleboro Bal Folk Sunday\, Nov 22 6-6:40 beginners' worksho
  p 6:45-9 dance party Broad Brook Community Center\, 3940 Center Rd\, \, VT
@@ -711,7 +737,7 @@ BEGIN:VEVENT
 SUMMARY:Kinhaven Fall Concert Series at Cathedral Church of St. Paul
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:a6aac7422a576e8f94dc9a2e1fff25@vermont-events
 DESCRIPTION:Kinhaven Music School Kinhaven celebrates the second year of i
  ts Semester Program intensive for exceptional high school string students 
@@ -725,7 +751,7 @@ BEGIN:VEVENT
 SUMMARY:November Break Circus Camp
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:e673fbbfee1e9d5c432f46942cd3cf@vermont-events
 DESCRIPTION:New England Center for Circus Arts Leap into circus fun during
   November break! Campers of all ages will explore aerials\, acrobatics\, j
@@ -738,7 +764,7 @@ BEGIN:VEVENT
 SUMMARY:Brattleboro Festival of Miniatures
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:29431788a9c611787a5223ac9c6708@vermont-events
 DESCRIPTION:Festival of Miniatures Festival of Minaitures The Festival of 
  Miniatures brings local artists and makers together to create a free\, tow
@@ -748,26 +774,10 @@ LOCATION:Brattleboro Festival of Minaitures\, Brattleboro\, VT
 URL:https://vermont.com/calendar/brattleboro-festival-of-miniatures/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shakespeare Out Loud
-DTSTART:20261130T160000
-DTEND:20261130T173000
-DTSTAMP:20261019T173446Z
-UID:070063a3fae04d54b34661eaadae9e@vermont-events
-DESCRIPTION:Gathering of interested adults to read aloud Shakespeare’s p
- lays. This Current Play: The Most Lamentable Tragedy of Romeo and Juliet b
- y William Shakespeare. No experience or expertise required\; we will gathe
- r\, select parts and read this engaging play aloud. Bring a text from whic
- h to read. All are welcome to come and read or sit and listen as the play 
- unfolds. Every week through Nov 30\, 2026.\n\nSources: Vermont Public
-LOCATION:Fletcher Free Library\, 235 College St
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/shakespear
- e-out-loud-16-09-2026-00-21-37
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spanish Conversation
 DTSTART:20261201T163000
 DTEND:20261201T173000
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:1746b9ba549f7dc0865f3676e0d8b8@vermont-events
 DESCRIPTION:¿Hablas Español? Practice Spanish and meet other Spanish spe
  akers and learners at the weekly meetup. Beginners welcome. Every week thr
@@ -780,7 +790,7 @@ BEGIN:VEVENT
 SUMMARY:Billings After Hours Mixology Workshop
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:65afefacbd26a94334dc7c262beabc@vermont-events
 DESCRIPTION:Billings Farm & Museum Warm up with this hands-on cocktail wor
  kshop! Learn how to pair ingredients\, build flavor\, and craft classic co
@@ -793,7 +803,7 @@ BEGIN:VEVENT
 SUMMARY:Wine & Cheese Tasting at Retreat Farm Market
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:ed149cbff09d548f517985af5176dc@vermont-events
 DESCRIPTION:Retreat Farm Treat yourself to fine wines while we explore reg
  ions\, grapes\, makers\, and flavor profiles with local wine expert Jason 
@@ -807,7 +817,7 @@ BEGIN:VEVENT
 SUMMARY:Library Littles Playgroup
 DTSTART:20261216T110000
 DTEND:20261216T114500
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:bd99f16ed720eddbe2628dabad277e@vermont-events
 DESCRIPTION:Clap your hands for the Library Littles! This weekly drop-in p
  rogram brings babies\, toddlers\, and their caregivers together for playti
@@ -824,7 +834,7 @@ BEGIN:VEVENT
 SUMMARY:Stories & Songs for Library Littles
 DTSTART:20261216T110000
 DTEND:20261216T113000
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:9cfde861c7ccd24b8714cb7e0ae932@vermont-events
 DESCRIPTION:Storytime\, songs\, and open play for babies\, toddlers\, and 
  their caregivers! Youth Area. Drop-in\; no registration required. Every we
@@ -837,7 +847,7 @@ BEGIN:VEVENT
 SUMMARY:Kids Night Out
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:c20a703bf7f343bfc8d5b4a85463eb@vermont-events
 DESCRIPTION:New England Center for Circus Arts Dimly-lit restaurants and t
  alking about school? Boooring. How about a night time hangout with your fr
@@ -850,7 +860,7 @@ BEGIN:VEVENT
 SUMMARY:Brattleboro Bal Folk: Intro Session & Dance Party
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:4706e3ed96bdf823d62a372c152069@vermont-events
 DESCRIPTION:Brattleboro Bal Folk 6-6:40 beginners' workshop 6:45-9 dance p
  arty Broad Brook Community Center\, 3940 Center Rd\, \, VT 05301 (just out
@@ -864,7 +874,7 @@ BEGIN:VEVENT
 SUMMARY:Crafters Drop-In
 DTSTART:20261222T180000
 DTEND:20261222T200000
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:9bc301e5fddea2f17de1e3619c4668@vermont-events
 DESCRIPTION:Connect with your community through crafting! Bring in your cu
  rrent knitting/crocheting/mending/embroidery/etc. project and join us for 
@@ -879,7 +889,7 @@ BEGIN:VEVENT
 SUMMARY:Sing-Along with Linda Bassick
 DTSTART:20261229T110000
 DTEND:20261229T233000
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:16b3f6505f233a73dd501dca6d1dfc@vermont-events
 DESCRIPTION:Dance\, wiggle\, and sing with local musician/early educator\,
   Linda Bassick. This program is geared towards babies\, toddlers and presc
@@ -893,7 +903,7 @@ BEGIN:VEVENT
 SUMMARY:Weekly Beginner West African Djembe Classes
 DTSTART:20301218T190000
 DTEND:20301218T203000
-DTSTAMP:20261019T173446Z
+DTSTAMP:20261020T154113Z
 UID:06f2e6a876e7c048e80cdf2d0025e7@vermont-events
 DESCRIPTION:Celebrating 30 years of ethnic hand percussion\, Drum Journeys
   of Earth welcomes all members of the community to join their classes in e
