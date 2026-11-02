@@ -5,53 +5,10 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Vermont Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:BAM!: Comics Lab for Kids
-DTSTART:20261101T153000
-DTEND:20261101T170000
-DTSTAMP:20261101T171103Z
-UID:4c9c6b92242dfe23485fa456a52ba0@vermont-events
-DESCRIPTION:Comic artist Jon Chad teaches kids to create comics and develo
- p their visual storytelling skills in this six-part series\, with the opti
- on to table at November's Non-Fiction Comic Festival at FFL. Space is limi
- ted\, please register. Ages 8-12. Week 1: What is a Comic? Understanding c
- omics as a storytelling format & building comfort to share ideas. Week 2: 
- Characters & Expression. Create an original main character and strengthen 
- observational & drawing skills. Week 3: Story Beginnings\, Middles & Ends.
-  Learn simple story arcs & begin planning a personal comic story\, transla
- ting ideas into structured stories. Week 4: Panels\, Pacing & Speech Bubbl
- es. Experiment with page layouts & how panel size & layout affect storytel
- ling building clarity and communication. Week 5: Guest artist workshop. Ar
- tist shares process\, showing creative careers as attainable & building co
- nfidence through mentorship. Week 6: Finishing\, Sharing & Celebration. Fi
- nalize comics\, completing a self-directed project. Every week through Nov
-  01\, 2026.\n\nSources: Vermont Public
-LOCATION:Fletcher Free Library\, 235 College St
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/bam-comics
- -lab-for-kids-04-09-2026-22-27-47
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Community Concerts @ First - Skylark
-DTSTART:20261101T150000
-DTEND:20261101T163000
-DTSTAMP:20261101T171103Z
-UID:82cb73943f8e0df0a8fc84b5925875@vermont-events
-DESCRIPTION:On Sunday November 1 at 3pm\, Community Concerts @ First prese
- nts a Skylark\, an eclectic contemporary string ensemble based in Northern
-  Vermont. With decades of experience in the professional music community\,
-  Skylark’s sound and repertoire challenge the boundaries between the cla
- ssical and folk traditions\, creating innovative and original works for al
- l audiences. Influenced by the Nordic\, Celtic and American regions\, Skyl
- ark’s music is melody-driven with unique energy\, irresistible flair and
-  undeniable beauty.\n\nSources: Vermont Public
-LOCATION:First Congregational Church of Essex Junction\, 39 Main St.
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/community-
- concerts-first-skylark-08-10-2026-18-20-24
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Community Day at the Vermont Circus Festival
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:9acd079978a9deb79e4ae46bc5e0dc@vermont-events
 DESCRIPTION:New England Center for Circus Arts The Vermont Circus Festival
   has events for everyone - starting with a free community day on Sunday\, 
@@ -62,89 +19,10 @@ URL:https://vermont.com/calendar/free-community-day-at-the-vermont-circus-
  festival/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Horror Film Festival
-DTSTART:20261101T190000
-DTEND:20261102T180000
-DTSTAMP:20261101T171103Z
-UID:3523699400d2e93c77184beb67eee6@vermont-events
-DESCRIPTION:From the strange and spectacular to the genuinely scary\, this
-  Halloween weekend is built for big-screen moviegoing. Come for an afterno
- on favorite\, stay late for something darker\, or make a weekend of it. Fr
- i. - Oct 30 7pm - Little Shop of Horrors (40th Anniversary) 10pm - Carrie 
- (50th Anniversary) Sat. - Oct 31 2pm - Monster House (20th Anniversary) 7p
- m - The Craft (30th Anniversary) 10 - Scream (30th Anniversary) Sun. - Nov
-  1 4pm - Labyrinth (40th Anniversary) Pentangle Arts\n\nSources: Vermont P
- ublic
-LOCATION:Vermont Public is independent\, community-supported media\, servi
- ng Vermont with trusted\, relevant and essential information. We share sto
- ries that bring people together\, from every corner of our region.\, © 20
- 26 Vermont Public | 365 Troy Ave. Colchester\, VT 05446
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/horror-fil
- m-festival-12-10-2026-10-17-52
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:John Rutter Requiem
-DTSTART:20261101T160000
-DTEND:20261101T170000
-DTSTAMP:20261101T171103Z
-UID:f7a155d692289bc5f474017963e141@vermont-events
-DESCRIPTION:John Rutter\, b. 1945\, wrote his Requiem in 1985\, using part
- s of the traditional Latin text with added psalms and biblical verses in E
- nglish. It was composed in memory of Rutter’s father who had died in 198
- 4. It is now one of the most frequently performed requiems in the repertoi
- re. Many musical settings of the requiem throughout history have emphasize
- d darkness and the Day of Judgement\, but Rutter’s setting (partly inspi
- red by Fauré’s version) is especially lyrical and reflective. Adjective
- s used to describe it would be – peaceful\, comforting\, serene\, accept
- ance.\n\nSources: Vermont Public
-LOCATION:St. Stephen's Episcopal Church on the Green\, 3 Main Street
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/john-rutte
- r-requiem-29-09-2026-14-08-20
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Requiem For A King – Music of Jean Gilles and Marc-Antoine Charp
- entier
-DTSTART:20261101T160000
-DTEND:20261101T235900
-DTSTAMP:20261101T171103Z
-UID:975deac9bea720183be6595363be43@vermont-events
-DESCRIPTION:Burlington Baroque presents the rediscovered Funeral Requiem S
- etting of Jean Gilles (1668 - 1705) featuring internationally acclaimed fe
- stival Artists-in-Residence L’Harmonie des saisons Baroque Orchestra and
-  the Burlington Baroque Festival Singers\, directed by Eric Milnes. Jean G
- illes’ Messe des Morts\, the most frequently performed Requiem in 18th-c
- entury France\, will receive its regional premiere in two upcoming perform
- ances: Friday\, October 30\, at 7:30 p.m. at Holy Angels Church in St. Alb
- ans\, and Sunday\, November 1\, at 4:00 p.m. at College Street Congregatio
- nal Church in Burlington. Forgotten for more than a century and a half\, G
- illes reemerged from obscurity in the 1950s\, largely through the rediscov
- ery of this Funeral Mass. Born in Tarascon on January 8\, 1668\, he began 
- his musical life at the Cathedral of Saint-Sauveur in Aix-en-Provence as a
- ssistant to director of music Guillaume Poitevin\, whom he later succeeded
- . In 1697\, Gilles settled in Toulouse\, serving as director of music at t
- he Cathedral of Saint-Étienne until his death on February 5\, 1705\, at a
- ge 37. Although his career was brief and devoted entirely to sacred music
- \, his works were celebrated throughout the 18th century. The date and cir
- cumstances of the Requiem’s composition are unknown\, but the work becam
- e one of the 18th century’s most frequently performed pieces of sacred m
- usic and secured Gilles’ posthumous fame. A commentator wrote in 1756 th
- at “of all the Requiem masses\, the one written by Gilles has always bee
- n looked upon as the best.” The work was performed at official funeral o
- bservances\, including memorial services for Jean-Philippe Rameau in 1764 
- and Louis XV in 1774\, and entered the repertoire of the Concert Spirituel
-  in 1750. Audiences should not miss this rare opportunity to experience th
- e timeless grandeur of this glorious masterpiece in live performance. Adul
- ts $40-$80\, $10 Student\, Children free\n\nSources: Vermont Public
-LOCATION:College Street Congregational Church\, 265 College Street
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/requiem-fo
- r-a-king-music-of-jean-gilles-and-marc-antoine-charpentier-04-10-2026-00-3
- 1-43
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:To the Moon and Back
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:ac095aadb866f99d7e1a5a8a379242@vermont-events
 DESCRIPTION:New England Center for Circus Arts ‘ ’ is a charming\, sil
  ly\, all-ages circus show with a handmade set and a creative\, problem-sol
@@ -154,100 +32,10 @@ LOCATION:New England Center for Circus Arts\, Brattleboro\, VT
 URL:https://vermont.com/calendar/to-the-moon-and-back/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Two Tents
-DTSTART:20261101T190000
-DTEND:20261101T210000
-DTSTAMP:20261101T171103Z
-UID:304a919093f4d259b8b0fda15f1343@vermont-events
-DESCRIPTION:As part of its 125th anniversary celebrations\, the Haskell Fr
- ee Library and Opera House presents a new comedy by Stanstead\, Quebec\, p
- laywright Ross Murray. The play is a fundraiser to support the infrastruct
- ure needs of the beloved cross-border institution. Two Tents will run Octo
- ber 23\, 24\, 30\, and 31 at 7 pm and October 25 and November 1 at 2 pm at
-  the Haskell Opera House. Two Tents opens on Melanie and her husband Jim s
- etting up their tent on a campground\, only to discover that the man in th
- e adjacent site is Melanie’s long- ago ex\, Dale\, camping with his much
-  younger girlfriend Nancy. When it's revealed that Dale is not there entir
- ely by accident\, secrets from the past threaten to blow up both relations
- hips. It’s a poignant comedy about broken hearts\, mid-life regrets\, an
- d the perils of love and the great outdoors. The cast of four consists of 
- Sarah Hardin (Newport)\, Mic Hallinan (Derby Line)\, Holly Lillis (Newport
-  Center)\, and Benj Tabah (Lennoxville). Ross Murray directs his own scrip
- t. The Haskell Library has undergone a major transformation in the past ye
- ar. When new border restrictions banned Canadian patrons from entering the
-  library via the US front door\, library trustees were able to convert a f
- ire exit into a proper entrance on the Canadian side\, thanks to many dona
- tions from its supporter. But the 125- year-old building has many ongoing 
- infrastructure and maintenance needs that likewise require generous suppor
- t. Attending Two Tents is an opportunity to help preserve and enrich this 
- cherished cultural landmark. In addition to a night of heartfelt comedy\, 
- the production will also feature one of the Haskell Opera House’s rarely
-  seen original painted backdrops. Note that Two Tents contains mature subj
- ects and mild language\; recommended 13 plus. Artist Group Info Ross Murra
- y rossgrantmurray@gmail.com 93 Caswell Ave Derby Line \, Vermont 05830 Sub
- mit An Event Find out what's happening in your neck of the woods with Verm
- ont Public's free Events newsletter. Email Address * Editorial Emails Brea
- king News | sent occasionally The Frequency | Daily News Update\, sent wee
- kday mornings Capitol Recap | Vermont Legislature Wrap\, sent Fridays duri
- ng the session Brave Little State | People-Powered Journalism\, sent every
-  other Saturday But Why | A Podcast For Curious Kids\, sent every other Fr
- iday Homegoings | A righteous space for art and race\, sent bi-weekly foll
- owing an episode drop Out There | Out There | Your monthly dose of the env
- ironment + the great outdoors\, sent Thursday mor Supporter Emails Members
- hip Renewal Notices | Sent 12 months after your most recent contribution T
- he President's Report | A letter from our president exclusively for member
- s of our Producers Circle The Transmitter | A behind-the-scenes newsletter
-  exclusively for active members\, sent the first Tues But Why Fan Club | A
- ctivity Newsletter exclusively for active members of the But Why Fan Club
- \, sent Other Fundraising Emails | Matching challenges\, prize drawings an
- d more\, sent periodically Audience Emails Program Schedules | Full TV lis
- tings for all channels\, sent monthly This Week | Weekly program highlight
- s\, sent each weekend Events | Upcoming Vermont Public events\, sent occas
- ionally Station Updates | Sent occasionally Recently Added Lydia Thomson: 
- Of Field and Feathers – Opening Reception French Christmas Party at the 
- Shelburne Vineyard Open Stage Champlain Valley Voices Winter Concert Stay 
- Connected twitter instagram youtube bluesky facebook Vermont Public is ind
- ependent\, community-supported media\, serving Vermont with trusted\, rele
- vant and essential information. We share stories that bring people togethe
- r\, from every corner of our region. © 2026 Vermont Public | 365 Troy Ave
- . Colchester\, VT 05446 Public Files: WVTI · WOXM · WVBA · WVNK · WVTQ
-  WVPR · WRVT · WOXR · WNCH · WVPA WVPS · WVXR · WETK · WVTB · WVER
-  WVER-FM · WVLR-FM · WBTN-FM For assistance accessing our public files\,
-  please contact hello@vermontpublic.org or call 802-655-9451. ABOUT About 
- Us Announcements Our Team Board of Directors Community Forum Careers & Int
- ernships Vermont Public in Canada POLICIES & REPORTS Privacy Policy Ethics
- \, Editorial and Other Policies EEO Reports & Statement FCC Applications F
- inancial Information Contest Rules SUPPORT US Donate Now Update Membership
-  Philanthropy Legacy Giving Business Sponsorship Donate Your Car Vermont P
- ublic Passport\n\nSources: Vermont Public
-LOCATION:Haskell Free Library and Opera House
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/two-tents-
- 05-10-2026-11-21-30
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Viewpoints with Eric Bass
-DTSTART:20261101T130000
-DTEND:20261101T150000
-DTSTAMP:20261101T171103Z
-UID:548c8a43c4fd803a3074cdf5e384a6@vermont-events
-DESCRIPTION:What happens when an actor stops overthinking—and starts tru
- sting their instincts? 🎭 In Viewpoints with Eric Bass\, young performer
- s ages 14–19 will explore how time\, space\, movement\, and voice can tr
- ansform a performance. Through four dynamic sessions\, students will expan
- d their range\, make bolder choices\, and discover new ways to command the
-  stage. Sundays\, November 1\, 15\, 22 & 29\, 2026 1–3 p.m. The moment i
- s moving. Step into it. 💥 Sliding-scale tuition and scholarships availa
- ble. Learn more and enroll: https://www.neyt.org/viewpoints Sliding-scale 
- tuition\; scholarships available\n\nSources: Vermont Public
-LOCATION:New England Youth Theatre\, 100 Flat Street
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/viewpoints
- -with-eric-bass-17-10-2026-01-14-36
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A Broadway in Brattleboro Dance Workshop Series: Jazz Funk
 DTSTART:20261102T160000
 DTEND:20261102T180000
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:f89187ba426170254fb6d0036985ef@vermont-events
 DESCRIPTION:Learn Jazz Funk for stage and music videos with internationall
  y renowned dancer and choreographer Manwé Sauls-Addison\, whose career in
@@ -265,7 +53,7 @@ SUMMARY:A Broadway in Brattleboro Dance Workshop Series: Commercial Dance
  & Performance
 DTSTART:20261103T160000
 DTEND:20261103T173000
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:13155493593763c7c2b6ce04f7f83b@vermont-events
 DESCRIPTION:Learn Commercial Dance & Performance with internationally reno
  wned dancer and choreographer Manwé Sauls-Addison\, whose career includes
@@ -283,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:Spirit Chasers: A 30 Year Passion with the Human Form in Nat
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:38b7313cba5812ee7d9cfcb425874a@vermont-events
 DESCRIPTION:New England Center for Circus Arts The Vermont Circus Festival
   is hosting a literary event launching the newly published book by one of 
@@ -297,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Circus Stories from The Moth Community Engagement Program
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:6aed81518c7eb0902f0ae370adac89@vermont-events
 DESCRIPTION:New England Center for Circus Arts Join us for a circus-themed
   storytelling event as part of the Vermont Circus Festival. Our true stori
@@ -308,10 +96,49 @@ URL:https://vermont.com/calendar/circus-stories-from-the-moth-community-en
  gagement-program/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NAMI Night at South Burlington Public Library
+DTSTART:20261104T180000
+DTEND:20261104T193000
+DTSTAMP:20261102T204951Z
+UID:c9ecfb9777158f4983af3e3fac9b69@vermont-events
+DESCRIPTION:NAMI Vermont is partnering with South Burlington Public Librar
+ y once again to bring a FREE mental health outreach presentation to the co
+ mmunity! Join us on November 4th\, from 6:00- 7:30 p.m.\, for a night of l
+ earning and connection. Our trained volunteer presenters will share their 
+ mental health experiences to raise awareness about the impact of mental he
+ alth conditions\, challenge harmful stereotypes about mental health\, and 
+ inspire hope and healing. This is a safe space where participants can ask 
+ questions\, talk about their own experiences\, and learn more about local 
+ resources. This event is open to the public\, with no registration needed.
+  Feel free to share this opportunity with a close friend\, family member\,
+  or co-worker who may be interested in learning more about mental health. 
+ We hope to see you there!\n\nSources: Vermont Public
+LOCATION:South Burlington Library\, 180 Market St.
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/nami-night
+ -at-south-burlington-public-library-09-10-2026-11-28-01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upper Valley Rotary Fall Mixer
+DTSTART:20261104T173000
+DTEND:20261104T190000
+DTSTAMP:20261102T204951Z
+UID:a589b34905c695d77bf3ee690ba832@vermont-events
+DESCRIPTION:Rotarians from Hanover\, Lebanon\, Springfield\, White River J
+ unction\, Windsor & Woodstock are invited for an evening of connection\, c
+ onversation and camaraderie hosted at the Upper Valley Aquatic Center. Enj
+ oy delicious hors d’oeuvres by Blood’s Catering\, beer and wine\, and 
+ great conversation with fellow Upper Valley Rotarians. 🔗 https://qrco.d
+ e/FallRotaryMixer2026 to register and pay\, or RSVP by email to jbaxter@uv
+ acswim.org and pay at the door.\n\nSources: Vermont Public
+LOCATION:Upper Valley Aquatic Center\, 100 Arboretum Lane
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/upper-vall
+ ey-rotary-fall-mixer-30-09-2026-10-31-21
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Happy To Be Here!
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:f6d19bc28d853e05950cf232befbe1@vermont-events
 DESCRIPTION:New England Center for Circus Arts Created & Performed by Jan 
  Damm. Compulsive vaudevillian and international romantic Hans Lieberdich w
@@ -324,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:The Pieces by Aloft
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:32f7472bc4606dcdb240a2401fc111@vermont-events
 DESCRIPTION:New England Center for Circus Arts The Pieces is a new circus 
  show about shared weight. The ladders are not props but partners: they dem
@@ -337,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Alumni Cabaret at the Vermont Circus Festival
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:27a1d4042eb21aae045ce47b4bc310@vermont-events
 DESCRIPTION:New England Center for Circus Arts A Vermont Circus Festival E
  vent. The 5th annual Alumni Cabaret features dazzling circus performers fr
@@ -351,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Broadway in Brattleboro
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:a2f58e552b712c2b542da5857e25e9@vermont-events
 DESCRIPTION:Broadway in New England Youth Theatre Broadway in is back for 
  year two! Join us as we build on last year’s success for an even livelie
@@ -364,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:Circus Smirkus Onstage
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:3b121e6175da3a953ec14ba50b0a54@vermont-events
 DESCRIPTION:New England Center for Circus Arts Step right up and join in t
  he magic of Circus Smirkus! Created especially for the Vermont Circus Fest
@@ -377,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Beta Night
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:32a8ba4d7882314d3c9c831ca4d85c@vermont-events
 DESCRIPTION:New England Center for Circus Arts Circus & Performance Open S
  tage: See new works in progress from students and professionals! is a cura
@@ -390,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:Beta Night 18+ After Hours
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:0fa7d4053ade299def6d8b3e3324a1@vermont-events
 DESCRIPTION:New England Center for Circus Arts Got creaky bones? Excited a
  bout a new pair of socks? Sounds like you're probably an adult. Join us fo
@@ -403,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:Hollywood\, VT The Trouble with Harry Screening + Conversatio
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:4dcb80e0b7d1fb05e22fda989561a2@vermont-events
 DESCRIPTION:The Latchis Theatre **Hitchcock came to Vermont. Made a film. 
  Made some trouble.** On **Sunday\, November 8 at 2 p.m.**\, *The Trouble w
@@ -417,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:Stick Season Social with the Wormdogs
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:73dc4a87b6e3d406fac478f0f4057d@vermont-events
 DESCRIPTION:Bolton Outdoor Adventure Fund Join the Bolton Outdoor Adventur
  e Fund on Tuesday\, November 10\, 2026\, at Zenbarn in \, VT\, for a Stick
@@ -430,7 +257,7 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Turns Ten: St. Johnsbury
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:e1967e6a978fea9ac9ef6bacef8000@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra It’s our tenth season of Jukebox
  \, and we’re playing the hits\, deep cuts\, and brand new songs! This se
@@ -443,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Turns Ten: Burlington
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:155661ba951b442a87c4b00962c125@vermont-events
 DESCRIPTION:Jukebox Turns Ten: Vermont Symphony Orchestra It’s our tenth
   season of Jukebox\, and we’re playing the hits\, deep cuts\, and brand 
@@ -456,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:Kids Night Out
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:5979e0345f2959be255a6998699bd2@vermont-events
 DESCRIPTION:New England Center for Circus Arts Dimly-lit restaurants and t
  alking about school? Boooring. How about a night time hangout with your fr
@@ -466,26 +293,10 @@ LOCATION:New England Center for Circus Arts\, Brattleboro\, VT
 URL:https://vermont.com/calendar/kids-night-out/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Build It Big: Second Story
-DTSTART:20261115T153000
-DTEND:20261115T170000
-DTSTAMP:20261101T171103Z
-UID:cd0df0456350f09f419cbec374dcaa@vermont-events
-DESCRIPTION:Kids work together to create towers\, forts\, vehicles\, and a
- nything else they can dream up with our giant Rigamajig building toy! Part
- icipants also receive take-home kits to continue their learning. Please RS
- VP for reminders\; drop-ins ok. Ages 7-12. Fletcher Free Library's Rigamaj
- ig and this program are sponsored by a grant from Agilent Technology. Ever
- y week through Nov 15\, 2026.\n\nSources: Vermont Public
-LOCATION:Fletcher Free Library\, 235 College St
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/build-it-b
- ig-second-story-21-10-2026-20-54-01
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fall Makers Market 2026
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:fb332d5b454fed4b1903cbaf4550fd@vermont-events
 DESCRIPTION:Feral by Nature Join us for the annual Fall Makers Market in 
  \, Vermont — a celebration of handmade artistry\, local creativity\, and
@@ -498,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:Jukebox Turns Ten: Rutland
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:7d15f825feeaaa5deff8318be99bed@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra It’s our tenth season of Jukebox
  \, and we’re playing the hits\, deep cuts\, and brand new songs! This se
@@ -511,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:Kinhaven Fall Concert Series at the Peru Church
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:2fde91bc2b0e7e91ca4922de24fd3b@vermont-events
 DESCRIPTION:Kinhaven Fall Concert Series at the Church Kinhaven Music Scho
  ol Kinhaven celebrates the second year of its Semester Program intensive f
@@ -522,10 +333,24 @@ URL:https://vermont.com/calendar/kinhaven-fall-concert-series-at-the-peru-
  church/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GROW Preschool Yoga
+DTSTART:20261119T110000
+DTEND:20261119T113000
+DTSTAMP:20261102T204951Z
+UID:f059ae700630f4b7ff2ee71046ec8a@vermont-events
+DESCRIPTION:Join Colleen from Grow Prenatal and Family Yoga for songs\, mo
+ vement\, and other fun yoga activities. Recommended for children ages 2-5 
+ and their caregivers. Every week through Nov 19\, 2026.\n\nSources: Vermon
+ t Public
+LOCATION:Fletcher Free Library\, 235 College St
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/grow-presc
+ hool-yoga-16-09-2026-00-30-41
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Celebrate Craft Holiday Show
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:4d7d0f684172e4e1faba596bc0adcc@vermont-events
 DESCRIPTION:Celebrate Vermont LLC Art\, Craft\, Soecialty Food with Vermon
  t Wine and Spirit Sampling\, 100+ booths Creative shopping. Start and fins
@@ -538,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:Brattleboro Bal Folk Community Dance
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:633bca440799f20663c5941d75d33c@vermont-events
 DESCRIPTION:Brattleboro Bal Folk Sunday\, Nov 22 6-6:40 beginners' worksho
  p 6:45-9 dance party Broad Brook Community Center\, 3940 Center Rd\, \, VT
@@ -551,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:Kinhaven Fall Concert Series at Cathedral Church of St. Paul
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:a6aac7422a576e8f94dc9a2e1fff25@vermont-events
 DESCRIPTION:Kinhaven Music School Kinhaven celebrates the second year of i
  ts Semester Program intensive for exceptional high school string students 
@@ -565,7 +390,7 @@ BEGIN:VEVENT
 SUMMARY:November Break Circus Camp
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:e673fbbfee1e9d5c432f46942cd3cf@vermont-events
 DESCRIPTION:New England Center for Circus Arts Leap into circus fun during
   November break! Campers of all ages will explore aerials\, acrobatics\, j
@@ -578,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:Brattleboro Festival of Miniatures
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:29431788a9c611787a5223ac9c6708@vermont-events
 DESCRIPTION:Festival of Miniatures Festival of Minaitures The Festival of 
  Miniatures brings local artists and makers together to create a free\, tow
@@ -591,7 +416,7 @@ BEGIN:VEVENT
 SUMMARY:Shakespeare Out Loud
 DTSTART:20261130T160000
 DTEND:20261130T173000
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:070063a3fae04d54b34661eaadae9e@vermont-events
 DESCRIPTION:Gathering of interested adults to read aloud Shakespeare’s p
  lays. This Current Play: The Most Lamentable Tragedy of Romeo and Juliet b
@@ -607,7 +432,7 @@ BEGIN:VEVENT
 SUMMARY:Spanish Conversation
 DTSTART:20261201T163000
 DTEND:20261201T173000
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:1746b9ba549f7dc0865f3676e0d8b8@vermont-events
 DESCRIPTION:¿Hablas Español? Practice Spanish and meet other Spanish spe
  akers and learners at the weekly meetup. Beginners welcome. Every week thr
@@ -617,24 +442,10 @@ URL:https://www.vermontpublic.org/vermont-events-calendar/event/spanish-co
  nversation-04-09-2026-22-06-21
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Area Choir Rehearsals
-DTSTART:20261206T163000
-DTEND:20261206T183000
-DTSTAMP:20261101T171103Z
-UID:fc39725caebecf708a37e3d5fca2b4@vermont-events
-DESCRIPTION:We are inviting singers to bring in the Christmas season in so
- ng! Whether you have sung with a choir before or have any church affiliati
- on\, The Area Choir is for all who love music. No previous experience need
- ed. Every week through Dec 06\, 2026.\n\nSources: Vermont Public
-LOCATION:South Congregational Church\, 20 Church Street
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/area-choir
- -rehearsals-25-09-2026-17-18-25
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Billings After Hours Mixology Workshop
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:65afefacbd26a94334dc7c262beabc@vermont-events
 DESCRIPTION:Billings Farm & Museum Warm up with this hands-on cocktail wor
  kshop! Learn how to pair ingredients\, build flavor\, and craft classic co
@@ -647,7 +458,7 @@ BEGIN:VEVENT
 SUMMARY:Wine & Cheese Tasting at Retreat Farm Market
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:ed149cbff09d548f517985af5176dc@vermont-events
 DESCRIPTION:Retreat Farm Treat yourself to fine wines while we explore reg
  ions\, grapes\, makers\, and flavor profiles with local wine expert Jason 
@@ -658,10 +469,40 @@ URL:https://vermont.com/calendar/wine-cheese-tasting-at-retreat-farm-marke
  t/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Library Littles Playgroup
+DTSTART:20261216T110000
+DTEND:20261216T114500
+DTSTAMP:20261102T204951Z
+UID:bd99f16ed720eddbe2628dabad277e@vermont-events
+DESCRIPTION:Clap your hands for the Library Littles! This weekly drop-in p
+ rogram brings babies\, toddlers\, and their caregivers together for playti
+ me\, connection\, and community in a warm and nurturing environment. Each 
+ week will feature a variety of different play stations for young children 
+ to explore. Recommended for ages 0-3 with caregiver. No registration neces
+ sary. Wednesdays\, 11-11:45 a.m. Every week through Dec 16\, 2026.\n\nSour
+ ces: Vermont Public
+LOCATION:Fletcher Free Library\, 235 College St
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/library-li
+ ttles-playgroup-04-09-2026-23-16-50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories & Songs for Library Littles
+DTSTART:20261216T110000
+DTEND:20261216T113000
+DTSTAMP:20261102T204951Z
+UID:9cfde861c7ccd24b8714cb7e0ae932@vermont-events
+DESCRIPTION:Storytime\, songs\, and open play for babies\, toddlers\, and 
+ their caregivers! Youth Area. Drop-in\; no registration required. Every we
+ ek through Dec 16\, 2026.\n\nSources: Vermont Public
+LOCATION:Fletcher Free Library\, 235 College St
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/stories-am
+ p-songs-for-library-littles-04-09-2026-23-14-51
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kids Night Out
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:c20a703bf7f343bfc8d5b4a85463eb@vermont-events
 DESCRIPTION:New England Center for Circus Arts Dimly-lit restaurants and t
  alking about school? Boooring. How about a night time hangout with your fr
@@ -674,7 +515,7 @@ BEGIN:VEVENT
 SUMMARY:Brattleboro Bal Folk: Intro Session & Dance Party
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:4706e3ed96bdf823d62a372c152069@vermont-events
 DESCRIPTION:Brattleboro Bal Folk 6-6:40 beginners' workshop 6:45-9 dance p
  arty Broad Brook Community Center\, 3940 Center Rd\, \, VT 05301 (just out
@@ -685,25 +526,25 @@ URL:https://vermont.com/calendar/brattleboro-bal-folk-intro-session-dance-
  party/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stories & Crafts: Animal Antics!
-DTSTART:20261221T110000
-DTEND:20261221T114500
-DTSTAMP:20261101T171103Z
-UID:b574229ab3a8319eb89740b5dac429@vermont-events
-DESCRIPTION:Weekly animal-themed stories and art activities for kids and c
- aregivers! Each week will star a special mystery animal to be featured in 
- the books we read and the crafts we create. Recommended for ages 2-6\; all
-  are welcome. No registration required. Every week through Dec 21\, 2026.
- \n\nSources: Vermont Public
+SUMMARY:Crafters Drop-In
+DTSTART:20261222T180000
+DTEND:20261222T200000
+DTSTAMP:20261102T204951Z
+UID:9bc301e5fddea2f17de1e3619c4668@vermont-events
+DESCRIPTION:Connect with your community through crafting! Bring in your cu
+ rrent knitting/crocheting/mending/embroidery/etc. project and join us for 
+ an evening of creativity and conversation. All projects and all experience
+  levels are welcome! Every week through Dec 22\, 2026.\n\nSources: Vermont
+  Public
 LOCATION:Fletcher Free Library\, 235 College St
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/stories-am
- p-crafts-animal-antics-04-09-2026-22-52-27
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/crafters-d
+ rop-in-04-09-2026-22-22-50
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sing-Along with Linda Bassick
 DTSTART:20261229T110000
 DTEND:20261229T233000
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:16b3f6505f233a73dd501dca6d1dfc@vermont-events
 DESCRIPTION:Dance\, wiggle\, and sing with local musician/early educator\,
   Linda Bassick. This program is geared towards babies\, toddlers and presc
@@ -717,7 +558,7 @@ BEGIN:VEVENT
 SUMMARY:Pause-Café Mardi - French Conversation
 DTSTART:20270209T170000
 DTEND:20270209T190000
-DTSTAMP:20261101T171103Z
+DTSTAMP:20261102T204951Z
 UID:47922240e791675e4b2c322afc7c41@vermont-events
 DESCRIPTION:Conversations in French. Francophones and French-language lear
  ners meet pour parler la belle langue. Drop-ins welcome. Every week throug
@@ -725,5 +566,40 @@ DESCRIPTION:Conversations in French. Francophones and French-language lear
 LOCATION:Fletcher Free Library\, 235 College St
 URL:https://www.vermontpublic.org/vermont-events-calendar/event/pause-cafe
  -mardi-french-conversation-21-10-2026-21-02-55
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weekly Beginner West African Djembe Classes
+DTSTART:20301218T190000
+DTEND:20301218T203000
+DTSTAMP:20261102T204951Z
+UID:06f2e6a876e7c048e80cdf2d0025e7@vermont-events
+DESCRIPTION:Celebrating 30 years of ethnic hand percussion\, Drum Journeys
+  of Earth welcomes all members of the community to join their classes in e
+ thnic drumming and percussion\, including West African djembe\, Afro-Latin
+  conga\, Middle Eastern doumbec\, Native American medicine drum\, and pow-
+ wow drumming. Drum Journeys of Earth and its students are widely known for
+  leading the Rutland Halloween Parade as the Drumming Skeletons. Students 
+ have also performed at First Night\, at the Northern New York NAACP Fundra
+ ising dinner\, with Soul Bath Trance Dance\, and the Twice Baked Orchestra
+ . As a Broadway actor and founder/director of Drum Journeys of Earth (DJE)
+ \, Gary Meitrott brings his theatrical talents to drum circles\, performan
+ ces\, and workshops\, in addition to his weekly classes. His vibrations re
+ ach out to the community\, creating a ripple that touches all ages – inv
+ iting them to come and play with the drum. Rhythm is a universal language 
+ that allows us to connect with our inner selves and with community. It has
+  a meditative quality that calms our minds and reduces anxiety. Drumming a
+ lso boosts activity in the brain’s neural pathways\, leading to “brain
+  plasticity\,” enhanced memory\, and other cognitive skills. Research sh
+ ows that group drumming improves concentration\, reduces stress\, alleviat
+ es pain\, and boosts the immune system. What’s more\, the mental and phy
+ sical engagement is exhilarating\, making it ideal for young and old alike
+ . There is a multi-sensory engagement involving visual\, auditory\, and ta
+ ctile senses. For more information or to join Beginning classes\, please c
+ all 802-282-2581\, email Gary_Meitrott@comcast.net\, or log on to https://
+ garymeitrottunlimited.org/. 90.00 Every week through Dec 21\, 2030.\n\nSou
+ rces: Vermont Public
+LOCATION:Drum Journeys of Earth\, Bldg 5 of the Howe Center 1 Scale Avenue
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/weekly-beg
+ inner-west-african-djembe-classes-28-07-2026-20-02-52
 END:VEVENT
 END:VCALENDAR
