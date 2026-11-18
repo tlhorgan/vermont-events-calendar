@@ -5,106 +5,123 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Vermont Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Dark Star Orchestra
-DTSTART:20261117T193000
-DTEND:20261117T213000
-DTSTAMP:20261117T195530Z
-UID:60f19cc20f4fca62a398e667a8f9cf@vermont-events
-DESCRIPTION:Performing to critical acclaim for nearly 30 years and over 33
- 00 shows\, Dark Star Orchestra continues the Grateful Dead live concert ex
- perience. The seven-piece band performs shows based on actual Grateful Dea
- d set lists from their 30 years of touring\, or creates unique sets from t
- he Dead’s extensive catalog. This approach allows fans both young and ol
- d to share in the experience while offering a continually evolving artisti
- c outlet within this musical canon. Dark Star Orchestra offers much more t
- han just the sound of the Grateful Dead—they truly encapsulate the energ
- y and experience. It’s about that sense of familiarity and contagious en
- ergy that creates the complete concert experience fans expect. The band ha
- s featured guest performances from six original Grateful Dead members: Phi
- l Lesh\, Bob Weir\, Bill Kreutzmann\, Donna Jean Godchaux-MacKay\, Vince W
- elnick\, and Tom Constanten\, plus longtime Dead soundman Dan Healy. Other
-  notable guests have included Mike Gordon and Jon Fishman of Phish\, Warre
- n Haynes\, Steve Kimock\, and many more.\n\nSources: Vermont Public
-LOCATION:The Paramount Theatre\, 30 Center St
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/dark-star-
- orchestra-24-09-2026-15-50-31
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fletcher Free's Fictional Book Club: The Wilderness
-DTSTART:20261117T173000
-DTEND:20261117T190000
-DTSTAMP:20261117T195530Z
-UID:85c2b49e5b19ce60a2bd8b95134aa9@vermont-events
-DESCRIPTION:An era-defining novel about five Black women over the course o
- f their twenty-year friendship\, as they move through the dizzying and som
- etimes precarious period between young adulthood and midlife—in the much
- -anticipated second book from National Book Award finalist Angela Flournoy
- . Desiree\, January\, Monique\, and Nakia are in their early twenties and 
- at the beginning. Of their careers\, of marriage\, of motherhood\, and of 
- big-city lives in New York and Los Angeles. Together\, they are finding th
- eir way through the wilderness\, that period of life when the reality of c
- ontemporary adulthood—overwhelming\, mysterious\, and full of freedom an
- d consequences—swoops in and stays. Desiree is estranged from her sister
-  Danielle\, and the two nurse bitter family wounds in different ways. Janu
- ary’s got a relationship with a “good” man she feels ambivalent abou
- t\, even after her surprise pregnancy. Monique\, a librarian and aspiring 
- blogger\, finds unexpected online fame after calling out the university wh
- ere she works for its plans to whitewash fraught history. And Nakia is try
- ing to get her restaurant off the ground\, without relying on the largesse
-  of her upper middle-class family who wonder aloud if she should be doing 
- something better with her life. As these friends move from the late 2000
- ’s into the late 2020’s\, from young adults to grown women\, they must
-  figure out what they mean to one another—amid political upheaval\, econ
- omic and environmental instability\, and the increasing volatility of mode
- rn American life. The Wilderness is Angela Flournoy’s masterful and kale
- idoscopic follow-up to her critically acclaimed debut The Turner House. A 
- generational talent\, she captures with disarming wit and electric languag
- e how the most profound connections over a lifetime can lie in the tangled
- \, uncertain thicket of friendship. Limited copies of the book are availab
- le for checkout at the Main Desk.\n\nSources: Vermont Public
-LOCATION:Fletcher Free Library\, 235 College St
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/fletcher-f
- rees-fictional-book-club-the-wilderness-21-10-2026-21-18-40
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Middlebury Afropop Band and African Music and Dance Ensemble Joint
-  Concert
-DTSTART:20261117T183000
-DTEND:20261117T203000
-DTSTAMP:20261117T195530Z
-UID:198f56ab7c5b2b64953578bbea01dd@vermont-events
-DESCRIPTION:A performance of African music and dance.\n\nSources: Vermont 
- Public
-LOCATION:Wilson Hall\, McCullough Student Center\, 14 Old Chapel Rd
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/middlebury
- -afropop-band-and-african-music-and-dance-ensemble-joint-concert-11-11-202
- 6-11-41-15
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vermont Development Conference
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261117T195530Z
-UID:92f86469862c1d62dcb0f14b24f855@vermont-events
-DESCRIPTION:Join us to celebrate over a decade of innovation and growth at
-  the 12th Annual Vermont Development Conference\, hosted at the Hotel Cham
- plain. This full-day event offers a dynamic blend of insightful discussion
- s\, networking opportunities\, and industry inspiration. Whether you’re 
- a seasoned professional or new to the real estate development and land use
-  fields\, connect with thought leaders and peers in an engaging\, collabor
- ative atmosphere. Don’t miss this unique opportunity to expand your know
- ledge\, share ideas\, and enhance your professional network.\n\nSources: V
- ermont.com\, Vermont Public
-LOCATION:Hotel Champlain\, 60 Battery Street
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/vermont-de
- velopment-conference-09-10-2026-11-45-00
+DTSTAMP:20261118T192640Z
+UID:4c4d1408a1ba158250ea9c97b60f22@vermont-events
+DESCRIPTION:White + Burke Join us to celebrate over a decade of innovation
+  and growth at the 12th Annual \, hosted at the Hotel Champlain. This full
+ -day event offers a dynamic blend of insightful...\n\nSources: Vermont.com
+LOCATION:White + Burke\, Burlington\, VT
+URL:https://vermont.com/calendar/vermont-development-conference/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eighth Blackbird
+DTSTART:20261118T200000
+DTEND:20261118T220000
+DTSTAMP:20261118T192640Z
+UID:1e6e38d399d480fb8f3786c988ac74@vermont-events
+DESCRIPTION:Four-time GRAMMY® Award-winning contemporary music sextet Eig
+ hth Blackbird is\, according to The Chicago Tribune\, “one of the smarte
+ st\, most dynamic ensembles on the planet.” The Music program at Benning
+ ton College is thrilled to welcome Eighth Blackbird for an exciting multi-
+ day residency that will culminate with their Carriage Barn Series debut\, 
+ an electrifying concert of new music you won’t want to miss. Bennington 
+ College Deane Carriage Barn\n\nSources: Vermont Public
+LOCATION:Recently Added\, Dec. 15 | Spice Up Your Holidays with the Milk S
+ treet Cooking School
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/eighth-bla
+ ckbird-13-11-2026-13-47-48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FFL Book Discussion Group: The Ninth Hour
+DTSTART:20261118T183000
+DTEND:20261118T200000
+DTSTAMP:20261118T192640Z
+UID:015871405d935b7371f1290d7e0c83@vermont-events
+DESCRIPTION:On a dim winter afternoon\, a young Irish immigrant opens the 
+ gas taps in his Brooklyn tenement. He is determined to prove―to the subw
+ ay bosses who have recently fired him\, to his pregnant wife―“that the
+  hours of his life belong to himself alone.” In the aftermath of the fir
+ e that follows\, Sister St. Savior\, an aging nun appears\, unbidden\, to 
+ direct the way forward for his widow and his unborn child. We begin deep i
+ nside Catholic Brooklyn\, in the early part of the twentieth century. Deco
+ rum\, superstition\, and shame collude to erase the man’s brief existenc
+ e. Yet his suicide\, although never spoken of\, reverberates through many 
+ lives and over the decades testing the limits and the demands of love and 
+ sacrifice\, of forgiveness and forgetfulness\, even through multiple gener
+ ations. The characters we meet\, from Sally\, the unborn baby at the begin
+ ning of the novel\, who becomes the center of the story to the nuns whose 
+ personalities we come to know and love to the neighborhood families with w
+ hose lives they are entwined\, are all rendered with extraordinary sympath
+ y and McDermott’s trademark lucidity and intelligence. Alice McDermott
+ ’s The Ninth Hour is a crowning achievement by one of the premiere write
+ rs at work in America today. Limited copies of the book are available for 
+ checkout at the Main Desk. Contact: Barbara Shatara at bshatara@burlington
+ vt.gov to register and to obtain Zoom info. Virtual\n\nSources: Vermont Pu
+ blic
+LOCATION:Recently Added\, Dec. 15 | Spice Up Your Holidays with the Milk S
+ treet Cooking School
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/ffl-book-d
+ iscussion-group-the-ninth-hour-21-10-2026-21-15-29
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Imani Winds and Stewart Goodyear
+DTSTART:20261118T193000
+DTEND:20261118T211500
+DTSTAMP:20261118T192640Z
+UID:f7b00b5876f9b6e166c4bc39a1b5ca@vermont-events
+DESCRIPTION:The Grammy award-winning Imani Winds joins forces with dynamic
+  pianist and composer Stewart Goodyear. Blending music and narrative—and
+  inspired by the African American folktale “The People Could Fly”—th
+ is program marks America’s 250th year with a meditation on freedom\, mem
+ ory\, and transformation. Rather than a patriotic celebration\, it offers 
+ a space for reflection—a journey through works by living composers who g
+ ive voice to migration\, resistance\, and the ongoing pursuit of justice. 
+ Learn more about this concert’s music in a free pre-concert lecture by S
+ tewart Goodyear starting at 6:30 p.m. at Mahaney Arts Center 125.\n\nSourc
+ es: Vermont Public
+LOCATION:Olin C Robison Concert Hall at Mahaney Arts Center\, 72 Porter Fi
+ eld Road
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/imani-wind
+ s-and-stewart-goodyear-11-11-2026-11-45-58
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:John Scofield's ELECTROSPECTIVE featuring OTEIL BURBRIDGE\, LARRY 
+ GOLDINGS & ADAM DEITCH
+DTSTART:20261118T193000
+DTEND:20261118T230000
+DTSTAMP:20261118T192640Z
+UID:2316b2c808516eceac373d81794d36@vermont-events
+DESCRIPTION:Through his 54-year career\, 3-time Grammy Award winner John S
+ cofield has occasionally detoured from the traditions of straight-ahead ja
+ zz\, exploring a blend of funk and jazz that has led to some of his most p
+ opular projects. In late autumn of 2026\, Scofield looks back at many of h
+ is now classic fusion groove compositions with Electrospective. Not intend
+ ing to replicate the earlier fan favorites\, he plans instead to revisit t
+ hem with the seasoned perspective of several decades\; culling tunes from 
+ his Blue Matter\, Uberjam\, and AGoGo bands – each responsible for a few
+  recordings – as well as new material in the same vein. Scofield looks f
+ orward to teaming up with a stellar band of colleagues\, Electrospective w
+ ill rely on interpretative input from Scofield alum and super funk drummer
+ /producer Adam Deitch (Lettuce)\, multidimensional Larry Goldings (Scary G
+ oldings\, James Taylor) on keyboards\, and legendary bassist Oteil Burbrid
+ ge (Dead & CO.\, Tedeschi Trucks\, Allman Brothers). With this repertoire 
+ so frequently (and loudly) requested by audience members\, Scofield is gla
+ d to have a band that will truly do the music justice.\n\nSources: Vermont
+  Public
+LOCATION:The Flynn\, 153 Main St.
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/john-scofi
+ elds-electrospective-featuring-oteil-burbridge-larry-goldings-amp-adam-dei
+ tch-26-03-2026-17-18-09
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lake Champlain Memory Café: Mini Performance from a UVM Student S
  tring Trio
 DTSTART:20261118T150000
 DTEND:20261118T160000
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:0f5e2f8b28492014a6b0cc7dccc0f9@vermont-events
 DESCRIPTION:The Lake Champlain Memory Café offers an inviting space and t
  ime for those living with dementia – and their care partners/families. C
@@ -118,10 +135,31 @@ URL:https://www.vermontpublic.org/vermont-events-calendar/event/lake-champ
  6-21-20-37
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LWV Speaker Series - Where Do We Go from Here?: The Environmental 
+ Impact of Data Centers
+DTSTART:20261118T190000
+DTEND:20261118T203000
+DTSTAMP:20261118T192640Z
+UID:22dc207e8a17ed335eb3efe3ced86f@vermont-events
+DESCRIPTION:The talk will focus on the use and environmental release of PF
+ AS forever chemicals and explain why all data center proposals should be s
+ ubject to complete environmental reviews. Lenny Siegel has worked for deca
+ des on environmental issues surrounding the tech industry and has served o
+ n numerous regional and national environmental advisory groups\, including
+  committees of the the National Academies of Sciences. This will be a virt
+ ual presentation. Questions may be submitted through Chat\, or in advance 
+ to sue@lwvofvt.org To attend this talk go to: https://bit.ly/AIDataCntr.\n
+ \nSources: Vermont Public
+LOCATION:Kellogg Hubbard Library\, 135 Main Street
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/lwv-speake
+ r-series-where-do-we-go-from-here-the-environmental-impact-of-data-centers
+ -29-10-2026-14-04-59
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mid-Day Organ Concert
 DTSTART:20261118T121500
 DTEND:20261118T130000
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:9b174e99446126e240c9624e7d33a0@vermont-events
 DESCRIPTION:Robert Ludwig will present a program of music from the 17th to
   the 21st centuries for the pipe organ on the college’s 50-rank\, 3100 p
@@ -137,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:Midday Organ Recital with Robert Ludwig
 DTSTART:20261118T121500
 DTEND:20261118T130000
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:cbdebb0a1d8440856b8faeb693f0a7@vermont-events
 DESCRIPTION:Robert Ludwig performs a marvelous selection of organ music on
   the grand Gress-Miles pipe organ in the College Chapel at Middlebury Coll
@@ -153,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:The Spotted Moth Story Hour 'If Only...'
 DTSTART:20261118T180000
 DTEND:20261118T200000
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:1cb8d863314315978b51cc4c7c8b14@vermont-events
 DESCRIPTION:Open Mic storytelling\, with the theme\, "If Only.." Come tell
   us your story of missed oppotunites\, unfulfilled desires\, or dreams for
@@ -172,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Vegan in Vermont I
 DTSTART:20261118T180000
 DTEND:20261118T200000
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:8b23ae4f0501edf9157ec2b0567cf9@vermont-events
 DESCRIPTION:Guest Speakers: April McIlwaine and Gabby Boyson work for the 
  Intervale Food Hub--a program of the Intervale Center--that works to stren
@@ -186,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:Vermont Statewide Housing Conference
 DTSTART:20261118T083000
 DTEND:20261118T170000
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:c955edb0d2d81cea2426bcf202b270@vermont-events
 DESCRIPTION:Doubletree Hotel & Conference Center\, South Burlington\, VT. 
  The state's largest biennial affordable housing conference features expert
@@ -201,10 +239,61 @@ URL:https://www.vermontpublic.org/vermont-events-calendar/event/vermont-st
  atewide-housing-conference-31-07-2026-10-55-35
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:25th Anniversary Stuff-A-Truck / Pack the Pantry
+DTSTART:20261119T050000
+DTEND:20261119T230000
+DTSTAMP:20261118T192640Z
+UID:e7f6ced9e7364eed6259a98fd3aa76@vermont-events
+DESCRIPTION:Celebrate 25 years of Stuff-A-Truck / Pack the Pantry\, a Cent
+ ral Vermont tradition bringing neighbors together to help fight hunger! Fo
+ r 25 years\, local families\, businesses\, schools\, first responders\, an
+ d community organizations have come together to help ensure our neighbors 
+ don't have to choose between food\, heat\, medicine\, and other necessitie
+ s. This year's special anniversary celebration includes invitations to Ver
+ mont Governor Phil Scott\, the 802 Ghostbusters\, Santa Claus\, and other 
+ community guests. Guest appearances are subject to confirmation. The event
+  is free and open to the public. Stop by\, bring non-perishable food donat
+ ions\, and help us FILL THE TRUCK! Event information: www.vtpackthepantry.
+ com\n\nSources: Vermont Public
+LOCATION:Pack The Pantry`\, 168 Ames Drive
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/25th-anniv
+ ersary-stuff-a-truck-pack-the-pantry-19-10-2026-21-38-03
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:'Gone Guys' Screening
+DTSTART:20261119T103000
+DTEND:20261119T113000
+DTSTAMP:20261118T192640Z
+UID:bda43553680d5b74cd94c41a16eb6c@vermont-events
+DESCRIPTION:Tackling a national topic\, the documentary is showing around 
+ the U.S. Since its premiere in Vermont July\, 2025 it has screened at over
+  100 community events. The film invites viewers into a timely\, necessary 
+ conversation about the challenges facing boys and young men today. Since p
+ remiering in 2025\, "Gone Guys" has been drawing crowds to screenings pair
+ ed with thoughtful community.\n\nSources: Vermont Public
+LOCATION:Stone Valley Arts\, 145 East Main Street
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/gone-guys-
+ screening-14-11-2026-15-50-48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GROW Preschool Yoga
+DTSTART:20261119T110000
+DTEND:20261119T113000
+DTSTAMP:20261118T192640Z
+UID:f059ae700630f4b7ff2ee71046ec8a@vermont-events
+DESCRIPTION:Join Colleen from Grow Prenatal and Family Yoga for songs\, mo
+ vement\, and other fun yoga activities. Recommended for children ages 2-5 
+ and their caregivers. Every week through Nov 19\, 2026.\n\nSources: Vermon
+ t Public
+LOCATION:Fletcher Free Library\, 235 College St
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/grow-presc
+ hool-yoga-16-09-2026-00-30-41
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hadestown: Teen Edition
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:5fb588888b38b4cd0b99540b475694@vermont-events
 DESCRIPTION:High School Nov 19\, 20 and 21 7pm is a full-length adaptation
   of Anaïs Mitchell's Tony Award-winning Broadway folk opera\, officially 
@@ -217,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:Legally Blonde: The Musical
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:e0452432aa915b00d73f39f5ad0398@vermont-events
 DESCRIPTION:Musical C/O Mt Abraham Union High School OMIGOD YOU GUYS! Harv
  ard’s beloved blonde\, Elle Woods\, is taking the stage in " \," a high-
@@ -227,10 +316,23 @@ LOCATION:Musical C/O Mt Abraham Union High School\, Bristol\, VT
 URL:https://vermont.com/calendar/legally-blonde-the-musical/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Minecraft Meet-up
+DTSTART:20261119T170000
+DTEND:20261119T181500
+DTSTAMP:20261118T192640Z
+UID:4e456dca0ba117ba7770fdfca7efca@vermont-events
+DESCRIPTION:Kids 7-12: drop in and meet up with fellow Minecraft enthusias
+ ts to play together on the library’s private server! Snacks will be avai
+ lable. Every week through Nov 19\, 2026.\n\nSources: Vermont Public
+LOCATION:Fletcher Free Library\, New North End\, 1127 North Ave
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/minecraft-
+ meet-up-04-09-2026-22-36-24
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pack The Pantry / Stuff A Truck - 25th annual event
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:4ebc9912f02a3b82fac5476c1eb9fd@vermont-events
 DESCRIPTION:The Grace Foundation Celebrate 25 years of Stuff-A-Truck / Pac
  k the Pantry\, a Central Vermont tradition bringing neighbors together to 
@@ -244,7 +346,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Night Flights
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:9cb5e26717169c6b313266262dfd7d@vermont-events
 DESCRIPTION:New England Center for Circus Arts Ever wanted to fly through 
  the air with the greatest of ease? Now is your chance! This Friday night w
@@ -257,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:I Love the 80's to Death: A Rockin' Radical Night of Mystery
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:4ba50d12e4ef307ecff8682c4dfacb@vermont-events
 DESCRIPTION:The Depot Join us for (Murder Mystery) at The Depot on Friday 
  November 20th! Show Description: It’s the 80’s again\, and all of the 
@@ -270,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:Okemo Mountain School Ski & Snowboard Swap
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:0350c0bca546fc6bfa35db1c1bfde6@vermont-events
 DESCRIPTION:Okemo Mountain School Mark your calendars for the 2026 Okemo S
  ki and Snowboard Swap! The Annual Okemo Ski and Snowboard Swap to benefit 
@@ -280,10 +382,30 @@ LOCATION:Okemo Mountain School\, Ludlow\, VT
 URL:https://vermont.com/calendar/okemo-mountain-school-ski-snowboard-swap/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:25th Annual Pack the Pantry Food and Funds Drive
+DTSTART:20261121T050000
+DTEND:20261121T150000
+DTSTAMP:20261118T192640Z
+UID:46eb9f2ca9875a1b3ff0ca37af2745@vermont-events
+DESCRIPTION:The 25th Annual Pack the Pantry Food and Funds Drive\, present
+ ed by Preston's Kia\, Chrysler\, Dodge\, Jeep and Ram. Volunteers will col
+ lect canned goods\, nonperishable food and monetary gifts with the goal of
+  filling a 53-foot Bellavance Trucking tractor-trailer for The Salvation A
+ rmy Emergency Food Shelf. Santa visits Friday evening\; the 802 Ghostbuste
+ rs and 501st Legion stormtroopers appear Saturday. Every $1 given through 
+ the Red Kettle helps provide $7 worth of food\, and every gift stays local
+ . Collection kits and online giving at www.vtpackthepantry.com. Market 32 
+ by Price Chopper\n\nSources: Vermont Public
+LOCATION:Recently Added\, Dec. 15 | Spice Up Your Holidays with the Milk S
+ treet Cooking School
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/25th-annua
+ l-pack-the-pantry-food-and-funds-drive-22-10-2026-12-33-11
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Celebrate Craft Holiday Show
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:4d7d0f684172e4e1faba596bc0adcc@vermont-events
 DESCRIPTION:Celebrate Vermont LLC Art\, Craft\, Soecialty Food with Vermon
  t Wine and Spirit Sampling\, 100+ booths Creative shopping. Start and fins
@@ -296,7 +418,7 @@ BEGIN:VEVENT
 SUMMARY:Family Art Saturday
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:2d4b725ad0ad786e03d6649f720d48@vermont-events
 DESCRIPTION:City Arts Join us for an art-making activity inspired by curre
  nt BCA Center exhibitions and explore processes and materials used by the 
@@ -309,7 +431,7 @@ BEGIN:VEVENT
 SUMMARY:KCP Presents: Upright Citizens Brigade All-Stars
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:e968016627c60836fee75bf9e5780e@vermont-events
 DESCRIPTION:Catamount Arts ST. JOHNSBURY – The KCP Presents Performing A
  rts Series welcomes fast and fearless improv comedy troupe Upright Citizen
@@ -323,7 +445,7 @@ BEGIN:VEVENT
 SUMMARY:Nelly's Does Karen's Diner©: Franklin County Edition
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:8091a956be377d1984a336f11abdbc@vermont-events
 DESCRIPTION:Nelly's Pub & Grill All day on Saturday November 21st\, (start
  ing at 12PM-close) Nelly's Pub & Grill will channel their inner "Karen's D
@@ -337,7 +459,7 @@ BEGIN:VEVENT
 SUMMARY:Brattleboro Bal Folk Community Dance
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:633bca440799f20663c5941d75d33c@vermont-events
 DESCRIPTION:Brattleboro Bal Folk Sunday\, Nov 22 6-6:40 beginners' worksho
  p 6:45-9 dance party Broad Brook Community Center\, 3940 Center Rd\, \, VT
@@ -350,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:Hunting Wives Pilates Social
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:18676acd76b792510d49a51fc8286d@vermont-events
 DESCRIPTION:The Depot It’s that time of year…🦌 #iykyk And no\, you 
  don’t have to be a hunting wife to join us! Anyone is welcome to come fo
@@ -363,7 +485,7 @@ BEGIN:VEVENT
 SUMMARY:Kinhaven Fall Concert Series at Cathedral Church of St. Paul
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:a6aac7422a576e8f94dc9a2e1fff25@vermont-events
 DESCRIPTION:Kinhaven Music School Kinhaven celebrates the second year of i
  ts Semester Program intensive for exceptional high school string students 
@@ -377,7 +499,7 @@ BEGIN:VEVENT
 SUMMARY:November Break Circus Camp
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:e673fbbfee1e9d5c432f46942cd3cf@vermont-events
 DESCRIPTION:New England Center for Circus Arts Leap into circus fun during
   November break! Campers of all ages will explore aerials\, acrobatics\, j
@@ -390,7 +512,7 @@ BEGIN:VEVENT
 SUMMARY:Thanksgiving Eve with Barbie-N-Bones @ The Depot (21+)
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:5288c9d29586cd3bb3b3ba866170eb@vermont-events
 DESCRIPTION:The Depot THANKSGIVING EVE. LET’S GET WILD. Barbie N Bones i
  s taking over The Depot in for a full-on Thanksgiving Eve party! 🎸 Expe
@@ -404,7 +526,7 @@ BEGIN:VEVENT
 SUMMARY:A Family Thanksgiving
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:a23cba7c6ae66c134aff9629ee3753@vermont-events
 DESCRIPTION:Billings Farm & Museum Give thanks\, share traditions\, and le
  arn together. Step back in time and explore a traditional Victorian-era Th
@@ -417,7 +539,7 @@ BEGIN:VEVENT
 SUMMARY:✨ Beary Magical Lights at Vermont Teddy Bear! 🧸
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:4f5ce01e00e11ea7bae1156f4f0f98@vermont-events
 DESCRIPTION:Vermont Teddy Bear This holiday season\, the Vermont Teddy Bea
  r Factory transforms into a glowing winter wonderland! Bring the family an
@@ -431,7 +553,7 @@ BEGIN:VEVENT
 SUMMARY:Brattleboro Festival of Miniatures
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:29431788a9c611787a5223ac9c6708@vermont-events
 DESCRIPTION:Festival of Miniatures Festival of Minaitures The Festival of 
  Miniatures brings local artists and makers together to create a free\, tow
@@ -444,7 +566,7 @@ BEGIN:VEVENT
 SUMMARY:MGB @ The Depot (21+)
 DTSTART:20261127T210000
 DTEND:20261128T000000
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:4da9e12ec652e7bcbb8a3951c8987b@vermont-events
 DESCRIPTION:The Depot 🎤 The Maplegrove Band 📍 The Depot 📆 Friday
  \, November 27th ⏰ 9pm - 12am 💰 $10 Cover Fee Important: MUST BE 21 o
@@ -456,7 +578,7 @@ BEGIN:VEVENT
 SUMMARY:Bill Blagg Family Magic
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:11d2092a10d710ff297b288537f2cd@vermont-events
 DESCRIPTION:Spruce Peak Arts Join us for an incredible show filled with la
  ughter\, wonder and endless surprises as renowned magician Bill Blagg pres
@@ -469,7 +591,7 @@ BEGIN:VEVENT
 SUMMARY:Fundraiser: Teton Gravity Research movie screening
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:f362d7bed122350fcf774eb21bbe6b@vermont-events
 DESCRIPTION:Cavendish Town Park Benefitting the Cavendish Town Park Projec
  t. Doors open at 6:30 and the show starts at 7pm. We will have a silent au
@@ -483,7 +605,7 @@ BEGIN:VEVENT
 SUMMARY:The Nutcracker
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:05741c27bbb5b574aed43dca5a864e@vermont-events
 DESCRIPTION:Albany Berkshire Ballet Albany Berkshire Ballet brings the hol
  iday magic of its acclaimed Nutcracker production to once again on Novembe
@@ -493,23 +615,10 @@ LOCATION:Albany Berkshire Ballet\, Burlington\, VT
 URL:https://vermont.com/calendar/the-nutcracker/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spanish Conversation
-DTSTART:20261201T163000
-DTEND:20261201T173000
-DTSTAMP:20261117T195530Z
-UID:1746b9ba549f7dc0865f3676e0d8b8@vermont-events
-DESCRIPTION:¿Hablas Español? Practice Spanish and meet other Spanish spe
- akers and learners at the weekly meetup. Beginners welcome. Every week thr
- ough Dec 01\, 2026.\n\nSources: Vermont Public
-LOCATION:Fletcher Free Library\, 235 College St
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/spanish-co
- nversation-04-09-2026-22-06-21
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VSO Holiday Pops
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:d5ae0cd486207e87dbd4f43b7ebf62@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra The VSO is celebrating the season w
  ith music that is both reflective and radiant—sending audiences home wit
@@ -522,7 +631,7 @@ BEGIN:VEVENT
 SUMMARY:Cool Yule! Holiday Concerts
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:30fd6ff02896da8031bced211b4e8c@vermont-events
 DESCRIPTION:Bella Voce Women's Chorus Kick off the holiday season with Bel
  la Voce Women's Chorus as we present Cool Yule! on Saturday\, December 5 a
@@ -535,7 +644,7 @@ BEGIN:VEVENT
 SUMMARY:VSO Holiday Pops
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:e5a61ae5827b81b24bef8ba7abca99@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra The VSO is celebrating the season w
  ith music that is both reflective and radiant—sending audiences home wit
@@ -548,7 +657,7 @@ BEGIN:VEVENT
 SUMMARY:VSO Holiday Pops
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:394222ac13ed7b7341541b5fee85a0@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra The VSO is celebrating the season w
  ith music that is both reflective and radiant—sending audiences home wit
@@ -558,10 +667,10 @@ LOCATION:Vermont Symphony Orchestra\, Burlington\, VT
 URL:https://vermont.com/calendar/vso-holiday-pops-3/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dec 8 | Brave Little State at 14th Star Brewery
+SUMMARY:Dec. 8 | Brave Little State at 14th Star Brewery
 DTSTART:20261208T173000
 DTEND:20261208T193000
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:4c2a00fcf37891014a73a9774ef8f3@vermont-events
 DESCRIPTION:Join the team from Brave Little State on December 8 in St. Alb
  ans to mingle with fellow listeners and choose a topic for a future episod
@@ -570,27 +679,28 @@ DESCRIPTION:Join the team from Brave Little State on December 8 in St. Alb
   three question askers will be invited to “stump” for their question a
  s the audience votes on their favorite. We’ll have some Brave Little Sta
  te merch to show off your fan status or for holiday gifting. Bring your bu
- rning questions about Vermont\, the show or how our stories get made. Tick
- ets are $10 and support Brave Little State and Vermont Public. The first 1
- 00 attendees will receive a vintage Lawson’s Brave Little State Pale Ale
-  pint glass. Click here to reserve your ticket . If space allows\, tickets
-  will be available at the door. This event is made possible with support f
- rom Union Bank of Vermont and New Hampshire \, Northwestern Medical Center
-  and Haddad Subaru of St. Albans . Schedule 5:30 p.m. - Event begins 5:45 
- p.m. - Welcome | Question submissions begin 6:30 p.m. - Question submissio
- n ends | Voting round begins 7:00 p.m. - Voting round ends | Winners are a
- nnounced 7:30 p.m. - Event ends Accommodations Vermont Public is committed
-  to providing access and accommodation for individuals with disabilities a
- t our events. To request accommodations\, please email events@vermontpubli
- c.org or call us at 802-655-9451 at least seven days in advance of the eve
- nt. Cancellation Policy Please let us know by emailing events@vermontpubli
- c.org if you are not able to join us so that we may release your tickets t
- o someone else. If tickets are able to be resold\, we are happy to offer a
-  refund\, minus the processing fees. Directions and Parking 14th Star Brew
- ing Co. is located at 133 N Main St #7\, St Albans City\, VT 05478 . There
-  is plenty of free parking in the St. Albans Shopping Center parking lot. 
- Other questions? Email us at events@vermontpublic.org .\n\nSources: Vermon
- t Public
+ rning questions about Vermont\, the show or how our stories get made. Plus
+ \, we’ll share a special\, sneak preview for a series we’re putting to
+ gether about Vermont’s northern border. Tickets are $10 and support Brav
+ e Little State and Vermont Public. The first 100 attendees will receive a 
+ vintage Lawson’s Brave Little State Pale Ale pint glass. Click here to r
+ eserve your ticket . If space allows\, tickets will be available at the do
+ or. This event is made possible with support from Union Bank of Vermont an
+ d New Hampshire \, Northwestern Medical Center and Haddad Subaru of St. Al
+ bans . Schedule 5:30 p.m. - Event begins 5:45 p.m. - Welcome | Question su
+ bmissions begin 6:30 p.m. - Question submission ends | Voting round begins
+  7:00 p.m. - Voting round ends | Winners are announced 7:30 p.m. - Event e
+ nds Accommodations Vermont Public is committed to providing access and acc
+ ommodation for individuals with disabilities at our events. To request acc
+ ommodations\, please email events@vermontpublic.org or call us at 802-655-
+ 9451 at least seven days in advance of the event. Cancellation Policy Plea
+ se let us know by emailing events@vermontpublic.org if you are not able to
+  join us so that we may release your tickets to someone else. If tickets a
+ re able to be resold\, we are happy to offer a refund\, minus the processi
+ ng fees. Directions and Parking 14th Star Brewing Co. is located at 133 N 
+ Main St #7\, St Albans City\, VT 05478 . There is plenty of free parking i
+ n the St. Albans Shopping Center parking lot. Other questions? Email us at
+  events@vermontpublic.org .\n\nSources: Vermont Public
 LOCATION:14th Star Brewery\, 133 N Main St Ste 7
 URL:https://www.vermontpublic.org/vermont-events-calendar/event/dec-1-brav
  e-little-state-at-14th-star-brewery-02-09-2026-10-48-40
@@ -599,7 +709,7 @@ BEGIN:VEVENT
 SUMMARY:Billings After Hours Mixology Workshop
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:65afefacbd26a94334dc7c262beabc@vermont-events
 DESCRIPTION:Billings Farm & Museum Warm up with this hands-on cocktail wor
  kshop! Learn how to pair ingredients\, build flavor\, and craft classic co
@@ -612,7 +722,7 @@ BEGIN:VEVENT
 SUMMARY:VSO Brass Quintet & Counterpoint Chorus
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:ddbfac742d629db9d3d20f2564fcd4@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra The holiday season continues with t
  he Brass Quintet & Counterpoint Chorus tour\, bringing intimate chamber pe
@@ -625,7 +735,7 @@ BEGIN:VEVENT
 SUMMARY:ELF: A Holiday Movie & Dining Experience @ The Depot (21+)
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:00fa55dd99a3a348a1094c2faaad65@vermont-events
 DESCRIPTION:The Depot Get ready for a festive\, feel-good holiday movie ni
  ght at The Depot featuring ELF on December 11th\, 2026! Join us as Buddy t
@@ -639,7 +749,7 @@ BEGIN:VEVENT
 SUMMARY:VSO Brass Quintet & Counterpoint Chorus
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:77c87810470353f7781bc1cb5c1a8d@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra The holiday season continues with t
  he Brass Quintet & Counterpoint Chorus tour\, bringing intimate chamber pe
@@ -652,7 +762,7 @@ BEGIN:VEVENT
 SUMMARY:Wine & Cheese Tasting at Retreat Farm Market
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:ed149cbff09d548f517985af5176dc@vermont-events
 DESCRIPTION:Retreat Farm Treat yourself to fine wines while we explore reg
  ions\, grapes\, makers\, and flavor profiles with local wine expert Jason 
@@ -666,7 +776,7 @@ BEGIN:VEVENT
 SUMMARY:Crowdsourced Cinema VT Screening: SHREK!
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:abc53fd22a6a628b96167e7298bab5@vermont-events
 DESCRIPTION:GNAT-TV Join GNAT-TV at the Community Library for a screening 
  of the 2026 Crowdsourced Cinema VT film\, Shrek! We're celebrating with a 
@@ -679,7 +789,7 @@ BEGIN:VEVENT
 SUMMARY:Santa Breakfast @ The Depot (All Ages)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:181d9480ee9f79e73f1b92560314ba@vermont-events
 DESCRIPTION:The Depot Join us and Santa Clause at The Depot for a holiday 
  breakfast on Saturday December 12\, 2026! Breakfast Buffet*\, Games\, Acti
@@ -692,7 +802,7 @@ BEGIN:VEVENT
 SUMMARY:VSO Brass Quintet & Counterpoint Chorus
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:202b666d12330013cfd532d1b8481f@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra The holiday season continues with t
  he Brass Quintet & Counterpoint Chorus tour\, bringing intimate chamber pe
@@ -705,7 +815,7 @@ BEGIN:VEVENT
 SUMMARY:Tidings & Tinsel
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:7d0f8df9885e1a36a700c448da5e61@vermont-events
 DESCRIPTION:Delamata Designs A Curated Holiday Market Get ready to eat\, s
  hop\, sip\, and be merry! Step into a little holiday magic at the beautifu
@@ -718,7 +828,7 @@ BEGIN:VEVENT
 SUMMARY:VSO Brass Quintet & Counterpoint Chorus
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:aab445de31008f37f67b0ea0b0495f@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra The holiday season continues with t
  he Brass Quintet & Counterpoint Chorus tour\, bringing intimate chamber pe
@@ -728,40 +838,10 @@ LOCATION:Vermont Symphony Orchestra\, Manchester\, VT
 URL:https://vermont.com/calendar/vso-brass-quintet-counterpoint-chorus-4/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Library Littles Playgroup
-DTSTART:20261216T110000
-DTEND:20261216T114500
-DTSTAMP:20261117T195530Z
-UID:bd99f16ed720eddbe2628dabad277e@vermont-events
-DESCRIPTION:Clap your hands for the Library Littles! This weekly drop-in p
- rogram brings babies\, toddlers\, and their caregivers together for playti
- me\, connection\, and community in a warm and nurturing environment. Each 
- week will feature a variety of different play stations for young children 
- to explore. Recommended for ages 0-3 with caregiver. No registration neces
- sary. Wednesdays\, 11-11:45 a.m. Every week through Dec 16\, 2026.\n\nSour
- ces: Vermont Public
-LOCATION:Fletcher Free Library\, 235 College St
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/library-li
- ttles-playgroup-04-09-2026-23-16-50
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stories & Songs for Library Littles
-DTSTART:20261216T110000
-DTEND:20261216T113000
-DTSTAMP:20261117T195530Z
-UID:9cfde861c7ccd24b8714cb7e0ae932@vermont-events
-DESCRIPTION:Storytime\, songs\, and open play for babies\, toddlers\, and 
- their caregivers! Youth Area. Drop-in\; no registration required. Every we
- ek through Dec 16\, 2026.\n\nSources: Vermont Public
-LOCATION:Fletcher Free Library\, 235 College St
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/stories-am
- p-songs-for-library-littles-04-09-2026-23-14-51
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Next Noel
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:447be7dea5ecb819007aef37864590@vermont-events
 DESCRIPTION:Delamata Designs THE NEXT NOEL A Hometown Holiday Concert Big 
  talent. Hometown heart. A whole lot of holiday magic! Get ready for an unf
@@ -774,7 +854,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Ho Ho Ho Down DJ Dance Party @ The Depot (21+)
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:03a7ac5ac9f78925c4e2570097eb12@vermont-events
 DESCRIPTION:The Depot Come celebrate the start of the Holidays and dance a
  t The Depot while DJ Lady Livy spins some great tunes on Friday December 1
@@ -788,7 +868,7 @@ BEGIN:VEVENT
 SUMMARY:Kids Night Out
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:c20a703bf7f343bfc8d5b4a85463eb@vermont-events
 DESCRIPTION:New England Center for Circus Arts Dimly-lit restaurants and t
  alking about school? Boooring. How about a night time hangout with your fr
@@ -801,7 +881,7 @@ BEGIN:VEVENT
 SUMMARY:Brattleboro Bal Folk: Intro Session & Dance Party
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:4706e3ed96bdf823d62a372c152069@vermont-events
 DESCRIPTION:Brattleboro Bal Folk 6-6:40 beginners' workshop 6:45-9 dance p
  arty Broad Brook Community Center\, 3940 Center Rd\, \, VT 05301 (just out
@@ -815,7 +895,7 @@ BEGIN:VEVENT
 SUMMARY:Christmas by Candlelight - Champlain Trio
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261117T195530Z
+DTSTAMP:20261118T192640Z
 UID:3c083c52e9849909348631cc889bfe@vermont-events
 DESCRIPTION:Spruce Peak Arts Showtime: 7pm Celebrate the magic of the holi
  day season with the Champlain Trio in Christmas by Candlelight\, a festive
@@ -825,45 +905,52 @@ LOCATION:Spruce Peak Arts\, Stowe\, VT
 URL:https://vermont.com/calendar/christmas-by-candlelight-champlain-trio/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crafters Drop-In
-DTSTART:20261222T180000
-DTEND:20261222T200000
-DTSTAMP:20261117T195530Z
-UID:9bc301e5fddea2f17de1e3619c4668@vermont-events
-DESCRIPTION:Connect with your community through crafting! Bring in your cu
- rrent knitting/crocheting/mending/embroidery/etc. project and join us for 
- an evening of creativity and conversation. All projects and all experience
-  levels are welcome! Every week through Dec 22\, 2026.\n\nSources: Vermont
-  Public
+SUMMARY:Italian Conversation Group
+DTSTART:20261224T120000
+DTEND:20261224T130000
+DTSTAMP:20261118T192640Z
+UID:330424a35203fe2f0548cad44736da@vermont-events
+DESCRIPTION:Esercitati a parlare italiano! Practice speaking the Italian l
+ anguage and meet others learning and native speakers. This group is best f
+ or those who can speak Italian in basic sentences\, at a minimum. Every we
+ ek through Dec 24\, 2026.\n\nSources: Vermont Public
 LOCATION:Fletcher Free Library\, 235 College St
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/crafters-d
- rop-in-04-09-2026-22-22-50
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/italian-co
+ nversation-group-04-09-2026-23-11-57
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sing-Along with Linda Bassick
-DTSTART:20261229T110000
-DTEND:20261229T233000
-DTSTAMP:20261117T195530Z
-UID:16b3f6505f233a73dd501dca6d1dfc@vermont-events
-DESCRIPTION:Dance\, wiggle\, and sing with local musician/early educator\,
-  Linda Bassick. This program is geared towards babies\, toddlers and presc
- hool aged kids\, but all ages are welcome! Every week through Dec 29\, 202
- 6.\n\nSources: Vermont Public
-LOCATION:Fletcher Free Library\, 235 College St
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/sing-along
- -with-linda-bassick-16-09-2026-00-11-08
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pause-Café Mardi - French Conversation
-DTSTART:20270209T170000
-DTEND:20270209T190000
-DTSTAMP:20261117T195530Z
-UID:47922240e791675e4b2c322afc7c41@vermont-events
-DESCRIPTION:Conversations in French. Francophones and French-language lear
- ners meet pour parler la belle langue. Drop-ins welcome. Every week throug
- h Feb 09\, 2027.\n\nSources: Vermont Public
-LOCATION:Fletcher Free Library\, 235 College St
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/pause-cafe
- -mardi-french-conversation-21-10-2026-21-02-55
+SUMMARY:Weekly Beginner West African Djembe Classes
+DTSTART:20301218T190000
+DTEND:20301218T203000
+DTSTAMP:20261118T192640Z
+UID:06f2e6a876e7c048e80cdf2d0025e7@vermont-events
+DESCRIPTION:Celebrating 30 years of ethnic hand percussion\, Drum Journeys
+  of Earth welcomes all members of the community to join their classes in e
+ thnic drumming and percussion\, including West African djembe\, Afro-Latin
+  conga\, Middle Eastern doumbec\, Native American medicine drum\, and pow-
+ wow drumming. Drum Journeys of Earth and its students are widely known for
+  leading the Rutland Halloween Parade as the Drumming Skeletons. Students 
+ have also performed at First Night\, at the Northern New York NAACP Fundra
+ ising dinner\, with Soul Bath Trance Dance\, and the Twice Baked Orchestra
+ . As a Broadway actor and founder/director of Drum Journeys of Earth (DJE)
+ \, Gary Meitrott brings his theatrical talents to drum circles\, performan
+ ces\, and workshops\, in addition to his weekly classes. His vibrations re
+ ach out to the community\, creating a ripple that touches all ages – inv
+ iting them to come and play with the drum. Rhythm is a universal language 
+ that allows us to connect with our inner selves and with community. It has
+  a meditative quality that calms our minds and reduces anxiety. Drumming a
+ lso boosts activity in the brain’s neural pathways\, leading to “brain
+  plasticity\,” enhanced memory\, and other cognitive skills. Research sh
+ ows that group drumming improves concentration\, reduces stress\, alleviat
+ es pain\, and boosts the immune system. What’s more\, the mental and phy
+ sical engagement is exhilarating\, making it ideal for young and old alike
+ . There is a multi-sensory engagement involving visual\, auditory\, and ta
+ ctile senses. For more information or to join Beginning classes\, please c
+ all 802-282-2581\, email Gary_Meitrott@comcast.net\, or log on to https://
+ garymeitrottunlimited.org/. Every week through Dec 21\, 2030.\n\nSources: 
+ Vermont Public
+LOCATION:Drum Journeys of Earth\, Bldg 5 of the Howe Center 1 Scale Avenue
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/weekly-beg
+ inner-west-african-djembe-classes-28-07-2026-20-02-52
 END:VEVENT
 END:VCALENDAR
