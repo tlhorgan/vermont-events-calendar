@@ -5,50 +5,10 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Vermont Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Brattleboro Bal Folk Community Dance
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-DTSTAMP:20261123T224517Z
-UID:633bca440799f20663c5941d75d33c@vermont-events
-DESCRIPTION:Brattleboro Bal Folk Sunday\, Nov 22 6-6:40 beginners' worksho
- p 6:45-9 dance party Broad Brook Community Center\, 3940 Center Rd\, \, VT
-  05301 (just outside Brattleboro) Fun\, accessible French and European...
- \n\nSources: Vermont.com
-LOCATION:Brattleboro Bal Folk\, Guilford\, VT
-URL:https://vermont.com/calendar/brattleboro-bal-folk-community-dance-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hunting Wives Pilates Social
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-DTSTAMP:20261123T224517Z
-UID:18676acd76b792510d49a51fc8286d@vermont-events
-DESCRIPTION:The Depot It’s that time of year…🦌 #iykyk And no\, you 
- don’t have to be a hunting wife to join us! Anyone is welcome to come fo
- r a good sweat\, then stick around for food & drinks @ Nelly’s 🍔 🍺
-  Sunday\, November...\n\nSources: Vermont.com
-LOCATION:The Depot\, St. Albans\, VT
-URL:https://vermont.com/calendar/hunting-wives-pilates-social/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinhaven Fall Concert Series at Cathedral Church of St. Paul
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-DTSTAMP:20261123T224517Z
-UID:a6aac7422a576e8f94dc9a2e1fff25@vermont-events
-DESCRIPTION:Kinhaven Music School Kinhaven celebrates the second year of i
- ts Semester Program intensive for exceptional high school string students 
- in collaboration with Burr and Burton Academy (BBA). Join us for inspiring
- ...\n\nSources: Vermont.com
-LOCATION:Kinhaven Music School\, Burlington\, VT
-URL:https://vermont.com/calendar/kinhaven-fall-concert-series-at-cathedral
- -church-of-st-paul/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:November Break Circus Camp
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:e673fbbfee1e9d5c432f46942cd3cf@vermont-events
 DESCRIPTION:New England Center for Circus Arts Leap into circus fun during
   November break! Campers of all ages will explore aerials\, acrobatics\, j
@@ -61,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Thanksgiving Eve with Barbie-N-Bones @ The Depot (21+)
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:5288c9d29586cd3bb3b3ba866170eb@vermont-events
 DESCRIPTION:The Depot THANKSGIVING EVE. LET’S GET WILD. Barbie N Bones i
  s taking over The Depot in for a full-on Thanksgiving Eve party! 🎸 Expe
@@ -73,10 +33,10 @@ URL:https://vermont.com/calendar/thanksgiving-eve-with-barbie-n-bones-the-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 Community Thanksgiving Dinner
-DTSTART:20261126T113000
-DTEND:20261126T133000
-DTSTAMP:20261123T224517Z
-UID:f2db8c59541353034cfc15c1459d5e@vermont-events
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20261124T212248Z
+UID:dbee7858240d88f50093afde4c521a@vermont-events
 DESCRIPTION:Join us to celebrate Thanksgiving with our community! This fre
  e dinner is sponsored by Vermont Law and Graduate School\, the Royalton an
  d Area Lions Club\, the South Royalton/Royalton community\, local business
@@ -88,8 +48,8 @@ DESCRIPTION:Join us to celebrate Thanksgiving with our community! This fre
  er 23-25 in Chase Community Center on the VLGS campus. Monetary donations 
  are also gratefully accepted and can be dropped off with Courtney Potter a
  t the VLGS Café. Please make checks payable to Vermont Law and Graduate S
- chool.\n\nSources: Vermont Public
-LOCATION:Vermont Law and Graduate School\, 164 Chelsea St
+ chool.\n\nSources: Vermont.com\, Vermont Public
+LOCATION:Vermont Law and Graduate School\, South Royalton\, VT
 URL:https://www.vermontpublic.org/vermont-events-calendar/event/2026-commu
  nity-thanksgiving-dinner-05-11-2026-16-14-10
 END:VEVENT
@@ -97,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:Free Thanksgiving Meals
 DTSTART:20261126T100000
 DTEND:20261126T120000
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:ab538884986693d5cf058de5f59836@vermont-events
 DESCRIPTION:REDCAN Restaurant REDCAN Restaurant 129 South Main Street\, Su
  ite 100 White River Junction \, Vermont 05001 8022389042 leslie@redcanvt.c
@@ -141,10 +101,36 @@ URL:https://www.vermontpublic.org/vermont-events-calendar/event/free-thank
  sgiving-meals-09-11-2026-10-13-11
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gobble Gobble Wobble 5K
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20261124T212248Z
+UID:91e75a33bc040a67122c05ac426ce0@vermont-events
+DESCRIPTION:Mountain Resort 's annual Thanksgiving morning 5K starts in th
+ e Village courtyard at 9 am\, loops around the resort and finishes back in
+  the Village. It is a family-friendly run\, held rain or shine\, with an..
+ .\n\nSources: Vermont.com
+LOCATION:Stratton Mountain Resort\, Stratton\, VT
+URL:https://vermont.com/calendar/gobble-gobble-wobble-5k/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thanksgiving Dinner at Table 43.1
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20261124T212248Z
+UID:c4d5f14f4a8e4a22b2b4be329c97fc@vermont-events
+DESCRIPTION:Mountain Resort Table 43.1 at serves Thanksgiving dinner on Th
+ ursday\, November 26\, in two seatings\, at 4 pm and 6:15 pm. The menu run
+ s from appetizers through dessert\, with gluten-free and vegetarian dishes
+ ...\n\nSources: Vermont.com
+LOCATION:Stratton Mountain Resort\, Stratton\, VT
+URL:https://vermont.com/calendar/thanksgiving-dinner-at-table-43-1/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Family Thanksgiving
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:a23cba7c6ae66c134aff9629ee3753@vermont-events
 DESCRIPTION:Billings Farm & Museum Give thanks\, share traditions\, and le
  arn together. Step back in time and explore a traditional Victorian-era Th
@@ -157,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:✨ Beary Magical Lights at Vermont Teddy Bear! 🧸
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:4f5ce01e00e11ea7bae1156f4f0f98@vermont-events
 DESCRIPTION:Vermont Teddy Bear This holiday season\, the Vermont Teddy Bea
  r Factory transforms into a glowing winter wonderland! Bring the family an
@@ -171,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:Brattleboro Festival of Miniatures
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:29431788a9c611787a5223ac9c6708@vermont-events
 DESCRIPTION:Brattleboro \, Vermont 05301 8024900364 festivalofminiatures@g
  mail.com https://www.festivalofminiatures.org/ Submit An Event Find out wh
@@ -219,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:Flannel Friday
 DTSTART:20261127T090000
 DTEND:20261127T170000
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:60b5d5647658b0a378e693760d4d12@vermont-events
 DESCRIPTION:Find your flannel\, find your deals\, and find a little holida
  y magic in downtown Montpelier! Throw on your favorite flannel and explore
@@ -239,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:MGB @ The Depot (21+)
 DTSTART:20261127T210000
 DTEND:20261128T000000
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:4da9e12ec652e7bcbb8a3951c8987b@vermont-events
 DESCRIPTION:The Depot 🎤 The Maplegrove Band 📍 The Depot 📆 Friday
  \, November 27th ⏰ 9pm - 12am 💰 $10 Cover Fee Important: MUST BE 21 o
@@ -248,10 +234,36 @@ LOCATION:The Depot\, St. Albans\, VT
 URL:https://vermont.com/calendar/mgb-the-depot-21/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Shelburne Lights
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+DTSTAMP:20261124T212248Z
+UID:3256cadf06b5b43e182f367ba9a5b9@vermont-events
+DESCRIPTION:Lights Experience Lights is the holiday season in Village\, No
+ vember 27 to January 9\, evenings\, around Museum's Winter Lights and Verm
+ ont Teddy Bear's Beary Magical Lights. Stroll the lit...\n\nSources: Vermo
+ nt.com
+LOCATION:Experience Shelburne\, Shelburne\, VT
+URL:https://vermont.com/calendar/shelburne-lights/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:the Putney Craft Tour
+DTSTART:20261127T100000
+DTEND:20261127T170000
+DTSTAMP:20261124T212248Z
+UID:b3f3363b252a7abf5f35859054dd71@vermont-events
+DESCRIPTION:the Craft Tour Craft Tour the Craft Tour November 27\, 28\, & 
+ 29\, 2026 A Legacy of Craft and Community You are invited to the 48th annu
+ al Craft Tour\, November 27\, 28\, & 29\, 2026\, 10am to 5pm. Visit painte
+ rs...\n\nSources: Vermont.com
+LOCATION:Putney Craft Tour\, Putney\, VT
+URL:https://vermont.com/calendar/the-putney-craft-tour/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bill Blagg Family Magic
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:11d2092a10d710ff297b288537f2cd@vermont-events
 DESCRIPTION:Spruce Peak Arts Join us for an incredible show filled with la
  ughter\, wonder and endless surprises as renowned magician Bill Blagg pres
@@ -261,10 +273,23 @@ LOCATION:Spruce Peak Arts\, Stowe\, VT
 URL:https://vermont.com/calendar/bill-blagg-family-magic/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Burton 50th Anniversary Party
+DTSTART:20261128T140000
+DTEND:20261128T180000
+DTSTAMP:20261124T212248Z
+UID:a0583764e33dafb6a38812028fb681@vermont-events
+DESCRIPTION:Mountain Resort The Burton Store in Village throws an apres pa
+ rty on Saturday\, November 28\, from 2 to 6 pm to mark Burton's 50th year.
+  DJ Dave Morris plays\, Burton runs raffles and giveaways\, and Valley...
+ \n\nSources: Vermont.com
+LOCATION:Stratton Mountain Resort\, Stratton\, VT
+URL:https://vermont.com/calendar/burton-50th-anniversary-party/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fundraiser: Teton Gravity Research movie screening
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:f362d7bed122350fcf774eb21bbe6b@vermont-events
 DESCRIPTION:Cavendish Town Park Benefitting the Cavendish Town Park Projec
  t. Doors open at 6:30 and the show starts at 7pm. We will have a silent au
@@ -275,10 +300,35 @@ URL:https://vermont.com/calendar/fundraiser-teton-gravity-research-movie-s
  creening/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Paint and Sip at Stratton
+DTSTART:20261128T173000
+DTEND:20261128T193000
+DTSTAMP:20261124T212248Z
+UID:def2aedf340dd0949d562dcb36de08@vermont-events
+DESCRIPTION:Paint and Sip at Mountain Resort Kate Franklin leads a guided 
+ painting class in the Wentworth Room at Black Bear Lodge on Saturday\, Nov
+ ember 28\, from 5:30 to 7:30 pm. You paint a Vermont winter scene to take 
+ home\, and beginners are...\n\nSources: Vermont.com
+LOCATION:Stratton Mountain Resort\, Stratton\, VT
+URL:https://vermont.com/calendar/paint-and-sip-at-stratton/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Snowlight in Vermont
+DTSTART:20261128T160000
+DTEND:20261128T173000
+DTSTAMP:20261124T212248Z
+UID:c0768bbdccac10c3c64220a08c1258@vermont-events
+DESCRIPTION:Mountain Resort is the Community Foundation's annual tree ligh
+ ting in Village\, held Saturday\, November 28\, from 4 to 5:30 pm. The eve
+ ning honors loved ones and opens the winter...\n\nSources: Vermont.com
+LOCATION:Stratton Mountain Resort\, Stratton\, VT
+URL:https://vermont.com/calendar/snowlight-in-vermont/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Nutcracker
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:05741c27bbb5b574aed43dca5a864e@vermont-events
 DESCRIPTION:Albany Berkshire Ballet Albany Berkshire Ballet brings the hol
  iday magic of its acclaimed Nutcracker production to once again on Novembe
@@ -288,26 +338,35 @@ LOCATION:Albany Berkshire Ballet\, Burlington\, VT
 URL:https://vermont.com/calendar/the-nutcracker/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shakespeare Out Loud
-DTSTART:20261130T160000
-DTEND:20261130T173000
-DTSTAMP:20261123T224517Z
-UID:070063a3fae04d54b34661eaadae9e@vermont-events
-DESCRIPTION:Gathering of interested adults to read aloud Shakespeare’s p
- lays. This Current Play: The Most Lamentable Tragedy of Romeo and Juliet b
- y William Shakespeare. No experience or expertise required\; we will gathe
- r\, select parts and read this engaging play aloud. Bring a text from whic
- h to read. All are welcome to come and read or sit and listen as the play 
- unfolds. Every week through Nov 30\, 2026.\n\nSources: Vermont Public
-LOCATION:Fletcher Free Library\, 235 College St
-URL:https://www.vermontpublic.org/vermont-events-calendar/event/shakespear
- e-out-loud-16-09-2026-00-21-37
+SUMMARY:Burton Step On Demo
+DTSTART:20261129T100000
+DTEND:20261129T150000
+DTSTAMP:20261124T212248Z
+UID:5b705f78a3e9256ec27ab172447110@vermont-events
+DESCRIPTION:Mountain Resort Burton offers free demos of its Step On boots 
+ and bindings at the Burton Store in Village on Sunday\, November 29\, from
+  10 am to 3 pm. Bring your own snowboard\, since the demo covers boots...
+ \n\nSources: Vermont.com
+LOCATION:Stratton Mountain Resort\, Stratton\, VT
+URL:https://vermont.com/calendar/burton-step-on-demo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meet Santa at Stratton
+DTSTART:20261129T110000
+DTEND:20261129T130000
+DTSTAMP:20261124T212248Z
+UID:181f908e669c775f019f8c74a77d14@vermont-events
+DESCRIPTION:Meet Santa at Mountain Resort Santa visits the Main Base Lodge
+  at on Sunday\, November 29\, from 11 am to 1 pm. Families can stop in to 
+ say hello and take photos. Free. Details:...\n\nSources: Vermont.com
+LOCATION:Stratton Mountain Resort\, Stratton\, VT
+URL:https://vermont.com/calendar/meet-santa-at-stratton/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spanish Conversation
 DTSTART:20261201T163000
 DTEND:20261201T173000
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:1746b9ba549f7dc0865f3676e0d8b8@vermont-events
 DESCRIPTION:¿Hablas Español? Practice Spanish and meet other Spanish spe
  akers and learners at the weekly meetup. Beginners welcome. Every week thr
@@ -317,10 +376,80 @@ URL:https://www.vermontpublic.org/vermont-events-calendar/event/spanish-co
  nversation-04-09-2026-22-06-21
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Shape and Shadow
+DTSTART:20261203T173000
+DTEND:20261203T190000
+DTSTAMP:20261124T212248Z
+UID:99a986e6d41f18b49d6f1464189acd@vermont-events
+DESCRIPTION:Mad RIver Valley Arts SHAPE & SHADOW: Animations by Hayley Mor
+ ris December 3\, 2026 – March 1\, 2027 Opening Reception: December 12\, 
+ 5:30–7pm Animation Master Class: January 9\, 2027\, 12-3:30pm (only 9 sp
+ ots left) Mad River...\n\nSources: Vermont.com
+LOCATION:Mad RIver Valley Arts\, Waitsfield\, VT
+URL:https://vermont.com/calendar/shape-and-shadow/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ikon Pass Stoke Weekend at Stratton - December
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20261124T212248Z
+UID:bc7b516eba427df264d76c11347c01@vermont-events
+DESCRIPTION:Ikon Pass Stoke Weekend at - December Mountain Resort The firs
+ t of four Ikon Pass Stoke Weekends at runs Friday through Sunday\, Decembe
+ r 4 to 6. Friday has live music at Mid-Mountain Lodge and the Ikon Pass Ra
+ ce Series\, a gated slalom on...\n\nSources: Vermont.com
+LOCATION:Stratton Mountain Resort\, Stratton\, VT
+URL:https://vermont.com/calendar/ikon-pass-stoke-weekend-at-stratton-decem
+ ber/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester Village Winter Market Quintessentially Vermont
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20261124T212248Z
+UID:2b3e0ece064acb48db360c6d6b47ec@vermont-events
+DESCRIPTION:Village Winter Market Quintessentially Vermont Village The per
+ fect event to usher in the Vermont's Wonderful Winter Season! Celebrate ou
+ r traditions\, holidays\, and the activities that make the Northshire so s
+ pecial this time of year! Bring your family\,...\n\nSources: Vermont.com
+LOCATION:Manchester Village\, Manchester\, VT
+URL:https://vermont.com/calendar/manchester-village-winter-market-quintess
+ entially-vermont/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peace Corps Story Telling Event
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20261124T212248Z
+UID:8504803a1523d77e8ba1556311c97b@vermont-events
+DESCRIPTION:UVM Peace Corps Join us for Real Stories. Global Impact.\, a P
+ eace Corps storytelling event featuring Returned Peace Corps Volunteers sh
+ aring firsthand experiences of service\, cultural exchange\, and the lasti
+ ng...\n\nSources: Vermont.com
+LOCATION:UVM Peace Corps\, Colchester\, VT
+URL:https://vermont.com/calendar/peace-corps-story-telling-event/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shelburne Village Night: Tree Lighting and Santa
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20261124T212248Z
+UID:def5e43ffbf29c99e35b9d3031a391@vermont-events
+DESCRIPTION:Village Night: Tree Lighting and Santa Parks and Recreation an
+ d Experience The first Lights Village Night in Village\, Friday\, December
+  4\, from 5:30 pm. Caroling on the Parade Grounds at 5:30 and the Town's h
+ oliday tree lit at 6\, then refreshments and the...\n\nSources: Vermont.co
+ m
+LOCATION:Shelburne Parks and Recreation and Experience Shelburne\, Shelbur
+ ne\, VT
+URL:https://vermont.com/calendar/shelburne-village-night-tree-lighting-and
+ -santa/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:VSO Holiday Pops
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:d5ae0cd486207e87dbd4f43b7ebf62@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra The VSO is celebrating the season w
  ith music that is both reflective and radiant—sending audiences home wit
@@ -333,7 +462,7 @@ BEGIN:VEVENT
 SUMMARY:Cool Yule! Holiday Concerts
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:30fd6ff02896da8031bced211b4e8c@vermont-events
 DESCRIPTION:Bella Voce Women's Chorus Kick off the holiday season with Bel
  la Voce Women's Chorus as we present Cool Yule! on Saturday\, December 5 a
@@ -343,10 +472,51 @@ LOCATION:Bella Voce Women's Chorus\, Colchester\, VT
 URL:https://vermont.com/calendar/cool-yule-holiday-concerts/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Holiday Market at BEARy Magical Lights
+DTSTART:20261205T150000
+DTEND:20261205T190000
+DTSTAMP:20261124T212248Z
+UID:a643bc9cec821bc34ff2f0c71c9038@vermont-events
+DESCRIPTION:Vermont Teddy Bear Vermont Teddy Bear Presents: ✨ !🧸 ✨J
+ oin us on Saturday December 5th from 3pm to 7pm for fun including: -Local 
+ Vermont Vendors -Hot Cocoa Bar -Face Painting -BEARy...\n\nSources: Vermon
+ t.com
+LOCATION:Vermont Teddy Bear\, Shelburne\, VT
+URL:https://vermont.com/calendar/holiday-market-at-beary-magical-lights/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kids Ski and Snowboard Free Week at Stratton
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261124T212248Z
+UID:a1ec56ffe0fe24bbc4cb7930ffd68d@vermont-events
+DESCRIPTION:Kids Ski and Snowboard Free Week at Mountain Resort Skiers and
+  riders 17 and under get free lift tickets at from Saturday\, December 5\,
+  through Friday\, December 11. The same week\, youth ski and snowboard les
+ sons are 60 percent off and rental...\n\nSources: Vermont.com
+LOCATION:Stratton Mountain Resort\, Stratton\, VT
+URL:https://vermont.com/calendar/kids-ski-and-snowboard-free-week-at-strat
+ ton/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vergennes Ho Ho Ho Holiday Roll Tractor Parade
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261124T212248Z
+UID:2739a88a6d220e320ccf21209ec43d@vermont-events
+DESCRIPTION:Ho Ho Ho Holiday Roll Tractor Parade Partnership An exciting n
+ ew holiday tradition has rolled into the Little City! Bundle up and head t
+ o downtown to explore the shops\, grab a bite\, enjoy some sweat treats\, 
+ and enjoy the show at 5PM!...\n\nSources: Vermont.com
+LOCATION:Vergennes Partnership\, Vergennes\, VT
+URL:https://vermont.com/calendar/vergennes-ho-ho-ho-holiday-roll-tractor-p
+ arade/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:VSO Holiday Pops
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:e5a61ae5827b81b24bef8ba7abca99@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra The VSO is celebrating the season w
  ith music that is both reflective and radiant—sending audiences home wit
@@ -359,7 +529,7 @@ BEGIN:VEVENT
 SUMMARY:VSO Holiday Pops
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:394222ac13ed7b7341541b5fee85a0@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra The VSO is celebrating the season w
  ith music that is both reflective and radiant—sending audiences home wit
@@ -372,7 +542,7 @@ BEGIN:VEVENT
 SUMMARY:Dec. 8 | Brave Little State at 14th Star Brewery
 DTSTART:20261208T173000
 DTEND:20261208T193000
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:4c2a00fcf37891014a73a9774ef8f3@vermont-events
 DESCRIPTION:Join the team from Brave Little State on December 8 in St. Alb
  ans to mingle with fellow listeners and choose a topic for a future episod
@@ -411,7 +581,7 @@ BEGIN:VEVENT
 SUMMARY:Billings After Hours Mixology Workshop
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:65afefacbd26a94334dc7c262beabc@vermont-events
 DESCRIPTION:Billings Farm & Museum Warm up with this hands-on cocktail wor
  kshop! Learn how to pair ingredients\, build flavor\, and craft classic co
@@ -421,10 +591,37 @@ LOCATION:Billings Farm & Museum\, Woodstock\, VT
 URL:https://vermont.com/calendar/billings-after-hours-mixology-workshop/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Deck the Hall: A Holiday Evening for the Whole Deerfield Valley
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+DTSTAMP:20261124T212248Z
+UID:b47b8bdfa96f21f4833aed87a4ab17@vermont-events
+DESCRIPTION:Friends of Historic Memorial Hall Deck the Hall is a holiday e
+ vening for the whole Deerfield Valley\, in three parts at Memorial Hall in
+  . 5:00 PM: The Holiday Hour (free). A classic holiday variety show in the
+  spirit of the...\n\nSources: Vermont.com
+LOCATION:Wilmington\, VT
+URL:https://vermont.com/calendar/deck-the-hall-a-holiday-evening-for-the-w
+ hole-deerfield-valley/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slope Style at the Museum: Runway
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+DTSTAMP:20261124T212248Z
+UID:de4cba735f6ca4d575f252d07dd37e@vermont-events
+DESCRIPTION:Four Seasons Sotheby's International Realty A first look at th
+ e 2027 ski styles presented by Four Seasons Sotheby's International Realty
+ . Join us for a fun evening featuring fashion\, light fare\, drinks\, and 
+ a raffle with fabulous prizes. Plus...\n\nSources: Vermont.com
+LOCATION:Four Seasons Sotheby's International Realty\, Stowe\, VT
+URL:https://vermont.com/calendar/slope-style-at-the-museum-runway/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:VSO Brass Quintet & Counterpoint Chorus
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:ddbfac742d629db9d3d20f2564fcd4@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra The holiday season continues with t
  he Brass Quintet & Counterpoint Chorus tour\, bringing intimate chamber pe
@@ -437,7 +634,7 @@ BEGIN:VEVENT
 SUMMARY:ELF: A Holiday Movie & Dining Experience @ The Depot (21+)
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:00fa55dd99a3a348a1094c2faaad65@vermont-events
 DESCRIPTION:The Depot Get ready for a festive\, feel-good holiday movie ni
  ght at The Depot featuring ELF on December 11th\, 2026! Join us as Buddy t
@@ -448,10 +645,24 @@ URL:https://vermont.com/calendar/elf-a-holiday-movie-dining-experience-the
  -depot-21/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Morristown Festival of Lights – Winter Wonder Around the World
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+DTSTAMP:20261124T212248Z
+UID:c567772825e355cb55677b287f0eb0@vermont-events
+DESCRIPTION:Alliance for Culture and Commerce December 11–12\, 2026 | Do
+ wntown \, VT Celebrate the season at Morristown's Festival of Lights! Frid
+ ay evening features a 5K night run\, holiday parade\, tree lighting\, and 
+ sing-along at Oxbow...\n\nSources: Vermont.com
+LOCATION:Morrisville Alliance for Culture and Commerce\, Morrisville\, VT
+URL:https://vermont.com/calendar/morristown-festival-of-lights-winter-wond
+ er-around-the-world/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:VSO Brass Quintet & Counterpoint Chorus
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:77c87810470353f7781bc1cb5c1a8d@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra The holiday season continues with t
  he Brass Quintet & Counterpoint Chorus tour\, bringing intimate chamber pe
@@ -464,7 +675,7 @@ BEGIN:VEVENT
 SUMMARY:Wine & Cheese Tasting at Retreat Farm Market
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:ed149cbff09d548f517985af5176dc@vermont-events
 DESCRIPTION:Retreat Farm Treat yourself to fine wines while we explore reg
  ions\, grapes\, makers\, and flavor profiles with local wine expert Jason 
@@ -478,7 +689,7 @@ BEGIN:VEVENT
 SUMMARY:Crowdsourced Cinema VT Screening: SHREK!
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:abc53fd22a6a628b96167e7298bab5@vermont-events
 DESCRIPTION:GNAT-TV Join GNAT-TV at the Community Library for a screening 
  of the 2026 Crowdsourced Cinema VT film\, Shrek! We're celebrating with a 
@@ -488,10 +699,36 @@ LOCATION:GNAT-TV\, Manchester\, VT
 URL:https://vermont.com/calendar/crowdsourced-cinema-vt-screening-shrek/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Handmade Holiday Market
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20261124T212248Z
+UID:ac81d8f9e58483577d8fd3882eb7f8@vermont-events
+DESCRIPTION:CraftStudies Studio & School You’re invited to kick off the 
+ holiday season at the ! Saturday\, December 12\, 2026 10A - 2P CraftStudie
+ s Studio & School 87 Maple Street \, VT At the Market\,...\n\nSources: Ver
+ mont.com
+LOCATION:CraftStudies Studio & School\, White River Junction\, VT
+URL:https://vermont.com/calendar/handmade-holiday-market/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holiday Markets
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20261124T212248Z
+UID:7e2f9bb75c556f459aa26f55a9f4cb@vermont-events
+DESCRIPTION:Farmers Market Join the Farmers Market to celebrate the Holida
+ y Season Farmers\, bakers\, artisans\, and crafters have been working hard
+  to make your holiday season bright Support Local Shop Local Live...\n\nSo
+ urces: Vermont.com
+LOCATION:Middlebury Farmers Market\, Middlebury\, VT
+URL:https://vermont.com/calendar/holiday-markets/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Santa Breakfast @ The Depot (All Ages)
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:181d9480ee9f79e73f1b92560314ba@vermont-events
 DESCRIPTION:The Depot Join us and Santa Clause at The Depot for a holiday 
  breakfast on Saturday December 12\, 2026! Breakfast Buffet*\, Games\, Acti
@@ -501,10 +738,36 @@ LOCATION:The Depot\, St. Albans\, VT
 URL:https://vermont.com/calendar/santa-breakfast-the-depot-all-ages/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Shelburne Lights Winter Festival
+DTSTART:20261212T170000
+DTEND:20261212T200000
+DTSTAMP:20261124T212248Z
+UID:b5a5506a307e0c3e8b1a9f38bc77c0@vermont-events
+DESCRIPTION:Lights Winter Festival Experience Saturday\, December 12\, 5 t
+ o 8 pm (and again Saturday\, December 19). The Lights Winter Festival is n
+ ew this year: two Saturday evenings on the Parade Grounds in Village\, aro
+ und the...\n\nSources: Vermont.com
+LOCATION:Experience Shelburne\, Shelburne\, VT
+URL:https://vermont.com/calendar/shelburne-lights-winter-festival/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slow Circuits: A Night of Immersive Ambient Sounds
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20261124T212248Z
+UID:485cef2f0b7668b866a54908fd80b8@vermont-events
+DESCRIPTION:Stage 33 Live and Visuals featuring synthesists Thorny\, TotoR
+ obyn\, and Not A Hedgehog and projection artists Johnny Gifford and Alien 
+ Touring begins at 6:00 PM on...\n\nSources: Vermont.com
+LOCATION:Stage 33 Live\, Bellows Falls\, VT
+URL:https://vermont.com/calendar/slow-circuits-a-night-of-immersive-ambien
+ t-sounds/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:VSO Brass Quintet & Counterpoint Chorus
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:202b666d12330013cfd532d1b8481f@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra The holiday season continues with t
  he Brass Quintet & Counterpoint Chorus tour\, bringing intimate chamber pe
@@ -514,10 +777,38 @@ LOCATION:Vermont Symphony Orchestra\, Burlington\, VT
 URL:https://vermont.com/calendar/vso-brass-quintet-counterpoint-chorus-3/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Freezy Cheeks 5K Series - American Flatbread Stowe
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+DTSTAMP:20261124T212248Z
+UID:acca0c6f8a0b2969c4371d3c2321ac@vermont-events
+DESCRIPTION:Freezy Cheeks 5K Series - American Flatbread RunVermont Join R
+ unVermont at American Flatbread on Mountain Road for their first race in t
+ he Freezy Cheeks 5K Series. The four-race series that features chip-timed 
+ 5Ks with an open-start format are held...\n\nSources: Vermont.com
+LOCATION:RunVermont\, Stowe\, VT
+URL:https://vermont.com/calendar/freezy-cheeks-5k-series-american-flatbrea
+ d-stowe/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philo Ridge Farm Fourth Annual Winter Holiday Market
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+DTSTAMP:20261124T212248Z
+UID:e87ed6f8ba5a700aee06a05bfcd664@vermont-events
+DESCRIPTION:Philo Ridge Farm Join us for Philo Ridge Farm’s fourth annua
+ l Winter Holiday Market on Sunday\, December 13\, from 10 a.m. to 3 p.m. i
+ n our historic Brick House and Farm Commons Barn. Shop farm-grown goods an
+ d gifts...\n\nSources: Vermont.com
+LOCATION:Philo Ridge Farm\, Charlotte\, VT
+URL:https://vermont.com/calendar/philo-ridge-farm-fourth-annual-winter-hol
+ iday-market/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tidings & Tinsel
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:7d0f8df9885e1a36a700c448da5e61@vermont-events
 DESCRIPTION:Delamata Designs A Curated Holiday Market Get ready to eat\, s
  hop\, sip\, and be merry! Step into a little holiday magic at the beautifu
@@ -530,7 +821,7 @@ BEGIN:VEVENT
 SUMMARY:VSO Brass Quintet & Counterpoint Chorus
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:aab445de31008f37f67b0ea0b0495f@vermont-events
 DESCRIPTION:Vermont Symphony Orchestra The holiday season continues with t
  he Brass Quintet & Counterpoint Chorus tour\, bringing intimate chamber pe
@@ -543,7 +834,7 @@ BEGIN:VEVENT
 SUMMARY:Library Littles Playgroup
 DTSTART:20261216T110000
 DTEND:20261216T114500
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:bd99f16ed720eddbe2628dabad277e@vermont-events
 DESCRIPTION:Clap your hands for the Library Littles! This weekly drop-in p
  rogram brings babies\, toddlers\, and their caregivers together for playti
@@ -560,7 +851,7 @@ BEGIN:VEVENT
 SUMMARY:Stories & Songs for Library Littles
 DTSTART:20261216T110000
 DTEND:20261216T113000
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:9cfde861c7ccd24b8714cb7e0ae932@vermont-events
 DESCRIPTION:Storytime\, songs\, and open play for babies\, toddlers\, and 
  their caregivers! Youth Area. Drop-in\; no registration required. Every we
@@ -573,7 +864,7 @@ BEGIN:VEVENT
 SUMMARY:The Next Noel
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:447be7dea5ecb819007aef37864590@vermont-events
 DESCRIPTION:Delamata Designs THE NEXT NOEL A Hometown Holiday Concert Big 
  talent. Hometown heart. A whole lot of holiday magic! Get ready for an unf
@@ -586,7 +877,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Ho Ho Ho Down DJ Dance Party @ The Depot (21+)
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:03a7ac5ac9f78925c4e2570097eb12@vermont-events
 DESCRIPTION:The Depot Come celebrate the start of the Holidays and dance a
  t The Depot while DJ Lady Livy spins some great tunes on Friday December 1
@@ -597,10 +888,36 @@ URL:https://vermont.com/calendar/holiday-ho-ho-ho-down-dj-dance-party-the-
  depot-21/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Holiday Markets
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+DTSTAMP:20261124T212248Z
+UID:5aa34d6d0bbbb755db928dcd0eba9d@vermont-events
+DESCRIPTION:Farmers Market 9 am - 1230 pm Shop Local Support Local Shop fo
+ r your Holiday season with local vendors: produce\, prepared foods\, jewel
+ ry\, pottery\, various fiber art designs\, maple products\, cbd products\,
+  art\, and...\n\nSources: Vermont.com
+LOCATION:Middlebury Farmers Market\, Middlebury\, VT
+URL:https://vermont.com/calendar/holiday-markets-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In a Pickle Rail Jam at Stratton
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+DTSTAMP:20261124T212248Z
+UID:5728361e48ca019dbc798641fd6e5d@vermont-events
+DESCRIPTION:In a Pickle Rail Jam at Mountain Resort Grillo's Pickles and P
+ arks bring back the In a Pickle Rail Jam for a second year on Saturday\, D
+ ecember 19\, at the bottom of Suntanner. Skiers and snowboarders compete i
+ n heats for ages 12...\n\nSources: Vermont.com
+LOCATION:Stratton Mountain Resort\, Stratton\, VT
+URL:https://vermont.com/calendar/in-a-pickle-rail-jam-at-stratton/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kids Night Out
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:c20a703bf7f343bfc8d5b4a85463eb@vermont-events
 DESCRIPTION:New England Center for Circus Arts Dimly-lit restaurants and t
  alking about school? Boooring. How about a night time hangout with your fr
@@ -610,10 +927,23 @@ LOCATION:New England Center for Circus Arts\, Brattleboro\, VT
 URL:https://vermont.com/calendar/kids-night-out-2/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Shelburne Lights Winter Festival
+DTSTART:20261219T170000
+DTEND:20261219T200000
+DTSTAMP:20261124T212248Z
+UID:2b009324cd2de95afa829052b83707@vermont-events
+DESCRIPTION:Lights Winter Festival Experience Saturday\, December 19\, 5 t
+ o 8 pm\, the second night of the festival (the first is December 12). The 
+ Lights Winter Festival is new this year: two Saturday evenings on the Para
+ de Grounds in...\n\nSources: Vermont.com
+LOCATION:Experience Shelburne\, Shelburne\, VT
+URL:https://vermont.com/calendar/shelburne-lights-winter-festival-2/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brattleboro Bal Folk: Intro Session & Dance Party
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:4706e3ed96bdf823d62a372c152069@vermont-events
 DESCRIPTION:Brattleboro Bal Folk 6-6:40 beginners' workshop 6:45-9 dance p
  arty Broad Brook Community Center\, 3940 Center Rd\, \, VT 05301 (just out
@@ -624,10 +954,27 @@ URL:https://vermont.com/calendar/brattleboro-bal-folk-intro-session-dance-
  party/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Holiday Window Contest
+DTSTART:20261220T090000
+DTEND:20261220T200000
+DTSTAMP:20261124T212248Z
+UID:0dac5e58969a9f195a0c0ab71d37e5@vermont-events
+DESCRIPTION:Which holiday window display is best in downtown Burlington? T
+ ake a stroll down the street and vote for your favorite! Look for the QR c
+ odes posted in participating businesses' storefronts to scan and vote duri
+ ng your visit. Presented by Northfield Savings Bank. Media Sponsors: Burli
+ ngton Area Newspaper Group\, Seven Days\, and Vermont Public. Get all the 
+ details at ChurchStreetMarketplace.com/holidays.\n\nSources: Vermont Publi
+ c
+LOCATION:Church Street Marketplace\, 131 Church St.
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/holiday-wi
+ ndow-contest-16-11-2026-12-47-51
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Christmas by Candlelight - Champlain Trio
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:3c083c52e9849909348631cc889bfe@vermont-events
 DESCRIPTION:Spruce Peak Arts Showtime: 7pm Celebrate the magic of the holi
  day season with the Champlain Trio in Christmas by Candlelight\, a festive
@@ -640,7 +987,7 @@ BEGIN:VEVENT
 SUMMARY:Crafters Drop-In
 DTSTART:20261222T180000
 DTEND:20261222T200000
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:9bc301e5fddea2f17de1e3619c4668@vermont-events
 DESCRIPTION:Connect with your community through crafting! Bring in your cu
  rrent knitting/crocheting/mending/embroidery/etc. project and join us for 
@@ -655,7 +1002,7 @@ BEGIN:VEVENT
 SUMMARY:Italian Conversation Group
 DTSTART:20261224T120000
 DTEND:20261224T130000
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:330424a35203fe2f0548cad44736da@vermont-events
 DESCRIPTION:Esercitati a parlare italiano! Practice speaking the Italian l
  anguage and meet others learning and native speakers. This group is best f
@@ -666,10 +1013,23 @@ URL:https://www.vermontpublic.org/vermont-events-calendar/event/italian-co
  nversation-group-04-09-2026-23-11-57
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:December Break Circus Camp
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+DTSTAMP:20261124T212248Z
+UID:5515161cb89f5d9e3af1d1012f3b63@vermont-events
+DESCRIPTION:New England Center for Circus Arts Let your child run away wit
+ h the circus and have the time of their life! At the New England Center fo
+ r Circus Arts your child will receive top-notch instruction in a noncompet
+ itive environment....\n\nSources: Vermont.com
+LOCATION:New England Center for Circus Arts\, Brattleboro\, VT
+URL:https://vermont.com/calendar/december-break-circus-camp/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sing-Along with Linda Bassick
 DTSTART:20261229T110000
 DTEND:20261229T233000
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:16b3f6505f233a73dd501dca6d1dfc@vermont-events
 DESCRIPTION:Dance\, wiggle\, and sing with local musician/early educator\,
   Linda Bassick. This program is geared towards babies\, toddlers and presc
@@ -680,10 +1040,91 @@ URL:https://www.vermontpublic.org/vermont-events-calendar/event/sing-along
  -with-linda-bassick-16-09-2026-00-11-08
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:New Year's Eve Celebration at Stratton
+DTSTART:20261231T173000
+DTEND:20261231T200000
+DTSTAMP:20261124T212248Z
+UID:2cd441faf15035847606a1bd87b172@vermont-events
+DESCRIPTION:New Year's Eve Celebration at Mountain Resort 's New Year's Ev
+ e has two ticketed parts at the Base Lodge. A family buffet dinner runs 5:
+ 30 to 8 pm: $69.99 for ages 13 and up and $39.99 for ages 6 to 12\, tax an
+ d gratuity included\, with...\n\nSources: Vermont.com
+LOCATION:Stratton Mountain Resort\, Stratton\, VT
+URL:https://vermont.com/calendar/new-years-eve-celebration-at-stratton/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Year's Eve Fireworks at Stratton
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261124T212248Z
+UID:e54fe4f8367ceef30f3f0868f9e288@vermont-events
+DESCRIPTION:New Year's Eve Fireworks at Mountain Resort rings in 2027 with
+  a torchlight parade down the mountain at 8:30 pm on Thursday\, December 3
+ 1\, followed by about 30 minutes of fireworks. Be in your spot in the main
+  Base Area by 8:30 for the...\n\nSources: Vermont.com
+LOCATION:Stratton Mountain Resort\, Stratton\, VT
+URL:https://vermont.com/calendar/new-years-eve-fireworks-at-stratton/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Year's Eve Guided Fireworks Hike at Stratton
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261124T212248Z
+UID:813107edbc5ea888eea5ab3fbeb307@vermont-events
+DESCRIPTION:New Year's Eve Guided Fireworks Hike at Mountain Resort A guid
+ ed snowshoe hike leaves the Courtyard on New Year's Eve and climbs to mid-
+ mountain to watch the fireworks. Meet at 7 pm for a 7:30 start\; the torch
+ light parade begins at 8:30 pm with...\n\nSources: Vermont.com
+LOCATION:Stratton Mountain Resort\, Stratton\, VT
+URL:https://vermont.com/calendar/new-years-eve-guided-fireworks-hike-at-st
+ ratton/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NEW YEAR’S ROCKIN’ EVE @ THE DEPOT W/ BARBIE N BONES! (21+)
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261124T212248Z
+UID:971be5073c471ba13b436b4df0836c@vermont-events
+DESCRIPTION:The Depot 🎉🥂 ROCKIN’ EVE DANCE PARTY 2027! 🥂🎸 We
+ ’re saying goodbye to 2026 and ringing in 2027 the only way we know how 
+ — with a packed dance floor\, incredible live music\, great friends\, an
+ d one unforgettable...\n\nSources: Vermont.com
+LOCATION:The Depot\, St. Albans\, VT
+URL:https://vermont.com/calendar/new-years-rockin-eve-the-depot-w-barbie-n
+ -bones-21/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ikon Pass Stoke Weekend at Stratton - January
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+DTSTAMP:20261124T212248Z
+UID:13fef3885a0e70bc418fe942a8a5a8@vermont-events
+DESCRIPTION:Ikon Pass Stoke Weekend at - January Mountain Resort The secon
+ d Ikon Pass Stoke Weekend at falls on New Year's weekend\, Friday through 
+ Sunday\, January 1 to 3. Friday has live music at Mid-Mountain Lodge and t
+ he Ikon Pass Race Series on...\n\nSources: Vermont.com
+LOCATION:Stratton Mountain Resort\, Stratton\, VT
+URL:https://vermont.com/calendar/ikon-pass-stoke-weekend-at-stratton-janua
+ ry/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Freestyle Teen Camp at Stratton
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+DTSTAMP:20261124T212248Z
+UID:2924bb82320045d1092b5e9bbd8d17@vermont-events
+DESCRIPTION:Intro to Freestyle Teen Camp at Mountain Resort A two-day terr
+ ain park camp for skiers and snowboarders ages 11 to 17 who ride at an int
+ ermediate to advanced level. Coaches work through jumps\, boxes and rails 
+ with a focus on technique and safe...\n\nSources: Vermont.com
+LOCATION:Stratton Mountain Resort\, Stratton\, VT
+URL:https://vermont.com/calendar/intro-to-freestyle-teen-camp-at-stratton/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brattleboro Festival of Miniatures
 DTSTART:20270110T090000
 DTEND:20270110T200000
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:3c5cc35827d00eaff34f53d153d5a9@vermont-events
 DESCRIPTION:The Brattleboro Festival of Miniatures brings local artists an
  d makers together to create a free and accessible townwide miniatures exhi
@@ -735,10 +1176,80 @@ URL:https://www.vermontpublic.org/vermont-events-calendar/event/brattlebor
  o-festival-of-miniatures-14-09-2026-10-28-32
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Women's 3-Day Ski and Snowboard Camp at Stratton
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+DTSTAMP:20261124T212248Z
+UID:84cba226a1a2b495e3278f51c35570@vermont-events
+DESCRIPTION:Women's 3-Day Ski and Snowboard Camp at Mountain Resort 's Mou
+ ntain Sports School runs a three-day women's camp Monday through Wednesday
+ \, January 11 to 13\, 2027. Certified female instructors coach small group
+ s sorted by pace\, terrain and goals....\n\nSources: Vermont.com
+LOCATION:Stratton Mountain Resort\, Stratton\, VT
+URL:https://vermont.com/calendar/womens-3-day-ski-and-snowboard-camp-at-st
+ ratton/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freezy Cheeks 5K Series - Black Flannel Brewing Co.
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+DTSTAMP:20261124T212248Z
+UID:1983201c9c3f3d2e02efc6ca90009e@vermont-events
+DESCRIPTION:RunVermont Join RunVermont at Black Flannel Brewing Co. in Ess
+ ex for the second race in their Freezy Cheeks 5K Series. The four-race ser
+ ies that features chip-timed 5Ks with an open-start format are held...\n\n
+ Sources: Vermont.com
+LOCATION:RunVermont\, Essex Junction\, VT
+URL:https://vermont.com/calendar/freezy-cheeks-5k-series-black-flannel-bre
+ wing-co/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweat & Snuggles Exercise Class + Puppy Cuddles @ The Depot
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+DTSTAMP:20261124T212248Z
+UID:543d4c0110143f85df533c90a93ac7@vermont-events
+DESCRIPTION:The Depot Come join us for a feel-good fitness fundraising eve
+ nt featuring adoptable puppies courtesy of For The Love of Dogs Vermont at
+  The Depot on January 31st! Join us for a one-of-a-kind fitness...\n\nSour
+ ces: Vermont.com
+LOCATION:The Depot\, St. Albans\, VT
+URL:https://vermont.com/calendar/sweat-snuggles-exercise-class-puppy-cuddl
+ es-the-depot/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ikon Pass Stoke Weekend at Stratton - February
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+DTSTAMP:20261124T212248Z
+UID:e54251166bf56c16ee44c5939bf46e@vermont-events
+DESCRIPTION:Ikon Pass Stoke Weekend at - February Mountain Resort The thir
+ d Ikon Pass Stoke Weekend at runs Friday through Sunday\, February 5 to 7.
+  Friday has live music at Mid-Mountain Lodge from noon to 3 pm and the Iko
+ n Pass Race Series on Suntanner...\n\nSources: Vermont.com
+LOCATION:Stratton Mountain Resort\, Stratton\, VT
+URL:https://vermont.com/calendar/ikon-pass-stoke-weekend-at-stratton-febru
+ ary/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freezy Cheeks 5K Series - Zero Gravity Brewing Co.
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+DTSTAMP:20261124T212248Z
+UID:c5f8cea25e8a2d8ea7d53d163f69a7@vermont-events
+DESCRIPTION:RunVermont Join RunVermont at Zero Gravity Craft Brewery in fo
+ r the third race in their Freezy Cheeks 5K Series. The four-race series th
+ at features chip-timed 5Ks with an open-start format are held...\n\nSource
+ s: Vermont.com
+LOCATION:RunVermont\, Burlington\, VT
+URL:https://vermont.com/calendar/freezy-cheeks-5k-series-zero-gravity-brew
+ ing-co/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pause-Café Mardi - French Conversation
 DTSTART:20270209T170000
 DTEND:20270209T190000
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:47922240e791675e4b2c322afc7c41@vermont-events
 DESCRIPTION:Conversations in French. Francophones and French-language lear
  ners meet pour parler la belle langue. Drop-ins welcome. Every week throug
@@ -748,10 +1259,105 @@ URL:https://www.vermontpublic.org/vermont-events-calendar/event/pause-cafe
  -mardi-french-conversation-21-10-2026-21-02-55
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Heavy Pour Band @ The Depot (21+)
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+DTSTAMP:20261124T212248Z
+UID:f2f44a98313aedb0317314b531d2b2@vermont-events
+DESCRIPTION:The Depot Come down to The Depot on February 13th (rescheduled
+  from Nov 7th) to dance to live music by Heavy Pour Band! $10 Cover Charge
+  which goes directly to the band! Cash Bar will be available as well as...
+ \n\nSources: Vermont.com
+LOCATION:The Depot\, St. Albans\, VT
+URL:https://vermont.com/calendar/heavy-pour-band-the-depot-21/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ikon Pass Stoke Weekend at Stratton - March
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+DTSTAMP:20261124T212248Z
+UID:ed9d35f43b232138c9962c57a5ddf5@vermont-events
+DESCRIPTION:Ikon Pass Stoke Weekend at - March Mountain Resort The fourth 
+ and final Ikon Pass Stoke Weekend of the season at runs Friday through Sun
+ day\, March 5 to 7. Friday has DJ Joe Bell at the Sun Bowl and the Ikon Pa
+ ss Race Series on Suntanner\,...\n\nSources: Vermont.com
+LOCATION:Stratton Mountain Resort\, Stratton\, VT
+URL:https://vermont.com/calendar/ikon-pass-stoke-weekend-at-stratton-march
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Experience Queen with Jesse Agan LIVE @ The Double E Theater
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+DTSTAMP:20261124T212248Z
+UID:f4eb6fe2f0bb8480e83adc17ae28eb@vermont-events
+DESCRIPTION:The Double E Experience Queen returns to The Double E in Essex
+ \, VT on March 13\, 2027! (Fun fact: This is also Jesse's 30th birthday!) 
+ 6pm Early Admission (First four rows only) 6:30pm Doors (GA) 7:30pm Show A
+ ll...\n\nSources: Vermont.com
+LOCATION:The Double E\, Essex Junction\, VT
+URL:https://vermont.com/calendar/experience-queen-with-jesse-agan-live-the
+ -double-e-theater/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#Shred4Nate Memorial Alpine Race at Stratton
+DTSTART:20270313T083000
+DTEND:20270313T160000
+DTSTAMP:20261124T212248Z
+UID:fe228df93781690c39fd5df423a5a7@vermont-events
+DESCRIPTION:#Shred4Nate Memorial Alpine Race at Mountain Resort The ninth 
+ annual #Shred4Nate Memorial Alpine Race takes place at on Saturday\, March
+  13\, 2027\, from 8:30 am to 4 pm. Organized by The Foundation\, it honors
+  Nathan M. Carreira\, who...\n\nSources: Vermont.com
+LOCATION:Stratton Mountain Resort\, Stratton\, VT
+URL:https://vermont.com/calendar/shred4nate-memorial-alpine-race-at-stratt
+ on/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freezy Cheeks 5K Series - Switchback Brewing Co.
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+DTSTAMP:20261124T212248Z
+UID:b2a9fbcc3bdc80c1b9c308b8027b56@vermont-events
+DESCRIPTION:RunVermont Join RunVermont at Switchback Brewing Co. in for th
+ e fourth and final race in their Freezy Cheeks 5K Series. The four-race se
+ ries that features chip-timed 5Ks with an open-start format are...\n\nSour
+ ces: Vermont.com
+LOCATION:RunVermont\, Burlington\, VT
+URL:https://vermont.com/calendar/freezy-cheeks-5k-series-switchback-brewin
+ g-co/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HOMESICK at Stratton
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+DTSTAMP:20261124T212248Z
+UID:82f157ff24d54dbc31dcb158e6f40f@vermont-events
+DESCRIPTION:HOMESICK at Mountain Resort HOMESICK\, produced by East Street
+  Archives and \, returns March 19 to 21\, 2027\, as a weekend of snowboard
+ ing and snowboard culture. On-snow competition is open to riders of all ag
+ es and...\n\nSources: Vermont.com
+LOCATION:Stratton Mountain Resort\, Stratton\, VT
+URL:https://vermont.com/calendar/homesick-at-stratton/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Furious Bongos Play Zappa
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+DTSTAMP:20261124T212248Z
+UID:65deae8e045ddd02fed93c76324084@vermont-events
+DESCRIPTION:The Double E Theater Frank Zappa’s music is no place to fake
+  it. The Furious Bongos bring their gloriously twisted take on his catalog
+  to The Double E Theater on Thursday\, April 22 at 7pm. These formidable p
+ layers have...\n\nSources: Vermont.com
+LOCATION:The Double E Theater\, Essex\, VT
+URL:https://vermont.com/calendar/the-furious-bongos-play-zappa/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Weekly Beginner West African Djembe Classes
 DTSTART:20301218T190000
 DTEND:20301218T203000
-DTSTAMP:20261123T224517Z
+DTSTAMP:20261124T212248Z
 UID:06f2e6a876e7c048e80cdf2d0025e7@vermont-events
 DESCRIPTION:Celebrating 30 years of ethnic hand percussion\, Drum Journeys
   of Earth welcomes all members of the community to join their classes in e
